@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [angular](../README.md) / SquareOrdersService
+[@bates-solutions/squareup API Reference](../../README.md) / [angular](../README.md) / SquareOrdersService
 
 # Class: SquareOrdersService
 
-Defined in: [src/angular/services/square-orders.service.ts:30](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-orders.service.ts#L30)
+Defined in: [src/angular/services/square-orders.service.ts:30](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/services/square-orders.service.ts#L30)
 
 Service for Square order operations
 
@@ -45,7 +45,7 @@ export class CheckoutComponent {
 
 > `readonly` **error$**: `Observable`\<`Error` \| `null`\>
 
-Defined in: [src/angular/services/square-orders.service.ts:38](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-orders.service.ts#L38)
+Defined in: [src/angular/services/square-orders.service.ts:38](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/services/square-orders.service.ts#L38)
 
 Observable of errors
 
@@ -55,7 +55,7 @@ Observable of errors
 
 > `readonly` **loading$**: `Observable`\<`boolean`\>
 
-Defined in: [src/angular/services/square-orders.service.ts:35](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-orders.service.ts#L35)
+Defined in: [src/angular/services/square-orders.service.ts:35](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/services/square-orders.service.ts#L35)
 
 Observable of loading state
 
@@ -65,7 +65,7 @@ Observable of loading state
 
 > **create**\<`T`\>(`request`, `apiEndpoint`): `Observable`\<`T`\>
 
-Defined in: [src/angular/services/square-orders.service.ts:48](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-orders.service.ts#L48)
+Defined in: [src/angular/services/square-orders.service.ts:48](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/services/square-orders.service.ts#L48)
 
 Create an order via backend API
 
@@ -101,7 +101,7 @@ Observable of the order response
 
 > **pay**\<`T`\>(`orderId`, `paymentIds`, `apiEndpoint`): `Observable`\<`T`\>
 
-Defined in: [src/angular/services/square-orders.service.ts:177](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-orders.service.ts#L177)
+Defined in: [src/angular/services/square-orders.service.ts:177](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/services/square-orders.service.ts#L177)
 
 Pay for an order
 
@@ -143,7 +143,7 @@ Observable of the paid order
 
 > **retrieve**\<`T`\>(`orderId`, `apiEndpoint`): `Observable`\<`T`\>
 
-Defined in: [src/angular/services/square-orders.service.ts:93](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-orders.service.ts#L93)
+Defined in: [src/angular/services/square-orders.service.ts:93](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/services/square-orders.service.ts#L93)
 
 Retrieve an order by ID
 
@@ -179,7 +179,7 @@ Observable of the order
 
 > **update**\<`T`\>(`orderId`, `request`, `apiEndpoint`): `Observable`\<`T`\>
 
-Defined in: [src/angular/services/square-orders.service.ts:130](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-orders.service.ts#L130)
+Defined in: [src/angular/services/square-orders.service.ts:130](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/services/square-orders.service.ts#L130)
 
 Update an order
 

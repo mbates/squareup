@@ -1,14 +1,14 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [server](../README.md) / createNextPagesWebhookHandler
+[@bates-solutions/squareup API Reference](../../README.md) / [server](../README.md) / createNextPagesWebhookHandler
 
 # Function: createNextPagesWebhookHandler()
 
 > **createNextPagesWebhookHandler**(`config`): (`req`, `res`) => `Promise`\<`void`\>
 
-Defined in: [src/server/middleware/nextjs.ts:138](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/server/middleware/nextjs.ts#L138)
+Defined in: [src/server/middleware/nextjs.ts:138](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/server/middleware/nextjs.ts#L138)
 
 Create a Next.js Pages Router API handler
 
@@ -44,7 +44,7 @@ API route handler
 
 ```typescript
 // pages/api/webhook.ts
-import { createNextPagesWebhookHandler } from '@bates/squareup/server';
+import { createNextPagesWebhookHandler } from '@bates-solutions/squareup/server';
 
 export const config = {
   api: { bodyParser: false }, // Required for raw body

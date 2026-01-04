@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [react](../README.md) / UsePaymentsOptions
+[@bates-solutions/squareup API Reference](../../README.md) / [react](../README.md) / UsePaymentsOptions
 
 # Interface: UsePaymentsOptions
 
-Defined in: [src/react/hooks/usePayments.ts:45](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L45)
+Defined in: [src/react/hooks/usePayments.ts:45](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L45)
 
 Options for usePayments hook
 
@@ -16,7 +16,7 @@ Options for usePayments hook
 
 > `optional` **apiEndpoint**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:47](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L47)
+Defined in: [src/react/hooks/usePayments.ts:47](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L47)
 
 API endpoint for creating payments (default: /api/payments)
 
@@ -26,7 +26,7 @@ API endpoint for creating payments (default: /api/payments)
 
 > `optional` **onError**: (`error`) => `void`
 
-Defined in: [src/react/hooks/usePayments.ts:51](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L51)
+Defined in: [src/react/hooks/usePayments.ts:51](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L51)
 
 Callback on payment error
 
@@ -46,7 +46,7 @@ Callback on payment error
 
 > `optional` **onSuccess**: (`payment`) => `void`
 
-Defined in: [src/react/hooks/usePayments.ts:49](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L49)
+Defined in: [src/react/hooks/usePayments.ts:49](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L49)
 
 Callback on successful payment
 

@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [react](../README.md) / Card
+[@bates-solutions/squareup API Reference](../../README.md) / [react](../README.md) / Card
 
 # Interface: Card
 
-Defined in: [src/react/types.ts:49](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L49)
+Defined in: [src/react/types.ts:49](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L49)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:49](https://github.com/mbates/squareup/blob/5cbc
 
 > **addEventListener**: (`event`, `callback`) => `void`
 
-Defined in: [src/react/types.ts:55](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L55)
+Defined in: [src/react/types.ts:55](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L55)
 
 #### Parameters
 
@@ -36,7 +36,7 @@ Defined in: [src/react/types.ts:55](https://github.com/mbates/squareup/blob/5cbc
 
 > **attach**: (`element`) => `Promise`\<`void`\>
 
-Defined in: [src/react/types.ts:50](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L50)
+Defined in: [src/react/types.ts:50](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L50)
 
 #### Parameters
 
@@ -54,7 +54,7 @@ Defined in: [src/react/types.ts:50](https://github.com/mbates/squareup/blob/5cbc
 
 > **configure**: (`options`) => `Promise`\<`void`\>
 
-Defined in: [src/react/types.ts:54](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L54)
+Defined in: [src/react/types.ts:54](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L54)
 
 #### Parameters
 
@@ -72,7 +72,7 @@ Defined in: [src/react/types.ts:54](https://github.com/mbates/squareup/blob/5cbc
 
 > **destroy**: () => `Promise`\<`void`\>
 
-Defined in: [src/react/types.ts:52](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L52)
+Defined in: [src/react/types.ts:52](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L52)
 
 #### Returns
 
@@ -84,7 +84,7 @@ Defined in: [src/react/types.ts:52](https://github.com/mbates/squareup/blob/5cbc
 
 > **detach**: () => `Promise`\<`void`\>
 
-Defined in: [src/react/types.ts:51](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L51)
+Defined in: [src/react/types.ts:51](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L51)
 
 #### Returns
 
@@ -96,7 +96,7 @@ Defined in: [src/react/types.ts:51](https://github.com/mbates/squareup/blob/5cbc
 
 > **removeEventListener**: (`event`, `callback`) => `void`
 
-Defined in: [src/react/types.ts:56](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L56)
+Defined in: [src/react/types.ts:56](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L56)
 
 #### Parameters
 
@@ -118,7 +118,7 @@ Defined in: [src/react/types.ts:56](https://github.com/mbates/squareup/blob/5cbc
 
 > **tokenize**: () => `Promise`\<[`TokenResult`](TokenResult.md)\>
 
-Defined in: [src/react/types.ts:53](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L53)
+Defined in: [src/react/types.ts:53](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L53)
 
 #### Returns
 

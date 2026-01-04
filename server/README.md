@@ -1,8 +1,8 @@
-[**@bates/squareup API Reference v0.1.0**](../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../README.md)
 
 ***
 
-[@bates/squareup API Reference](../README.md) / server
+[@bates-solutions/squareup API Reference](../README.md) / server
 
 # server
 

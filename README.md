@@ -1,8 +1,8 @@
-**@bates/squareup API Reference v0.1.0**
+**@bates-solutions/squareup API Reference v0.1.0**
 
 ***
 
-# @bates/squareup API Reference v0.1.0
+# @bates-solutions/squareup API Reference v0.1.0
 
 ## Modules
 

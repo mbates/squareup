@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [react](../README.md) / TokenResult
+[@bates-solutions/squareup API Reference](../../README.md) / [react](../README.md) / TokenResult
 
 # Interface: TokenResult
 
-Defined in: [src/react/types.ts:125](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L125)
+Defined in: [src/react/types.ts:125](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L125)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:125](https://github.com/mbates/squareup/blob/5cb
 
 > `optional` **details**: `object`
 
-Defined in: [src/react/types.ts:129](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L129)
+Defined in: [src/react/types.ts:129](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L129)
 
 #### billing?
 
@@ -54,7 +54,7 @@ Defined in: [src/react/types.ts:129](https://github.com/mbates/squareup/blob/5cb
 
 > `optional` **errors**: [`TokenError`](TokenError.md)[]
 
-Defined in: [src/react/types.ts:128](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L128)
+Defined in: [src/react/types.ts:128](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L128)
 
 ***
 
@@ -62,7 +62,7 @@ Defined in: [src/react/types.ts:128](https://github.com/mbates/squareup/blob/5cb
 
 > **status**: `"OK"` \| `"Cancel"` \| `"Error"`
 
-Defined in: [src/react/types.ts:126](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L126)
+Defined in: [src/react/types.ts:126](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L126)
 
 ***
 
@@ -70,4 +70,4 @@ Defined in: [src/react/types.ts:126](https://github.com/mbates/squareup/blob/5cb
 
 > `optional` **token**: `string`
 
-Defined in: [src/react/types.ts:127](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L127)
+Defined in: [src/react/types.ts:127](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L127)

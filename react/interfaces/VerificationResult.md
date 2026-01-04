@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [react](../README.md) / VerificationResult
+[@bates-solutions/squareup API Reference](../../README.md) / [react](../README.md) / VerificationResult
 
 # Interface: VerificationResult
 
-Defined in: [src/react/types.ts:166](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L166)
+Defined in: [src/react/types.ts:166](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L166)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:166](https://github.com/mbates/squareup/blob/5cb
 
 > **token**: `string`
 
-Defined in: [src/react/types.ts:167](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L167)
+Defined in: [src/react/types.ts:167](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L167)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [src/react/types.ts:167](https://github.com/mbates/squareup/blob/5cb
 
 > **userChallenged**: `boolean`
 
-Defined in: [src/react/types.ts:168](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L168)
+Defined in: [src/react/types.ts:168](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L168)

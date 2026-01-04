@@ -1,14 +1,14 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [react](../README.md) / useCustomers
+[@bates-solutions/squareup API Reference](../../README.md) / [react](../README.md) / useCustomers
 
 # Function: useCustomers()
 
 > **useCustomers**(`options`): [`UseCustomersReturn`](../interfaces/UseCustomersReturn.md)
 
-Defined in: [src/react/hooks/useCustomers.ts:108](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L108)
+Defined in: [src/react/hooks/useCustomers.ts:108](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L108)
 
 Hook for managing customers via your backend API
 

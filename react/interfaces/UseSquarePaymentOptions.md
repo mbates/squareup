@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [react](../README.md) / UseSquarePaymentOptions
+[@bates-solutions/squareup API Reference](../../README.md) / [react](../README.md) / UseSquarePaymentOptions
 
 # Interface: UseSquarePaymentOptions
 
-Defined in: [src/react/hooks/useSquarePayment.ts:8](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useSquarePayment.ts#L8)
+Defined in: [src/react/hooks/useSquarePayment.ts:8](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useSquarePayment.ts#L8)
 
 Options for useSquarePayment hook
 
@@ -16,7 +16,7 @@ Options for useSquarePayment hook
 
 > `optional` **cardOptions**: [`CardOptions`](CardOptions.md)
 
-Defined in: [src/react/hooks/useSquarePayment.ts:10](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useSquarePayment.ts#L10)
+Defined in: [src/react/hooks/useSquarePayment.ts:10](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useSquarePayment.ts#L10)
 
 Card input styling options
 
@@ -26,7 +26,7 @@ Card input styling options
 
 > `optional` **onError**: (`error`) => `void`
 
-Defined in: [src/react/hooks/useSquarePayment.ts:16](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useSquarePayment.ts#L16)
+Defined in: [src/react/hooks/useSquarePayment.ts:16](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useSquarePayment.ts#L16)
 
 Callback when an error occurs
 
@@ -46,7 +46,7 @@ Callback when an error occurs
 
 > `optional` **onReady**: () => `void`
 
-Defined in: [src/react/hooks/useSquarePayment.ts:12](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useSquarePayment.ts#L12)
+Defined in: [src/react/hooks/useSquarePayment.ts:12](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useSquarePayment.ts#L12)
 
 Callback when card is ready
 
@@ -60,7 +60,7 @@ Callback when card is ready
 
 > `optional` **onTokenize**: (`token`) => `void`
 
-Defined in: [src/react/hooks/useSquarePayment.ts:14](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useSquarePayment.ts#L14)
+Defined in: [src/react/hooks/useSquarePayment.ts:14](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useSquarePayment.ts#L14)
 
 Callback when tokenization succeeds
 

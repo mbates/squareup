@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [angular](../README.md) / ApplePay
+[@bates-solutions/squareup API Reference](../../README.md) / [angular](../README.md) / ApplePay
 
 # Interface: ApplePay
 
-Defined in: [src/angular/types.ts:42](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L42)
+Defined in: [src/angular/types.ts:42](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L42)
 
 ## Methods
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:42](https://github.com/mbates/squareup/blob/5c
 
 > **attach**(`element`, `options?`): `Promise`\<`void`\>
 
-Defined in: [src/angular/types.ts:43](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L43)
+Defined in: [src/angular/types.ts:43](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L43)
 
 #### Parameters
 
@@ -36,7 +36,7 @@ Defined in: [src/angular/types.ts:43](https://github.com/mbates/squareup/blob/5c
 
 > **destroy**(): `Promise`\<`void`\>
 
-Defined in: [src/angular/types.ts:44](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L44)
+Defined in: [src/angular/types.ts:44](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L44)
 
 #### Returns
 
@@ -48,7 +48,7 @@ Defined in: [src/angular/types.ts:44](https://github.com/mbates/squareup/blob/5c
 
 > **tokenize**(): `Promise`\<[`TokenResult`](TokenResult.md)\>
 
-Defined in: [src/angular/types.ts:45](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L45)
+Defined in: [src/angular/types.ts:45](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L45)
 
 #### Returns
 

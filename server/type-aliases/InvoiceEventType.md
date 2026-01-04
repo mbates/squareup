@@ -1,16 +1,16 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [server](../README.md) / InvoiceEventType
+[@bates-solutions/squareup API Reference](../../README.md) / [server](../README.md) / InvoiceEventType
 
 # Type Alias: InvoiceEventType
 
 > **InvoiceEventType** = `"invoice.created"` \| `"invoice.updated"` \| `"invoice.published"` \| `"invoice.payment_made"` \| `"invoice.canceled"`
 
-Defined in: [src/server/types.ts:29](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/server/types.ts#L29)
+Defined in: [src/server/types.ts:29](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/server/types.ts#L29)
 
-@bates/squareup/server
+@bates-solutions/squareup/server
 
 Server utilities for handling Square webhooks
 
@@ -18,7 +18,7 @@ Server utilities for handling Square webhooks
 
 ```typescript
 // Next.js App Router
-import { createNextWebhookHandler } from '@bates/squareup/server';
+import { createNextWebhookHandler } from '@bates-solutions/squareup/server';
 
 export const POST = createNextWebhookHandler({
   signatureKey: process.env.SQUARE_WEBHOOK_KEY!,
@@ -33,7 +33,7 @@ export const POST = createNextWebhookHandler({
 ```typescript
 // Express
 import express from 'express';
-import { createExpressWebhookHandler } from '@bates/squareup/server';
+import { createExpressWebhookHandler } from '@bates-solutions/squareup/server';
 
 const app = express();
 app.use('/webhook', express.raw({ type: 'application/json' }));

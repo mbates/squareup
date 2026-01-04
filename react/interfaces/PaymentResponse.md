@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [react](../README.md) / PaymentResponse
+[@bates-solutions/squareup API Reference](../../README.md) / [react](../README.md) / PaymentResponse
 
 # Interface: PaymentResponse
 
-Defined in: [src/react/hooks/usePayments.ts:29](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L29)
+Defined in: [src/react/hooks/usePayments.ts:29](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L29)
 
 Payment response
 
@@ -16,7 +16,7 @@ Payment response
 
 > **amount**: `number`
 
-Defined in: [src/react/hooks/usePayments.ts:32](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L32)
+Defined in: [src/react/hooks/usePayments.ts:32](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L32)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/react/hooks/usePayments.ts:32](https://github.com/mbates/square
 
 > `optional` **createdAt**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:39](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L39)
+Defined in: [src/react/hooks/usePayments.ts:39](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L39)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/react/hooks/usePayments.ts:39](https://github.com/mbates/square
 
 > **currency**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:33](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L33)
+Defined in: [src/react/hooks/usePayments.ts:33](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L33)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/react/hooks/usePayments.ts:33](https://github.com/mbates/square
 
 > `optional` **customerId**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:38](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L38)
+Defined in: [src/react/hooks/usePayments.ts:38](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L38)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/react/hooks/usePayments.ts:38](https://github.com/mbates/square
 
 > **id**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:30](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L30)
+Defined in: [src/react/hooks/usePayments.ts:30](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L30)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/react/hooks/usePayments.ts:30](https://github.com/mbates/square
 
 > `optional` **orderId**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:37](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L37)
+Defined in: [src/react/hooks/usePayments.ts:37](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L37)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/react/hooks/usePayments.ts:37](https://github.com/mbates/square
 
 > `optional` **receiptNumber**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:35](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L35)
+Defined in: [src/react/hooks/usePayments.ts:35](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L35)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [src/react/hooks/usePayments.ts:35](https://github.com/mbates/square
 
 > `optional` **receiptUrl**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:36](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L36)
+Defined in: [src/react/hooks/usePayments.ts:36](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L36)
 
 ***
 
@@ -80,7 +80,7 @@ Defined in: [src/react/hooks/usePayments.ts:36](https://github.com/mbates/square
 
 > `optional` **sourceType**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:34](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L34)
+Defined in: [src/react/hooks/usePayments.ts:34](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L34)
 
 ***
 
@@ -88,4 +88,4 @@ Defined in: [src/react/hooks/usePayments.ts:34](https://github.com/mbates/square
 
 > **status**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:31](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L31)
+Defined in: [src/react/hooks/usePayments.ts:31](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L31)

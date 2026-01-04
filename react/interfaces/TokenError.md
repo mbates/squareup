@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [react](../README.md) / TokenError
+[@bates-solutions/squareup API Reference](../../README.md) / [react](../README.md) / TokenError
 
 # Interface: TokenError
 
-Defined in: [src/react/types.ts:143](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L143)
+Defined in: [src/react/types.ts:143](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L143)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:143](https://github.com/mbates/squareup/blob/5cb
 
 > `optional` **field**: `string`
 
-Defined in: [src/react/types.ts:146](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L146)
+Defined in: [src/react/types.ts:146](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L146)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/react/types.ts:146](https://github.com/mbates/squareup/blob/5cb
 
 > **message**: `string`
 
-Defined in: [src/react/types.ts:145](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L145)
+Defined in: [src/react/types.ts:145](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L145)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/react/types.ts:145](https://github.com/mbates/squareup/blob/5cb
 
 > **type**: `string`
 
-Defined in: [src/react/types.ts:144](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L144)
+Defined in: [src/react/types.ts:144](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L144)

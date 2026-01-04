@@ -1,14 +1,14 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [server](../README.md) / parseNextWebhook
+[@bates-solutions/squareup API Reference](../../README.md) / [server](../README.md) / parseNextWebhook
 
 # Function: parseNextWebhook()
 
 > **parseNextWebhook**(`request`, `signatureKey`, `notificationUrl?`): `Promise`\<[`WebhookEvent`](../interfaces/WebhookEvent.md)\<`unknown`\>\>
 
-Defined in: [src/server/middleware/nextjs.ts:238](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/server/middleware/nextjs.ts#L238)
+Defined in: [src/server/middleware/nextjs.ts:238](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/server/middleware/nextjs.ts#L238)
 
 Utility to parse webhook event from Next.js request
 
@@ -48,7 +48,7 @@ Error if verification fails
 
 ```typescript
 // app/api/webhook/route.ts
-import { parseNextWebhook } from '@bates/squareup/server';
+import { parseNextWebhook } from '@bates-solutions/squareup/server';
 
 export async function POST(request: Request) {
   const event = await parseNextWebhook(

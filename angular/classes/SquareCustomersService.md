@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [angular](../README.md) / SquareCustomersService
+[@bates-solutions/squareup API Reference](../../README.md) / [angular](../README.md) / SquareCustomersService
 
 # Class: SquareCustomersService
 
-Defined in: [src/angular/services/square-customers.service.ts:30](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-customers.service.ts#L30)
+Defined in: [src/angular/services/square-customers.service.ts:30](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/services/square-customers.service.ts#L30)
 
 Service for Square customer operations
 
@@ -45,7 +45,7 @@ export class CustomerComponent {
 
 > `readonly` **error$**: `Observable`\<`Error` \| `null`\>
 
-Defined in: [src/angular/services/square-customers.service.ts:38](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-customers.service.ts#L38)
+Defined in: [src/angular/services/square-customers.service.ts:38](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/services/square-customers.service.ts#L38)
 
 Observable of errors
 
@@ -55,7 +55,7 @@ Observable of errors
 
 > `readonly` **loading$**: `Observable`\<`boolean`\>
 
-Defined in: [src/angular/services/square-customers.service.ts:35](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-customers.service.ts#L35)
+Defined in: [src/angular/services/square-customers.service.ts:35](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/services/square-customers.service.ts#L35)
 
 Observable of loading state
 
@@ -65,7 +65,7 @@ Observable of loading state
 
 > **create**\<`T`\>(`request`, `apiEndpoint`): `Observable`\<`T`\>
 
-Defined in: [src/angular/services/square-customers.service.ts:47](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-customers.service.ts#L47)
+Defined in: [src/angular/services/square-customers.service.ts:47](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/services/square-customers.service.ts#L47)
 
 Create a customer via backend API
 
@@ -101,7 +101,7 @@ Observable of the customer response
 
 > **delete**(`customerId`, `apiEndpoint`): `Observable`\<`void`\>
 
-Defined in: [src/angular/services/square-customers.service.ts:170](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-customers.service.ts#L170)
+Defined in: [src/angular/services/square-customers.service.ts:170](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/services/square-customers.service.ts#L170)
 
 Delete a customer
 
@@ -131,7 +131,7 @@ Observable that completes on success
 
 > **retrieve**\<`T`\>(`customerId`, `apiEndpoint`): `Observable`\<`T`\>
 
-Defined in: [src/angular/services/square-customers.service.ts:92](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-customers.service.ts#L92)
+Defined in: [src/angular/services/square-customers.service.ts:92](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/services/square-customers.service.ts#L92)
 
 Retrieve a customer by ID
 
@@ -167,7 +167,7 @@ Observable of the customer
 
 > **search**\<`T`\>(`query`, `apiEndpoint`): `Observable`\<`T`\>
 
-Defined in: [src/angular/services/square-customers.service.ts:205](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-customers.service.ts#L205)
+Defined in: [src/angular/services/square-customers.service.ts:205](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/services/square-customers.service.ts#L205)
 
 Search for customers
 
@@ -213,7 +213,7 @@ Observable of matching customers
 
 > **update**\<`T`\>(`customerId`, `request`, `apiEndpoint`): `Observable`\<`T`\>
 
-Defined in: [src/angular/services/square-customers.service.ts:129](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-customers.service.ts#L129)
+Defined in: [src/angular/services/square-customers.service.ts:129](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/services/square-customers.service.ts#L129)
 
 Update a customer
 

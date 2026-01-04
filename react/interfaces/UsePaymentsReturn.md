@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [react](../README.md) / UsePaymentsReturn
+[@bates-solutions/squareup API Reference](../../README.md) / [react](../README.md) / UsePaymentsReturn
 
 # Interface: UsePaymentsReturn
 
-Defined in: [src/react/hooks/usePayments.ts:57](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L57)
+Defined in: [src/react/hooks/usePayments.ts:57](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L57)
 
 Return type for usePayments hook
 
@@ -20,7 +20,7 @@ Return type for usePayments hook
 
 > **create**: (`options`) => `Promise`\<[`PaymentResponse`](PaymentResponse.md)\>
 
-Defined in: [src/react/hooks/usePayments.ts:59](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L59)
+Defined in: [src/react/hooks/usePayments.ts:59](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L59)
 
 Create a new payment
 
@@ -40,7 +40,7 @@ Create a new payment
 
 > **data**: [`PaymentResponse`](PaymentResponse.md) \| `null`
 
-Defined in: [src/react/types.ts:208](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L208)
+Defined in: [src/react/types.ts:208](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L208)
 
 #### Inherited from
 
@@ -52,7 +52,7 @@ Defined in: [src/react/types.ts:208](https://github.com/mbates/squareup/blob/5cb
 
 > **error**: `Error` \| `null`
 
-Defined in: [src/react/types.ts:209](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L209)
+Defined in: [src/react/types.ts:209](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L209)
 
 #### Inherited from
 
@@ -64,7 +64,7 @@ Defined in: [src/react/types.ts:209](https://github.com/mbates/squareup/blob/5cb
 
 > **loading**: `boolean`
 
-Defined in: [src/react/types.ts:210](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L210)
+Defined in: [src/react/types.ts:210](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L210)
 
 #### Inherited from
 
@@ -76,7 +76,7 @@ Defined in: [src/react/types.ts:210](https://github.com/mbates/squareup/blob/5cb
 
 > **reset**: () => `void`
 
-Defined in: [src/react/hooks/usePayments.ts:61](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/usePayments.ts#L61)
+Defined in: [src/react/hooks/usePayments.ts:61](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L61)
 
 Reset the hook state
 

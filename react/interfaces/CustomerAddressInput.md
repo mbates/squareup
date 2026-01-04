@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [react](../README.md) / CustomerAddressInput
+[@bates-solutions/squareup API Reference](../../README.md) / [react](../README.md) / CustomerAddressInput
 
 # Interface: CustomerAddressInput
 
-Defined in: [src/react/hooks/useCustomers.ts:7](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L7)
+Defined in: [src/react/hooks/useCustomers.ts:7](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L7)
 
 Customer address input
 
@@ -16,7 +16,7 @@ Customer address input
 
 > `optional` **addressLine1**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:8](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L8)
+Defined in: [src/react/hooks/useCustomers.ts:8](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L8)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/react/hooks/useCustomers.ts:8](https://github.com/mbates/square
 
 > `optional` **addressLine2**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:9](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L9)
+Defined in: [src/react/hooks/useCustomers.ts:9](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L9)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/react/hooks/useCustomers.ts:9](https://github.com/mbates/square
 
 > `optional` **administrativeDistrictLevel1**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:11](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L11)
+Defined in: [src/react/hooks/useCustomers.ts:11](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L11)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/react/hooks/useCustomers.ts:11](https://github.com/mbates/squar
 
 > `optional` **country**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:13](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L13)
+Defined in: [src/react/hooks/useCustomers.ts:13](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L13)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/react/hooks/useCustomers.ts:13](https://github.com/mbates/squar
 
 > `optional` **locality**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:10](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L10)
+Defined in: [src/react/hooks/useCustomers.ts:10](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L10)
 
 ***
 
@@ -56,4 +56,4 @@ Defined in: [src/react/hooks/useCustomers.ts:10](https://github.com/mbates/squar
 
 > `optional` **postalCode**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:12](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L12)
+Defined in: [src/react/hooks/useCustomers.ts:12](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L12)

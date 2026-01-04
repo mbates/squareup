@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [react](../README.md) / UseCatalogReturn
+[@bates-solutions/squareup API Reference](../../README.md) / [react](../README.md) / UseCatalogReturn
 
 # Interface: UseCatalogReturn
 
-Defined in: [src/react/hooks/useCatalog.ts:69](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCatalog.ts#L69)
+Defined in: [src/react/hooks/useCatalog.ts:69](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L69)
 
 Return type for useCatalog hook
 
@@ -20,7 +20,7 @@ Return type for useCatalog hook
 
 > **data**: [`CatalogItemResponse`](CatalogItemResponse.md)[] \| `null`
 
-Defined in: [src/react/types.ts:217](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L217)
+Defined in: [src/react/types.ts:217](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L217)
 
 #### Inherited from
 
@@ -32,7 +32,7 @@ Defined in: [src/react/types.ts:217](https://github.com/mbates/squareup/blob/5cb
 
 > **error**: `Error` \| `null`
 
-Defined in: [src/react/types.ts:218](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L218)
+Defined in: [src/react/types.ts:218](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L218)
 
 #### Inherited from
 
@@ -44,7 +44,7 @@ Defined in: [src/react/types.ts:218](https://github.com/mbates/squareup/blob/5cb
 
 > **get**: (`objectId`) => `Promise`\<[`CatalogItemResponse`](CatalogItemResponse.md)\>
 
-Defined in: [src/react/hooks/useCatalog.ts:73](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCatalog.ts#L73)
+Defined in: [src/react/hooks/useCatalog.ts:73](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L73)
 
 Get a catalog item by ID
 
@@ -64,7 +64,7 @@ Get a catalog item by ID
 
 > **list**: (`type`, `limit?`) => `Promise`\<[`CatalogItemResponse`](CatalogItemResponse.md)[]\>
 
-Defined in: [src/react/hooks/useCatalog.ts:75](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCatalog.ts#L75)
+Defined in: [src/react/hooks/useCatalog.ts:75](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L75)
 
 List items by type
 
@@ -88,7 +88,7 @@ List items by type
 
 > **loading**: `boolean`
 
-Defined in: [src/react/types.ts:219](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L219)
+Defined in: [src/react/types.ts:219](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L219)
 
 #### Inherited from
 
@@ -100,7 +100,7 @@ Defined in: [src/react/types.ts:219](https://github.com/mbates/squareup/blob/5cb
 
 > **refetch**: () => `Promise`\<`void`\>
 
-Defined in: [src/react/types.ts:220](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L220)
+Defined in: [src/react/types.ts:220](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L220)
 
 #### Returns
 
@@ -116,7 +116,7 @@ Defined in: [src/react/types.ts:220](https://github.com/mbates/squareup/blob/5cb
 
 > **search**: (`options?`) => `Promise`\<[`CatalogItemResponse`](CatalogItemResponse.md)[]\>
 
-Defined in: [src/react/hooks/useCatalog.ts:71](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCatalog.ts#L71)
+Defined in: [src/react/hooks/useCatalog.ts:71](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L71)
 
 Search catalog items
 

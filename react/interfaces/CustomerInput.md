@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [react](../README.md) / CustomerInput
+[@bates-solutions/squareup API Reference](../../README.md) / [react](../README.md) / CustomerInput
 
 # Interface: CustomerInput
 
-Defined in: [src/react/hooks/useCustomers.ts:19](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L19)
+Defined in: [src/react/hooks/useCustomers.ts:19](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L19)
 
 Customer creation/update options
 
@@ -16,7 +16,7 @@ Customer creation/update options
 
 > `optional` **address**: [`CustomerAddressInput`](CustomerAddressInput.md)
 
-Defined in: [src/react/hooks/useCustomers.ts:28](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L28)
+Defined in: [src/react/hooks/useCustomers.ts:28](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L28)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/react/hooks/useCustomers.ts:28](https://github.com/mbates/squar
 
 > `optional` **companyName**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:24](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L24)
+Defined in: [src/react/hooks/useCustomers.ts:24](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L24)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/react/hooks/useCustomers.ts:24](https://github.com/mbates/squar
 
 > `optional` **emailAddress**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:22](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L22)
+Defined in: [src/react/hooks/useCustomers.ts:22](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L22)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/react/hooks/useCustomers.ts:22](https://github.com/mbates/squar
 
 > `optional` **familyName**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:21](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L21)
+Defined in: [src/react/hooks/useCustomers.ts:21](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L21)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/react/hooks/useCustomers.ts:21](https://github.com/mbates/squar
 
 > `optional` **givenName**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:20](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L20)
+Defined in: [src/react/hooks/useCustomers.ts:20](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L20)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/react/hooks/useCustomers.ts:20](https://github.com/mbates/squar
 
 > `optional` **nickname**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:25](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L25)
+Defined in: [src/react/hooks/useCustomers.ts:25](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L25)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/react/hooks/useCustomers.ts:25](https://github.com/mbates/squar
 
 > `optional` **note**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:26](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L26)
+Defined in: [src/react/hooks/useCustomers.ts:26](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L26)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [src/react/hooks/useCustomers.ts:26](https://github.com/mbates/squar
 
 > `optional` **phoneNumber**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:23](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L23)
+Defined in: [src/react/hooks/useCustomers.ts:23](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L23)
 
 ***
 
@@ -80,4 +80,4 @@ Defined in: [src/react/hooks/useCustomers.ts:23](https://github.com/mbates/squar
 
 > `optional` **referenceId**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:27](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCustomers.ts#L27)
+Defined in: [src/react/hooks/useCustomers.ts:27](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L27)

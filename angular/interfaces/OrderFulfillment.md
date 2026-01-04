@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [angular](../README.md) / OrderFulfillment
+[@bates-solutions/squareup API Reference](../../README.md) / [angular](../README.md) / OrderFulfillment
 
 # Interface: OrderFulfillment
 
-Defined in: [src/angular/types.ts:151](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L151)
+Defined in: [src/angular/types.ts:151](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L151)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:151](https://github.com/mbates/squareup/blob/5
 
 > `optional` **pickupDetails**: [`PickupDetails`](PickupDetails.md)
 
-Defined in: [src/angular/types.ts:154](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L154)
+Defined in: [src/angular/types.ts:154](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L154)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/angular/types.ts:154](https://github.com/mbates/squareup/blob/5
 
 > `optional` **shipmentDetails**: [`ShipmentDetails`](ShipmentDetails.md)
 
-Defined in: [src/angular/types.ts:155](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L155)
+Defined in: [src/angular/types.ts:155](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L155)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/angular/types.ts:155](https://github.com/mbates/squareup/blob/5
 
 > `optional` **state**: `string`
 
-Defined in: [src/angular/types.ts:153](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L153)
+Defined in: [src/angular/types.ts:153](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L153)
 
 ***
 
@@ -38,4 +38,4 @@ Defined in: [src/angular/types.ts:153](https://github.com/mbates/squareup/blob/5
 
 > **type**: `"PICKUP"` \| `"SHIPMENT"` \| `"DELIVERY"`
 
-Defined in: [src/angular/types.ts:152](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L152)
+Defined in: [src/angular/types.ts:152](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L152)

@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [react](../README.md) / VerificationDetails
+[@bates-solutions/squareup API Reference](../../README.md) / [react](../README.md) / VerificationDetails
 
 # Interface: VerificationDetails
 
-Defined in: [src/react/types.ts:149](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L149)
+Defined in: [src/react/types.ts:149](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L149)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:149](https://github.com/mbates/squareup/blob/5cb
 
 > **amount**: `string`
 
-Defined in: [src/react/types.ts:150](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L150)
+Defined in: [src/react/types.ts:150](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L150)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/react/types.ts:150](https://github.com/mbates/squareup/blob/5cb
 
 > `optional` **billingContact**: `object`
 
-Defined in: [src/react/types.ts:153](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L153)
+Defined in: [src/react/types.ts:153](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L153)
 
 #### addressLines?
 
@@ -66,7 +66,7 @@ Defined in: [src/react/types.ts:153](https://github.com/mbates/squareup/blob/5cb
 
 > **currencyCode**: `string`
 
-Defined in: [src/react/types.ts:151](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L151)
+Defined in: [src/react/types.ts:151](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L151)
 
 ***
 
@@ -74,4 +74,4 @@ Defined in: [src/react/types.ts:151](https://github.com/mbates/squareup/blob/5cb
 
 > **intent**: `"CHARGE"` \| `"STORE"`
 
-Defined in: [src/react/types.ts:152](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L152)
+Defined in: [src/react/types.ts:152](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L152)

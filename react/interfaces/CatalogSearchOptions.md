@@ -1,12 +1,12 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [react](../README.md) / CatalogSearchOptions
+[@bates-solutions/squareup API Reference](../../README.md) / [react](../README.md) / CatalogSearchOptions
 
 # Interface: CatalogSearchOptions
 
-Defined in: [src/react/hooks/useCatalog.ts:41](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCatalog.ts#L41)
+Defined in: [src/react/hooks/useCatalog.ts:41](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L41)
 
 Catalog search options
 
@@ -16,7 +16,7 @@ Catalog search options
 
 > `optional` **categoryIds**: `string`[]
 
-Defined in: [src/react/hooks/useCatalog.ts:47](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCatalog.ts#L47)
+Defined in: [src/react/hooks/useCatalog.ts:47](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L47)
 
 Category IDs to filter by
 
@@ -26,7 +26,7 @@ Category IDs to filter by
 
 > `optional` **limit**: `number`
 
-Defined in: [src/react/hooks/useCatalog.ts:49](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCatalog.ts#L49)
+Defined in: [src/react/hooks/useCatalog.ts:49](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L49)
 
 Maximum results
 
@@ -36,7 +36,7 @@ Maximum results
 
 > `optional` **objectTypes**: [`CatalogObjectType`](../type-aliases/CatalogObjectType.md)[]
 
-Defined in: [src/react/hooks/useCatalog.ts:43](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCatalog.ts#L43)
+Defined in: [src/react/hooks/useCatalog.ts:43](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L43)
 
 Object types to include
 
@@ -46,6 +46,6 @@ Object types to include
 
 > `optional` **query**: `string`
 
-Defined in: [src/react/hooks/useCatalog.ts:45](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCatalog.ts#L45)
+Defined in: [src/react/hooks/useCatalog.ts:45](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L45)
 
 Search query string

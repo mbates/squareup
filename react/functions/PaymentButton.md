@@ -1,14 +1,14 @@
-[**@bates/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
 
 ***
 
-[@bates/squareup API Reference](../../README.md) / [react](../README.md) / PaymentButton
+[@bates-solutions/squareup API Reference](../../README.md) / [react](../README.md) / PaymentButton
 
 # Function: PaymentButton()
 
 > **PaymentButton**(`__namedParameters`): `Element`
 
-Defined in: [src/react/components/PaymentButton.tsx:74](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/components/PaymentButton.tsx#L74)
+Defined in: [src/react/components/PaymentButton.tsx:74](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/components/PaymentButton.tsx#L74)
 
 Digital wallet payment button (Google Pay / Apple Pay)
 
@@ -25,7 +25,7 @@ Digital wallet payment button (Google Pay / Apple Pay)
 ## Example
 
 ```tsx
-import { PaymentButton } from '@bates/squareup/react';
+import { PaymentButton } from '@bates-solutions/squareup/react';
 
 function Checkout() {
   const handlePayment = async (token: string) => {
