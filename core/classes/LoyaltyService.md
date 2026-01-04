@@ -6,7 +6,7 @@
 
 # Class: LoyaltyService
 
-Defined in: [src/core/services/loyalty.service.ts:137](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/services/loyalty.service.ts#L137)
+Defined in: [src/core/services/loyalty.service.ts:137](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/services/loyalty.service.ts#L137)
 
 Loyalty service for managing Square loyalty programs
 
@@ -34,7 +34,7 @@ await square.loyalty.redeemReward(account.id, 'REWARD_123');
 
 > **new LoyaltyService**(`client`, `defaultLocationId?`): `LoyaltyService`
 
-Defined in: [src/core/services/loyalty.service.ts:138](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/services/loyalty.service.ts#L138)
+Defined in: [src/core/services/loyalty.service.ts:138](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/services/loyalty.service.ts#L138)
 
 #### Parameters
 
@@ -56,7 +56,7 @@ Defined in: [src/core/services/loyalty.service.ts:138](https://github.com/mbates
 
 > **accumulatePoints**(`accountId`, `options`): `Promise`\<`LoyaltyEvent`\>
 
-Defined in: [src/core/services/loyalty.service.ts:333](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/services/loyalty.service.ts#L333)
+Defined in: [src/core/services/loyalty.service.ts:333](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/services/loyalty.service.ts#L333)
 
 Accumulate (add) points to a loyalty account
 
@@ -110,7 +110,7 @@ await square.loyalty.accumulatePoints('ACCT_123', {
 
 > **adjustPoints**(`accountId`, `points`, `reason?`, `idempotencyKey?`): `Promise`\<`LoyaltyEvent`\>
 
-Defined in: [src/core/services/loyalty.service.ts:391](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/services/loyalty.service.ts#L391)
+Defined in: [src/core/services/loyalty.service.ts:391](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/services/loyalty.service.ts#L391)
 
 Adjust points on a loyalty account (add or subtract)
 
@@ -160,7 +160,7 @@ await square.loyalty.adjustPoints('ACCT_123', -50, 'Points correction');
 
 > **calculatePoints**(`programId`, `orderId`): `Promise`\<`number`\>
 
-Defined in: [src/core/services/loyalty.service.ts:497](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/services/loyalty.service.ts#L497)
+Defined in: [src/core/services/loyalty.service.ts:497](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/services/loyalty.service.ts#L497)
 
 Calculate points that would be earned for an order
 
@@ -197,7 +197,7 @@ console.log(`This order earns ${points} points`);
 
 > **createAccount**(`options`): `Promise`\<`LoyaltyAccount`\>
 
-Defined in: [src/core/services/loyalty.service.ts:193](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/services/loyalty.service.ts#L193)
+Defined in: [src/core/services/loyalty.service.ts:193](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/services/loyalty.service.ts#L193)
 
 Create a new loyalty account
 
@@ -230,7 +230,7 @@ const account = await square.loyalty.createAccount({
 
 > **getAccount**(`accountId`): `Promise`\<`LoyaltyAccount`\>
 
-Defined in: [src/core/services/loyalty.service.ts:241](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/services/loyalty.service.ts#L241)
+Defined in: [src/core/services/loyalty.service.ts:241](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/services/loyalty.service.ts#L241)
 
 Get a loyalty account by ID
 
@@ -261,7 +261,7 @@ console.log(`Balance: ${account.balance} points`);
 
 > **getProgram**(`programId?`): `Promise`\<`LoyaltyProgram`\>
 
-Defined in: [src/core/services/loyalty.service.ts:155](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/services/loyalty.service.ts#L155)
+Defined in: [src/core/services/loyalty.service.ts:155](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/services/loyalty.service.ts#L155)
 
 Get the loyalty program for the current location
 
@@ -292,7 +292,7 @@ console.log(`Points name: ${program.terminology?.other}`);
 
 > **redeemReward**(`accountId`, `rewardTierId`, `orderId?`, `idempotencyKey?`): `Promise`\<\{ `id`: `string`; `status`: `string`; \}\>
 
-Defined in: [src/core/services/loyalty.service.ts:434](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/services/loyalty.service.ts#L434)
+Defined in: [src/core/services/loyalty.service.ts:434](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/services/loyalty.service.ts#L434)
 
 Redeem a reward
 
@@ -342,7 +342,7 @@ const reward = await square.loyalty.redeemReward(
 
 > **searchAccounts**(`options?`): `Promise`\<\{ `cursor?`: `string`; `data`: `LoyaltyAccount`[]; \}\>
 
-Defined in: [src/core/services/loyalty.service.ts:274](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/services/loyalty.service.ts#L274)
+Defined in: [src/core/services/loyalty.service.ts:274](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/services/loyalty.service.ts#L274)
 
 Search for loyalty accounts
 

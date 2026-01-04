@@ -6,7 +6,7 @@
 
 # Interface: CardOptions
 
-Defined in: [src/react/types.ts:81](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L81)
+Defined in: [src/react/types.ts:81](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L81)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:81](https://github.com/mbates/squareup/blob/5144
 
 > `optional` **postalCode**: `string`
 
-Defined in: [src/react/types.ts:83](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L83)
+Defined in: [src/react/types.ts:83](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L83)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [src/react/types.ts:83](https://github.com/mbates/squareup/blob/5144
 
 > `optional` **style**: [`CardStyle`](CardStyle.md)
 
-Defined in: [src/react/types.ts:82](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L82)
+Defined in: [src/react/types.ts:82](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L82)

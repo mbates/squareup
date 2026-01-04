@@ -6,7 +6,7 @@
 
 # Interface: CardOptions
 
-Defined in: [src/angular/types.ts:48](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L48)
+Defined in: [src/angular/types.ts:48](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L48)
 
 ## Properties
 
@@ -14,4 +14,4 @@ Defined in: [src/angular/types.ts:48](https://github.com/mbates/squareup/blob/51
 
 > `optional` **style**: [`CardStyle`](CardStyle.md)
 
-Defined in: [src/angular/types.ts:49](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L49)
+Defined in: [src/angular/types.ts:49](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L49)

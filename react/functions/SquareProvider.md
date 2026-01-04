@@ -8,7 +8,7 @@
 
 > **SquareProvider**(`__namedParameters`): `Element`
 
-Defined in: [src/react/SquareProvider.tsx:71](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/SquareProvider.tsx#L71)
+Defined in: [src/react/SquareProvider.tsx:71](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/SquareProvider.tsx#L71)
 
 Square Provider component that initializes the Web Payments SDK
 

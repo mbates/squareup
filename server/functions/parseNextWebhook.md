@@ -8,7 +8,7 @@
 
 > **parseNextWebhook**(`request`, `signatureKey`, `notificationUrl?`): `Promise`\<[`WebhookEvent`](../interfaces/WebhookEvent.md)\<`unknown`\>\>
 
-Defined in: [src/server/middleware/nextjs.ts:238](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/server/middleware/nextjs.ts#L238)
+Defined in: [src/server/middleware/nextjs.ts:238](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/server/middleware/nextjs.ts#L238)
 
 Utility to parse webhook event from Next.js request
 

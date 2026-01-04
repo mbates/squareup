@@ -6,7 +6,7 @@
 
 # Interface: SquareClientConfig
 
-Defined in: [src/core/client.ts:15](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/client.ts#L15)
+Defined in: [src/core/client.ts:15](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/client.ts#L15)
 
 Configuration options for the Square client
 
@@ -16,7 +16,7 @@ Configuration options for the Square client
 
 > **accessToken**: `string`
 
-Defined in: [src/core/client.ts:19](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/client.ts#L19)
+Defined in: [src/core/client.ts:19](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/client.ts#L19)
 
 Square API access token
 
@@ -26,7 +26,7 @@ Square API access token
 
 > `optional` **defaultCurrency**: `string`
 
-Defined in: [src/core/client.ts:36](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/client.ts#L36)
+Defined in: [src/core/client.ts:36](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/client.ts#L36)
 
 Default currency code
 
@@ -42,7 +42,7 @@ Default currency code
 
 > `optional` **environment**: [`SquareEnvironment`](../type-aliases/SquareEnvironment.md)
 
-Defined in: [src/core/client.ts:25](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/client.ts#L25)
+Defined in: [src/core/client.ts:25](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/client.ts#L25)
 
 Square environment (sandbox or production)
 
@@ -58,6 +58,6 @@ Square environment (sandbox or production)
 
 > `optional` **locationId**: `string`
 
-Defined in: [src/core/client.ts:30](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/client.ts#L30)
+Defined in: [src/core/client.ts:30](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/client.ts#L30)
 
 Default location ID for operations that require it

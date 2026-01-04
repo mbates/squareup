@@ -6,7 +6,7 @@
 
 # Interface: MutationState\<T\>
 
-Defined in: [src/react/types.ts:207](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L207)
+Defined in: [src/react/types.ts:207](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L207)
 
 Mutation hook state
 
@@ -28,7 +28,7 @@ Mutation hook state
 
 > **data**: `T` \| `null`
 
-Defined in: [src/react/types.ts:208](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L208)
+Defined in: [src/react/types.ts:208](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L208)
 
 ***
 
@@ -36,7 +36,7 @@ Defined in: [src/react/types.ts:208](https://github.com/mbates/squareup/blob/514
 
 > **error**: `Error` \| `null`
 
-Defined in: [src/react/types.ts:209](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L209)
+Defined in: [src/react/types.ts:209](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L209)
 
 ***
 
@@ -44,4 +44,4 @@ Defined in: [src/react/types.ts:209](https://github.com/mbates/squareup/blob/514
 
 > **loading**: `boolean`
 
-Defined in: [src/react/types.ts:210](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L210)
+Defined in: [src/react/types.ts:210](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L210)

@@ -8,6 +8,6 @@
 
 > **WebhookEventType** = [`PaymentEventType`](PaymentEventType.md) \| [`RefundEventType`](RefundEventType.md) \| [`OrderEventType`](OrderEventType.md) \| [`CustomerEventType`](CustomerEventType.md) \| [`SubscriptionEventType`](SubscriptionEventType.md) \| [`InvoiceEventType`](InvoiceEventType.md) \| [`LoyaltyEventType`](LoyaltyEventType.md) \| [`CatalogEventType`](CatalogEventType.md) \| [`InventoryEventType`](InventoryEventType.md) \| [`TeamEventType`](TeamEventType.md) \| [`LaborEventType`](LaborEventType.md)
 
-Defined in: [src/server/types.ts:58](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/server/types.ts#L58)
+Defined in: [src/server/types.ts:58](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/server/types.ts#L58)
 
 All Square webhook event types

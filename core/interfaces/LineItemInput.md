@@ -6,7 +6,7 @@
 
 # Interface: LineItemInput
 
-Defined in: [src/core/types/index.ts:44](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/types/index.ts#L44)
+Defined in: [src/core/types/index.ts:44](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/types/index.ts#L44)
 
 Line item for orders
 
@@ -16,7 +16,7 @@ Line item for orders
 
 > `optional` **amount**: `number`
 
-Defined in: [src/core/types/index.ts:48](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/types/index.ts#L48)
+Defined in: [src/core/types/index.ts:48](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/types/index.ts#L48)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/core/types/index.ts:48](https://github.com/mbates/squareup/blob
 
 > `optional` **catalogObjectId**: `string`
 
-Defined in: [src/core/types/index.ts:46](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/types/index.ts#L46)
+Defined in: [src/core/types/index.ts:46](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/types/index.ts#L46)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/core/types/index.ts:46](https://github.com/mbates/squareup/blob
 
 > `optional` **name**: `string`
 
-Defined in: [src/core/types/index.ts:45](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/types/index.ts#L45)
+Defined in: [src/core/types/index.ts:45](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/types/index.ts#L45)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/core/types/index.ts:45](https://github.com/mbates/squareup/blob
 
 > `optional` **note**: `string`
 
-Defined in: [src/core/types/index.ts:49](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/types/index.ts#L49)
+Defined in: [src/core/types/index.ts:49](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/types/index.ts#L49)
 
 ***
 
@@ -48,4 +48,4 @@ Defined in: [src/core/types/index.ts:49](https://github.com/mbates/squareup/blob
 
 > `optional` **quantity**: `number`
 
-Defined in: [src/core/types/index.ts:47](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/types/index.ts#L47)
+Defined in: [src/core/types/index.ts:47](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/types/index.ts#L47)

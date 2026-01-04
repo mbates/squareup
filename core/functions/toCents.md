@@ -8,7 +8,7 @@
 
 > **toCents**(`amount`, `currency`): `bigint`
 
-Defined in: [src/core/utils.ts:38](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/utils.ts#L38)
+Defined in: [src/core/utils.ts:38](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/core/utils.ts#L38)
 
 Convert a dollar amount to cents (smallest currency unit)
 

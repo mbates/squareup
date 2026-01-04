@@ -6,7 +6,7 @@
 
 # Interface: UseCustomersReturn
 
-Defined in: [src/react/hooks/useCustomers.ts:64](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCustomers.ts#L64)
+Defined in: [src/react/hooks/useCustomers.ts:64](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useCustomers.ts#L64)
 
 Return type for useCustomers hook
 
@@ -20,7 +20,7 @@ Return type for useCustomers hook
 
 > **create**: (`input`) => `Promise`\<[`CustomerResponse`](CustomerResponse.md)\>
 
-Defined in: [src/react/hooks/useCustomers.ts:66](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCustomers.ts#L66)
+Defined in: [src/react/hooks/useCustomers.ts:66](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useCustomers.ts#L66)
 
 Create a new customer
 
@@ -40,7 +40,7 @@ Create a new customer
 
 > **data**: [`CustomerResponse`](CustomerResponse.md) \| `null`
 
-Defined in: [src/react/types.ts:208](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L208)
+Defined in: [src/react/types.ts:208](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L208)
 
 #### Inherited from
 
@@ -52,7 +52,7 @@ Defined in: [src/react/types.ts:208](https://github.com/mbates/squareup/blob/514
 
 > **error**: `Error` \| `null`
 
-Defined in: [src/react/types.ts:209](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L209)
+Defined in: [src/react/types.ts:209](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L209)
 
 #### Inherited from
 
@@ -64,7 +64,7 @@ Defined in: [src/react/types.ts:209](https://github.com/mbates/squareup/blob/514
 
 > **get**: (`customerId`) => `Promise`\<[`CustomerResponse`](CustomerResponse.md)\>
 
-Defined in: [src/react/hooks/useCustomers.ts:68](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCustomers.ts#L68)
+Defined in: [src/react/hooks/useCustomers.ts:68](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useCustomers.ts#L68)
 
 Get a customer by ID
 
@@ -84,7 +84,7 @@ Get a customer by ID
 
 > **loading**: `boolean`
 
-Defined in: [src/react/types.ts:210](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L210)
+Defined in: [src/react/types.ts:210](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L210)
 
 #### Inherited from
 
@@ -96,7 +96,7 @@ Defined in: [src/react/types.ts:210](https://github.com/mbates/squareup/blob/514
 
 > **reset**: () => `void`
 
-Defined in: [src/react/hooks/useCustomers.ts:74](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCustomers.ts#L74)
+Defined in: [src/react/hooks/useCustomers.ts:74](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useCustomers.ts#L74)
 
 Reset the hook state
 
@@ -110,7 +110,7 @@ Reset the hook state
 
 > **search**: (`query`) => `Promise`\<[`CustomerResponse`](CustomerResponse.md)[]\>
 
-Defined in: [src/react/hooks/useCustomers.ts:72](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCustomers.ts#L72)
+Defined in: [src/react/hooks/useCustomers.ts:72](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useCustomers.ts#L72)
 
 Search for customers
 
@@ -136,7 +136,7 @@ Search for customers
 
 > **update**: (`customerId`, `input`) => `Promise`\<[`CustomerResponse`](CustomerResponse.md)\>
 
-Defined in: [src/react/hooks/useCustomers.ts:70](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCustomers.ts#L70)
+Defined in: [src/react/hooks/useCustomers.ts:70](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useCustomers.ts#L70)
 
 Update a customer
 

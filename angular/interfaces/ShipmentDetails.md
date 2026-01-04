@@ -6,7 +6,7 @@
 
 # Interface: ShipmentDetails
 
-Defined in: [src/angular/types.ts:165](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L165)
+Defined in: [src/angular/types.ts:165](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L165)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:165](https://github.com/mbates/squareup/blob/5
 
 > `optional` **carrier**: `string`
 
-Defined in: [src/angular/types.ts:167](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L167)
+Defined in: [src/angular/types.ts:167](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L167)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/angular/types.ts:167](https://github.com/mbates/squareup/blob/5
 
 > `optional` **recipient**: [`Recipient`](Recipient.md)
 
-Defined in: [src/angular/types.ts:166](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L166)
+Defined in: [src/angular/types.ts:166](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L166)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/angular/types.ts:166](https://github.com/mbates/squareup/blob/5
 
 > `optional` **trackingNumber**: `string`
 
-Defined in: [src/angular/types.ts:168](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L168)
+Defined in: [src/angular/types.ts:168](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L168)

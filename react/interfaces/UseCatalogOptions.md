@@ -6,7 +6,7 @@
 
 # Interface: UseCatalogOptions
 
-Defined in: [src/react/hooks/useCatalog.ts:55](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCatalog.ts#L55)
+Defined in: [src/react/hooks/useCatalog.ts:55](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useCatalog.ts#L55)
 
 Options for useCatalog hook
 
@@ -16,7 +16,7 @@ Options for useCatalog hook
 
 > `optional` **apiEndpoint**: `string`
 
-Defined in: [src/react/hooks/useCatalog.ts:57](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCatalog.ts#L57)
+Defined in: [src/react/hooks/useCatalog.ts:57](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useCatalog.ts#L57)
 
 API endpoint for catalog (default: /api/catalog)
 
@@ -26,7 +26,7 @@ API endpoint for catalog (default: /api/catalog)
 
 > `optional` **fetchOnMount**: `boolean`
 
-Defined in: [src/react/hooks/useCatalog.ts:61](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCatalog.ts#L61)
+Defined in: [src/react/hooks/useCatalog.ts:61](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useCatalog.ts#L61)
 
 Fetch on mount
 
@@ -36,7 +36,7 @@ Fetch on mount
 
 > `optional` **initialOptions**: [`CatalogSearchOptions`](CatalogSearchOptions.md)
 
-Defined in: [src/react/hooks/useCatalog.ts:59](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCatalog.ts#L59)
+Defined in: [src/react/hooks/useCatalog.ts:59](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useCatalog.ts#L59)
 
 Initial search options
 
@@ -46,7 +46,7 @@ Initial search options
 
 > `optional` **onError**: (`error`) => `void`
 
-Defined in: [src/react/hooks/useCatalog.ts:63](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCatalog.ts#L63)
+Defined in: [src/react/hooks/useCatalog.ts:63](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useCatalog.ts#L63)
 
 Callback on error
 

@@ -6,7 +6,7 @@
 
 # Interface: VerificationResult
 
-Defined in: [src/react/types.ts:166](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L166)
+Defined in: [src/react/types.ts:166](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L166)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:166](https://github.com/mbates/squareup/blob/514
 
 > **token**: `string`
 
-Defined in: [src/react/types.ts:167](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L167)
+Defined in: [src/react/types.ts:167](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L167)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [src/react/types.ts:167](https://github.com/mbates/squareup/blob/514
 
 > **userChallenged**: `boolean`
 
-Defined in: [src/react/types.ts:168](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L168)
+Defined in: [src/react/types.ts:168](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L168)
