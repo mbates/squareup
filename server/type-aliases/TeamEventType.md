@@ -8,7 +8,7 @@
 
 > **TeamEventType** = `"team_member.created"` \| `"team_member.updated"`
 
-Defined in: [src/server/types.ts:50](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/server/types.ts#L50)
+Defined in: [src/server/types.ts:50](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/server/types.ts#L50)
 
 @bates-solutions/squareup/server
 

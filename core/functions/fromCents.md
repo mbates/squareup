@@ -8,7 +8,7 @@
 
 > **fromCents**(`cents`, `currency`): `number`
 
-Defined in: [src/core/utils.ts:58](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/core/utils.ts#L58)
+Defined in: [src/core/utils.ts:58](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/core/utils.ts#L58)
 
 Convert cents (smallest currency unit) to dollar amount
 

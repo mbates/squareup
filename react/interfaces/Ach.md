@@ -6,7 +6,7 @@
 
 # Interface: Ach
 
-Defined in: [src/react/types.ts:77](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L77)
+Defined in: [src/react/types.ts:77](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L77)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:77](https://github.com/mbates/squareup/blob/2891
 
 > **tokenize**: (`options`) => `Promise`\<[`TokenResult`](TokenResult.md)\>
 
-Defined in: [src/react/types.ts:78](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L78)
+Defined in: [src/react/types.ts:78](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L78)
 
 #### Parameters
 

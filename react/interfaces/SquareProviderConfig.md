@@ -6,7 +6,7 @@
 
 # Interface: SquareProviderConfig
 
-Defined in: [src/react/types.ts:6](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L6)
+Defined in: [src/react/types.ts:6](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L6)
 
 Square Provider configuration
 
@@ -20,7 +20,7 @@ Square Provider configuration
 
 > `optional` **accessToken**: `string`
 
-Defined in: [src/react/types.ts:14](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L14)
+Defined in: [src/react/types.ts:14](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L14)
 
 Access token for server-side operations (optional, for SSR)
 
@@ -30,7 +30,7 @@ Access token for server-side operations (optional, for SSR)
 
 > **applicationId**: `string`
 
-Defined in: [src/react/types.ts:8](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L8)
+Defined in: [src/react/types.ts:8](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L8)
 
 Square Application ID
 
@@ -40,7 +40,7 @@ Square Application ID
 
 > `optional` **currency**: [`CurrencyCode`](../../core/type-aliases/CurrencyCode.md)
 
-Defined in: [src/react/types.ts:16](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L16)
+Defined in: [src/react/types.ts:16](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L16)
 
 Default currency
 
@@ -50,7 +50,7 @@ Default currency
 
 > `optional` **environment**: [`SquareEnvironment`](../../core/type-aliases/SquareEnvironment.md)
 
-Defined in: [src/react/types.ts:12](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L12)
+Defined in: [src/react/types.ts:12](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L12)
 
 Environment (sandbox or production)
 
@@ -60,6 +60,6 @@ Environment (sandbox or production)
 
 > **locationId**: `string`
 
-Defined in: [src/react/types.ts:10](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L10)
+Defined in: [src/react/types.ts:10](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L10)
 
 Square Location ID

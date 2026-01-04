@@ -6,7 +6,7 @@
 
 # Interface: Money
 
-Defined in: [src/angular/types.ts:177](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L177)
+Defined in: [src/angular/types.ts:177](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L177)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:177](https://github.com/mbates/squareup/blob/2
 
 > **amount**: `number`
 
-Defined in: [src/angular/types.ts:178](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L178)
+Defined in: [src/angular/types.ts:178](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L178)
 
 ***
 
@@ -22,4 +22,4 @@ Defined in: [src/angular/types.ts:178](https://github.com/mbates/squareup/blob/2
 
 > `optional` **currency**: `string`
 
-Defined in: [src/angular/types.ts:179](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L179)
+Defined in: [src/angular/types.ts:179](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L179)

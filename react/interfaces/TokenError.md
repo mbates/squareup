@@ -6,7 +6,7 @@
 
 # Interface: TokenError
 
-Defined in: [src/react/types.ts:143](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L143)
+Defined in: [src/react/types.ts:143](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L143)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:143](https://github.com/mbates/squareup/blob/289
 
 > `optional` **field**: `string`
 
-Defined in: [src/react/types.ts:146](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L146)
+Defined in: [src/react/types.ts:146](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L146)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/react/types.ts:146](https://github.com/mbates/squareup/blob/289
 
 > **message**: `string`
 
-Defined in: [src/react/types.ts:145](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L145)
+Defined in: [src/react/types.ts:145](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L145)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/react/types.ts:145](https://github.com/mbates/squareup/blob/289
 
 > **type**: `string`
 
-Defined in: [src/react/types.ts:144](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L144)
+Defined in: [src/react/types.ts:144](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L144)

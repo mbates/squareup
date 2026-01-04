@@ -6,7 +6,7 @@
 
 # Interface: CatalogSearchRequest
 
-Defined in: [src/angular/types.ts:208](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L208)
+Defined in: [src/angular/types.ts:208](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L208)
 
 Catalog types
 
@@ -16,7 +16,7 @@ Catalog types
 
 > `optional` **categoryIds**: `string`[]
 
-Defined in: [src/angular/types.ts:210](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L210)
+Defined in: [src/angular/types.ts:210](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L210)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/angular/types.ts:210](https://github.com/mbates/squareup/blob/2
 
 > `optional` **cursor**: `string`
 
-Defined in: [src/angular/types.ts:214](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L214)
+Defined in: [src/angular/types.ts:214](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L214)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/angular/types.ts:214](https://github.com/mbates/squareup/blob/2
 
 > `optional` **enabledLocationIds**: `string`[]
 
-Defined in: [src/angular/types.ts:212](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L212)
+Defined in: [src/angular/types.ts:212](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L212)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/angular/types.ts:212](https://github.com/mbates/squareup/blob/2
 
 > `optional` **limit**: `number`
 
-Defined in: [src/angular/types.ts:213](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L213)
+Defined in: [src/angular/types.ts:213](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L213)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/angular/types.ts:213](https://github.com/mbates/squareup/blob/2
 
 > `optional` **stockLevels**: `string`[]
 
-Defined in: [src/angular/types.ts:211](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L211)
+Defined in: [src/angular/types.ts:211](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L211)
 
 ***
 
@@ -56,4 +56,4 @@ Defined in: [src/angular/types.ts:211](https://github.com/mbates/squareup/blob/2
 
 > `optional` **textFilter**: `string`
 
-Defined in: [src/angular/types.ts:209](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L209)
+Defined in: [src/angular/types.ts:209](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L209)

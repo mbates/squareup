@@ -6,7 +6,7 @@
 
 # Interface: CreatePaymentRequest
 
-Defined in: [src/angular/types.ts:98](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L98)
+Defined in: [src/angular/types.ts:98](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L98)
 
 Payment request types
 
@@ -16,7 +16,7 @@ Payment request types
 
 > **amount**: `number`
 
-Defined in: [src/angular/types.ts:100](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L100)
+Defined in: [src/angular/types.ts:100](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L100)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/angular/types.ts:100](https://github.com/mbates/squareup/blob/2
 
 > `optional` **currency**: `string`
 
-Defined in: [src/angular/types.ts:101](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L101)
+Defined in: [src/angular/types.ts:101](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L101)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/angular/types.ts:101](https://github.com/mbates/squareup/blob/2
 
 > `optional` **customerId**: `string`
 
-Defined in: [src/angular/types.ts:103](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L103)
+Defined in: [src/angular/types.ts:103](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L103)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/angular/types.ts:103](https://github.com/mbates/squareup/blob/2
 
 > `optional` **idempotencyKey**: `string`
 
-Defined in: [src/angular/types.ts:102](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L102)
+Defined in: [src/angular/types.ts:102](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L102)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/angular/types.ts:102](https://github.com/mbates/squareup/blob/2
 
 > `optional` **note**: `string`
 
-Defined in: [src/angular/types.ts:105](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L105)
+Defined in: [src/angular/types.ts:105](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L105)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/angular/types.ts:105](https://github.com/mbates/squareup/blob/2
 
 > `optional` **orderId**: `string`
 
-Defined in: [src/angular/types.ts:104](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L104)
+Defined in: [src/angular/types.ts:104](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L104)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/angular/types.ts:104](https://github.com/mbates/squareup/blob/2
 
 > `optional` **referenceId**: `string`
 
-Defined in: [src/angular/types.ts:106](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L106)
+Defined in: [src/angular/types.ts:106](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L106)
 
 ***
 
@@ -72,4 +72,4 @@ Defined in: [src/angular/types.ts:106](https://github.com/mbates/squareup/blob/2
 
 > **sourceId**: `string`
 
-Defined in: [src/angular/types.ts:99](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L99)
+Defined in: [src/angular/types.ts:99](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L99)

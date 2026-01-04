@@ -6,7 +6,7 @@
 
 # Interface: ApplePay
 
-Defined in: [src/react/types.ts:65](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L65)
+Defined in: [src/react/types.ts:65](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L65)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:65](https://github.com/mbates/squareup/blob/2891
 
 > **attach**: (`element`, `options?`) => `Promise`\<`void`\>
 
-Defined in: [src/react/types.ts:66](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L66)
+Defined in: [src/react/types.ts:66](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L66)
 
 #### Parameters
 
@@ -36,7 +36,7 @@ Defined in: [src/react/types.ts:66](https://github.com/mbates/squareup/blob/2891
 
 > **destroy**: () => `Promise`\<`void`\>
 
-Defined in: [src/react/types.ts:67](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L67)
+Defined in: [src/react/types.ts:67](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L67)
 
 #### Returns
 
@@ -48,7 +48,7 @@ Defined in: [src/react/types.ts:67](https://github.com/mbates/squareup/blob/2891
 
 > **tokenize**: () => `Promise`\<[`TokenResult`](TokenResult.md)\>
 
-Defined in: [src/react/types.ts:68](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/types.ts#L68)
+Defined in: [src/react/types.ts:68](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/types.ts#L68)
 
 #### Returns
 

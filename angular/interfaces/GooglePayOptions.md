@@ -6,7 +6,7 @@
 
 # Interface: GooglePayOptions
 
-Defined in: [src/angular/types.ts:64](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L64)
+Defined in: [src/angular/types.ts:64](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L64)
 
 ## Properties
 
@@ -14,4 +14,4 @@ Defined in: [src/angular/types.ts:64](https://github.com/mbates/squareup/blob/28
 
 > `optional` **redirectURL**: `string`
 
-Defined in: [src/angular/types.ts:65](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L65)
+Defined in: [src/angular/types.ts:65](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L65)

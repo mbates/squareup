@@ -8,7 +8,7 @@
 
 > **useCustomers**(`options`): [`UseCustomersReturn`](../interfaces/UseCustomersReturn.md)
 
-Defined in: [src/react/hooks/useCustomers.ts:108](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCustomers.ts#L108)
+Defined in: [src/react/hooks/useCustomers.ts:108](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCustomers.ts#L108)
 
 Hook for managing customers via your backend API
 

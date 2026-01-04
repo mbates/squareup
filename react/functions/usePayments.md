@@ -8,7 +8,7 @@
 
 > **usePayments**(`options`): [`UsePaymentsReturn`](../interfaces/UsePaymentsReturn.md)
 
-Defined in: [src/react/hooks/usePayments.ts:103](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/usePayments.ts#L103)
+Defined in: [src/react/hooks/usePayments.ts:103](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/usePayments.ts#L103)
 
 Hook for creating payments via your backend API
 

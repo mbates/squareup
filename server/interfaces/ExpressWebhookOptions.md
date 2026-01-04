@@ -6,7 +6,7 @@
 
 # Interface: ExpressWebhookOptions
 
-Defined in: [src/server/middleware/express.ts:23](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/server/middleware/express.ts#L23)
+Defined in: [src/server/middleware/express.ts:23](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/server/middleware/express.ts#L23)
 
 Options for the Express webhook middleware
 
@@ -20,7 +20,7 @@ Options for the Express webhook middleware
 
 > `optional` **autoRespond**: `boolean`
 
-Defined in: [src/server/middleware/express.ts:33](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/server/middleware/express.ts#L33)
+Defined in: [src/server/middleware/express.ts:33](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/server/middleware/express.ts#L33)
 
 Whether to send response automatically
 
@@ -36,7 +36,7 @@ true
 
 > **handlers**: [`WebhookHandlers`](../type-aliases/WebhookHandlers.md)
 
-Defined in: [src/server/types.ts:115](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/server/types.ts#L115)
+Defined in: [src/server/types.ts:115](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/server/types.ts#L115)
 
 Event handlers by type
 
@@ -50,7 +50,7 @@ Event handlers by type
 
 > `optional` **notificationUrl**: `string`
 
-Defined in: [src/server/types.ts:117](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/server/types.ts#L117)
+Defined in: [src/server/types.ts:117](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/server/types.ts#L117)
 
 URL where webhooks are received (for signature verification)
 
@@ -64,7 +64,7 @@ URL where webhooks are received (for signature verification)
 
 > `optional` **path**: `string`
 
-Defined in: [src/server/middleware/express.ts:28](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/server/middleware/express.ts#L28)
+Defined in: [src/server/middleware/express.ts:28](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/server/middleware/express.ts#L28)
 
 Path to mount the webhook handler
 
@@ -80,7 +80,7 @@ Path to mount the webhook handler
 
 > **signatureKey**: `string`
 
-Defined in: [src/server/types.ts:113](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/server/types.ts#L113)
+Defined in: [src/server/types.ts:113](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/server/types.ts#L113)
 
 Square webhook signature key
 
@@ -94,7 +94,7 @@ Square webhook signature key
 
 > `optional` **throwOnInvalidSignature**: `boolean`
 
-Defined in: [src/server/types.ts:122](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/server/types.ts#L122)
+Defined in: [src/server/types.ts:122](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/server/types.ts#L122)
 
 Whether to throw on signature verification failure
 

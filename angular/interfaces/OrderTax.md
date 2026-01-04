@@ -6,7 +6,7 @@
 
 # Interface: OrderTax
 
-Defined in: [src/angular/types.ts:139](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L139)
+Defined in: [src/angular/types.ts:139](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L139)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:139](https://github.com/mbates/squareup/blob/2
 
 > `optional` **name**: `string`
 
-Defined in: [src/angular/types.ts:140](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L140)
+Defined in: [src/angular/types.ts:140](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L140)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/angular/types.ts:140](https://github.com/mbates/squareup/blob/2
 
 > `optional` **percentage**: `string`
 
-Defined in: [src/angular/types.ts:141](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L141)
+Defined in: [src/angular/types.ts:141](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L141)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/angular/types.ts:141](https://github.com/mbates/squareup/blob/2
 
 > `optional` **scope**: `"LINE_ITEM"` \| `"ORDER"`
 
-Defined in: [src/angular/types.ts:142](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L142)
+Defined in: [src/angular/types.ts:142](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L142)

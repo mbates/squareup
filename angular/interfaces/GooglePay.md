@@ -6,7 +6,7 @@
 
 # Interface: GooglePay
 
-Defined in: [src/angular/types.ts:36](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L36)
+Defined in: [src/angular/types.ts:36](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L36)
 
 ## Methods
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:36](https://github.com/mbates/squareup/blob/28
 
 > **attach**(`element`, `options?`): `Promise`\<`void`\>
 
-Defined in: [src/angular/types.ts:37](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L37)
+Defined in: [src/angular/types.ts:37](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L37)
 
 #### Parameters
 
@@ -36,7 +36,7 @@ Defined in: [src/angular/types.ts:37](https://github.com/mbates/squareup/blob/28
 
 > **destroy**(): `Promise`\<`void`\>
 
-Defined in: [src/angular/types.ts:38](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L38)
+Defined in: [src/angular/types.ts:38](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L38)
 
 #### Returns
 
@@ -48,7 +48,7 @@ Defined in: [src/angular/types.ts:38](https://github.com/mbates/squareup/blob/28
 
 > **tokenize**(): `Promise`\<[`TokenResult`](TokenResult.md)\>
 
-Defined in: [src/angular/types.ts:39](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L39)
+Defined in: [src/angular/types.ts:39](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L39)
 
 #### Returns
 

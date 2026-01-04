@@ -6,7 +6,7 @@
 
 # Interface: CatalogItemResponse
 
-Defined in: [src/react/hooks/useCatalog.ts:20](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L20)
+Defined in: [src/react/hooks/useCatalog.ts:20](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCatalog.ts#L20)
 
 Catalog item response
 
@@ -16,7 +16,7 @@ Catalog item response
 
 > `optional` **categoryId**: `string`
 
-Defined in: [src/react/hooks/useCatalog.ts:25](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L25)
+Defined in: [src/react/hooks/useCatalog.ts:25](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCatalog.ts#L25)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/react/hooks/useCatalog.ts:25](https://github.com/mbates/squareu
 
 > `optional` **description**: `string`
 
-Defined in: [src/react/hooks/useCatalog.ts:24](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L24)
+Defined in: [src/react/hooks/useCatalog.ts:24](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCatalog.ts#L24)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/react/hooks/useCatalog.ts:24](https://github.com/mbates/squareu
 
 > **id**: `string`
 
-Defined in: [src/react/hooks/useCatalog.ts:22](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L22)
+Defined in: [src/react/hooks/useCatalog.ts:22](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCatalog.ts#L22)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/react/hooks/useCatalog.ts:22](https://github.com/mbates/squareu
 
 > `optional` **imageUrl**: `string`
 
-Defined in: [src/react/hooks/useCatalog.ts:35](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L35)
+Defined in: [src/react/hooks/useCatalog.ts:35](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCatalog.ts#L35)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/react/hooks/useCatalog.ts:35](https://github.com/mbates/squareu
 
 > `optional` **name**: `string`
 
-Defined in: [src/react/hooks/useCatalog.ts:23](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L23)
+Defined in: [src/react/hooks/useCatalog.ts:23](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCatalog.ts#L23)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/react/hooks/useCatalog.ts:23](https://github.com/mbates/squareu
 
 > **type**: [`CatalogObjectType`](../type-aliases/CatalogObjectType.md)
 
-Defined in: [src/react/hooks/useCatalog.ts:21](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L21)
+Defined in: [src/react/hooks/useCatalog.ts:21](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCatalog.ts#L21)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/react/hooks/useCatalog.ts:21](https://github.com/mbates/squareu
 
 > `optional` **variations**: `object`[]
 
-Defined in: [src/react/hooks/useCatalog.ts:26](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useCatalog.ts#L26)
+Defined in: [src/react/hooks/useCatalog.ts:26](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useCatalog.ts#L26)
 
 #### id
 

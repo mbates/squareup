@@ -6,7 +6,7 @@
 
 # Interface: Card
 
-Defined in: [src/angular/types.ts:30](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L30)
+Defined in: [src/angular/types.ts:30](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L30)
 
 ## Methods
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:30](https://github.com/mbates/squareup/blob/28
 
 > **attach**(`element`): `Promise`\<`void`\>
 
-Defined in: [src/angular/types.ts:31](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L31)
+Defined in: [src/angular/types.ts:31](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L31)
 
 #### Parameters
 
@@ -32,7 +32,7 @@ Defined in: [src/angular/types.ts:31](https://github.com/mbates/squareup/blob/28
 
 > **destroy**(): `Promise`\<`void`\>
 
-Defined in: [src/angular/types.ts:32](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L32)
+Defined in: [src/angular/types.ts:32](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L32)
 
 #### Returns
 
@@ -44,7 +44,7 @@ Defined in: [src/angular/types.ts:32](https://github.com/mbates/squareup/blob/28
 
 > **tokenize**(): `Promise`\<[`TokenResult`](TokenResult.md)\>
 
-Defined in: [src/angular/types.ts:33](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L33)
+Defined in: [src/angular/types.ts:33](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L33)
 
 #### Returns
 

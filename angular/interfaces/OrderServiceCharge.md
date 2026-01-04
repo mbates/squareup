@@ -6,7 +6,7 @@
 
 # Interface: OrderServiceCharge
 
-Defined in: [src/angular/types.ts:145](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L145)
+Defined in: [src/angular/types.ts:145](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L145)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:145](https://github.com/mbates/squareup/blob/2
 
 > `optional` **amountMoney**: [`Money`](Money.md)
 
-Defined in: [src/angular/types.ts:148](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L148)
+Defined in: [src/angular/types.ts:148](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L148)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/angular/types.ts:148](https://github.com/mbates/squareup/blob/2
 
 > `optional` **name**: `string`
 
-Defined in: [src/angular/types.ts:146](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L146)
+Defined in: [src/angular/types.ts:146](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L146)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/angular/types.ts:146](https://github.com/mbates/squareup/blob/2
 
 > `optional` **percentage**: `string`
 
-Defined in: [src/angular/types.ts:147](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L147)
+Defined in: [src/angular/types.ts:147](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L147)

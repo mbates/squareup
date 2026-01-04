@@ -6,7 +6,7 @@
 
 # Interface: CardInputHandle
 
-Defined in: [src/react/components/CardInput.tsx:26](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/components/CardInput.tsx#L26)
+Defined in: [src/react/components/CardInput.tsx:26](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/components/CardInput.tsx#L26)
 
 CardInput imperative handle
 
@@ -16,7 +16,7 @@ CardInput imperative handle
 
 > **error**: `Error` \| `null`
 
-Defined in: [src/react/components/CardInput.tsx:32](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/components/CardInput.tsx#L32)
+Defined in: [src/react/components/CardInput.tsx:32](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/components/CardInput.tsx#L32)
 
 Current error, if any
 
@@ -26,7 +26,7 @@ Current error, if any
 
 > **loading**: `boolean`
 
-Defined in: [src/react/components/CardInput.tsx:34](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/components/CardInput.tsx#L34)
+Defined in: [src/react/components/CardInput.tsx:34](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/components/CardInput.tsx#L34)
 
 Whether tokenization is in progress
 
@@ -36,7 +36,7 @@ Whether tokenization is in progress
 
 > **ready**: `boolean`
 
-Defined in: [src/react/components/CardInput.tsx:30](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/components/CardInput.tsx#L30)
+Defined in: [src/react/components/CardInput.tsx:30](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/components/CardInput.tsx#L30)
 
 Whether the card is ready
 
@@ -46,7 +46,7 @@ Whether the card is ready
 
 > **tokenize**: () => `Promise`\<`string`\>
 
-Defined in: [src/react/components/CardInput.tsx:28](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/components/CardInput.tsx#L28)
+Defined in: [src/react/components/CardInput.tsx:28](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/components/CardInput.tsx#L28)
 
 Tokenize the card input
 

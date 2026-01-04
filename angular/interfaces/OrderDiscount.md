@@ -6,7 +6,7 @@
 
 # Interface: OrderDiscount
 
-Defined in: [src/angular/types.ts:132](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L132)
+Defined in: [src/angular/types.ts:132](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L132)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:132](https://github.com/mbates/squareup/blob/2
 
 > `optional` **amountMoney**: [`Money`](Money.md)
 
-Defined in: [src/angular/types.ts:135](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L135)
+Defined in: [src/angular/types.ts:135](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L135)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/angular/types.ts:135](https://github.com/mbates/squareup/blob/2
 
 > `optional` **name**: `string`
 
-Defined in: [src/angular/types.ts:133](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L133)
+Defined in: [src/angular/types.ts:133](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L133)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/angular/types.ts:133](https://github.com/mbates/squareup/blob/2
 
 > `optional` **percentage**: `string`
 
-Defined in: [src/angular/types.ts:134](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L134)
+Defined in: [src/angular/types.ts:134](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L134)
 
 ***
 
@@ -38,4 +38,4 @@ Defined in: [src/angular/types.ts:134](https://github.com/mbates/squareup/blob/2
 
 > `optional` **scope**: `"LINE_ITEM"` \| `"ORDER"`
 
-Defined in: [src/angular/types.ts:136](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/angular/types.ts#L136)
+Defined in: [src/angular/types.ts:136](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/angular/types.ts#L136)

@@ -8,7 +8,7 @@
 
 > **useSquarePayment**(`options`): [`UseSquarePaymentReturn`](../interfaces/UseSquarePaymentReturn.md)
 
-Defined in: [src/react/hooks/useSquarePayment.ts:55](https://github.com/mbates/squareup/blob/2891fe62b0e8af94ea47a5cdb6c79b3053a9ae62/src/react/hooks/useSquarePayment.ts#L55)
+Defined in: [src/react/hooks/useSquarePayment.ts:55](https://github.com/mbates/squareup/blob/51442cfe91df1809d815d2acb88b04112b6ed3da/src/react/hooks/useSquarePayment.ts#L55)
 
 Hook for integrating Square Web Payments SDK card input
 
