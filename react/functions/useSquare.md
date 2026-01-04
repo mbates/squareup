@@ -8,7 +8,7 @@
 
 > **useSquare**(): [`SquareContextValue`](../interfaces/SquareContextValue.md)
 
-Defined in: [src/react/SquareProvider.tsx:166](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/SquareProvider.tsx#L166)
+Defined in: [src/react/SquareProvider.tsx:166](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/SquareProvider.tsx#L166)
 
 Hook to access Square context
 

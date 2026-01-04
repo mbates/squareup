@@ -6,7 +6,7 @@
 
 # Interface: TokenError
 
-Defined in: [src/angular/types.ts:84](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L84)
+Defined in: [src/angular/types.ts:84](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L84)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:84](https://github.com/mbates/squareup/blob/98
 
 > `optional` **field**: `string`
 
-Defined in: [src/angular/types.ts:87](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L87)
+Defined in: [src/angular/types.ts:87](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L87)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/angular/types.ts:87](https://github.com/mbates/squareup/blob/98
 
 > **message**: `string`
 
-Defined in: [src/angular/types.ts:86](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L86)
+Defined in: [src/angular/types.ts:86](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L86)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/angular/types.ts:86](https://github.com/mbates/squareup/blob/98
 
 > **type**: `string`
 
-Defined in: [src/angular/types.ts:85](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L85)
+Defined in: [src/angular/types.ts:85](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L85)

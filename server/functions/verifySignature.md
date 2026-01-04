@@ -8,7 +8,7 @@
 
 > **verifySignature**(`rawBody`, `signature`, `signatureKey`, `notificationUrl?`): [`WebhookVerificationResult`](../interfaces/WebhookVerificationResult.md)
 
-Defined in: [src/server/webhook.ts:38](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/server/webhook.ts#L38)
+Defined in: [src/server/webhook.ts:38](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/server/webhook.ts#L38)
 
 Verify a Square webhook signature using HMAC-SHA256
 

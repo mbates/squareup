@@ -8,7 +8,7 @@
 
 > **useCatalog**(`options`): [`UseCatalogReturn`](../interfaces/UseCatalogReturn.md)
 
-Defined in: [src/react/hooks/useCatalog.ts:112](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/hooks/useCatalog.ts#L112)
+Defined in: [src/react/hooks/useCatalog.ts:112](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useCatalog.ts#L112)
 
 Hook for accessing catalog data via your backend API
 

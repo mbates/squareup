@@ -6,7 +6,7 @@
 
 # Interface: GiftCard
 
-Defined in: [src/react/types.ts:71](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/types.ts#L71)
+Defined in: [src/react/types.ts:71](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L71)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:71](https://github.com/mbates/squareup/blob/982d
 
 > **attach**: (`element`) => `Promise`\<`void`\>
 
-Defined in: [src/react/types.ts:72](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/types.ts#L72)
+Defined in: [src/react/types.ts:72](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L72)
 
 #### Parameters
 
@@ -32,7 +32,7 @@ Defined in: [src/react/types.ts:72](https://github.com/mbates/squareup/blob/982d
 
 > **destroy**: () => `Promise`\<`void`\>
 
-Defined in: [src/react/types.ts:73](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/types.ts#L73)
+Defined in: [src/react/types.ts:73](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L73)
 
 #### Returns
 
@@ -44,7 +44,7 @@ Defined in: [src/react/types.ts:73](https://github.com/mbates/squareup/blob/982d
 
 > **tokenize**: () => `Promise`\<[`TokenResult`](TokenResult.md)\>
 
-Defined in: [src/react/types.ts:74](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/types.ts#L74)
+Defined in: [src/react/types.ts:74](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L74)
 
 #### Returns
 

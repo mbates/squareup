@@ -6,7 +6,7 @@
 
 # Interface: UseOrdersOptions
 
-Defined in: [src/react/hooks/useOrders.ts:61](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/hooks/useOrders.ts#L61)
+Defined in: [src/react/hooks/useOrders.ts:61](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useOrders.ts#L61)
 
 Options for useOrders hook
 
@@ -16,7 +16,7 @@ Options for useOrders hook
 
 > `optional` **apiEndpoint**: `string`
 
-Defined in: [src/react/hooks/useOrders.ts:63](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/hooks/useOrders.ts#L63)
+Defined in: [src/react/hooks/useOrders.ts:63](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useOrders.ts#L63)
 
 API endpoint for orders (default: /api/orders)
 
@@ -26,7 +26,7 @@ API endpoint for orders (default: /api/orders)
 
 > `optional` **onError**: (`error`) => `void`
 
-Defined in: [src/react/hooks/useOrders.ts:67](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/hooks/useOrders.ts#L67)
+Defined in: [src/react/hooks/useOrders.ts:67](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useOrders.ts#L67)
 
 Callback on order error
 
@@ -46,7 +46,7 @@ Callback on order error
 
 > `optional` **onSuccess**: (`order`) => `void`
 
-Defined in: [src/react/hooks/useOrders.ts:65](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/hooks/useOrders.ts#L65)
+Defined in: [src/react/hooks/useOrders.ts:65](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useOrders.ts#L65)
 
 Callback on successful order creation
 

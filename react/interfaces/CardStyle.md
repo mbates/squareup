@@ -6,7 +6,7 @@
 
 # Interface: CardStyle
 
-Defined in: [src/react/types.ts:86](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/types.ts#L86)
+Defined in: [src/react/types.ts:86](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L86)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:86](https://github.com/mbates/squareup/blob/982d
 
 > `optional` **.input-container**: `CSSStyleDeclaration`
 
-Defined in: [src/react/types.ts:87](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/types.ts#L87)
+Defined in: [src/react/types.ts:87](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L87)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/react/types.ts:87](https://github.com/mbates/squareup/blob/982d
 
 > `optional` **.input-container.is-error**: `CSSStyleDeclaration`
 
-Defined in: [src/react/types.ts:89](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/types.ts#L89)
+Defined in: [src/react/types.ts:89](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L89)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/react/types.ts:89](https://github.com/mbates/squareup/blob/982d
 
 > `optional` **.input-container.is-focus**: `CSSStyleDeclaration`
 
-Defined in: [src/react/types.ts:88](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/types.ts#L88)
+Defined in: [src/react/types.ts:88](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L88)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [src/react/types.ts:88](https://github.com/mbates/squareup/blob/982d
 
 > `optional` **.message-icon**: `CSSStyleDeclaration`
 
-Defined in: [src/react/types.ts:91](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/types.ts#L91)
+Defined in: [src/react/types.ts:91](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L91)
 
 ***
 
@@ -46,7 +46,7 @@ Defined in: [src/react/types.ts:91](https://github.com/mbates/squareup/blob/982d
 
 > `optional` **.message-text**: `CSSStyleDeclaration`
 
-Defined in: [src/react/types.ts:90](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/types.ts#L90)
+Defined in: [src/react/types.ts:90](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L90)
 
 ***
 
@@ -54,7 +54,7 @@ Defined in: [src/react/types.ts:90](https://github.com/mbates/squareup/blob/982d
 
 > `optional` **.message-text.is-error**: `CSSStyleDeclaration`
 
-Defined in: [src/react/types.ts:92](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/types.ts#L92)
+Defined in: [src/react/types.ts:92](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L92)
 
 ***
 
@@ -62,7 +62,7 @@ Defined in: [src/react/types.ts:92](https://github.com/mbates/squareup/blob/982d
 
 > `optional` **input**: `CSSStyleDeclaration`
 
-Defined in: [src/react/types.ts:93](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/types.ts#L93)
+Defined in: [src/react/types.ts:93](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L93)
 
 ***
 
@@ -70,7 +70,7 @@ Defined in: [src/react/types.ts:93](https://github.com/mbates/squareup/blob/982d
 
 > `optional` **input::placeholder**: `CSSStyleDeclaration`
 
-Defined in: [src/react/types.ts:94](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/types.ts#L94)
+Defined in: [src/react/types.ts:94](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L94)
 
 ***
 
@@ -78,4 +78,4 @@ Defined in: [src/react/types.ts:94](https://github.com/mbates/squareup/blob/982d
 
 > `optional` **input.is-error**: `CSSStyleDeclaration`
 
-Defined in: [src/react/types.ts:95](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/types.ts#L95)
+Defined in: [src/react/types.ts:95](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/types.ts#L95)

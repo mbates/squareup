@@ -6,7 +6,7 @@
 
 # Class: SquareModule
 
-Defined in: [src/angular/square.module.ts:36](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/square.module.ts#L36)
+Defined in: [src/angular/square.module.ts:36](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/square.module.ts#L36)
 
 Square Angular module
 
@@ -33,7 +33,7 @@ export class AppModule {}
 
 > **new SquareModule**(`parentModule?`): `SquareModule`
 
-Defined in: [src/angular/square.module.ts:37](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/square.module.ts#L37)
+Defined in: [src/angular/square.module.ts:37](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/square.module.ts#L37)
 
 #### Parameters
 
@@ -51,7 +51,7 @@ Defined in: [src/angular/square.module.ts:37](https://github.com/mbates/squareup
 
 > `static` **forRoot**(`config`): `ModuleWithProviders`\<`SquareModule`\>
 
-Defined in: [src/angular/square.module.ts:51](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/square.module.ts#L51)
+Defined in: [src/angular/square.module.ts:51](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/square.module.ts#L51)
 
 Configure the Square module with application settings
 

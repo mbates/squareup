@@ -8,7 +8,7 @@
 
 > `const` **CardInput**: `ForwardRefExoticComponent`\<[`CardInputProps`](../interfaces/CardInputProps.md) & `RefAttributes`\<[`CardInputHandle`](../interfaces/CardInputHandle.md)\>\>
 
-Defined in: [src/react/components/CardInput.tsx:72](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/components/CardInput.tsx#L72)
+Defined in: [src/react/components/CardInput.tsx:72](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/components/CardInput.tsx#L72)
 
 Pre-built card input component using Square Web Payments SDK
 

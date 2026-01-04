@@ -6,7 +6,7 @@
 
 # Interface: PickupDetails
 
-Defined in: [src/angular/types.ts:158](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L158)
+Defined in: [src/angular/types.ts:158](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L158)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:158](https://github.com/mbates/squareup/blob/9
 
 > `optional` **note**: `string`
 
-Defined in: [src/angular/types.ts:162](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L162)
+Defined in: [src/angular/types.ts:162](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L162)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/angular/types.ts:162](https://github.com/mbates/squareup/blob/9
 
 > `optional` **pickupAt**: `string`
 
-Defined in: [src/angular/types.ts:161](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L161)
+Defined in: [src/angular/types.ts:161](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L161)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/angular/types.ts:161](https://github.com/mbates/squareup/blob/9
 
 > `optional` **recipient**: [`Recipient`](Recipient.md)
 
-Defined in: [src/angular/types.ts:159](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L159)
+Defined in: [src/angular/types.ts:159](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L159)
 
 ***
 
@@ -38,4 +38,4 @@ Defined in: [src/angular/types.ts:159](https://github.com/mbates/squareup/blob/9
 
 > `optional` **scheduleType**: `"SCHEDULED"` \| `"ASAP"`
 
-Defined in: [src/angular/types.ts:160](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L160)
+Defined in: [src/angular/types.ts:160](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L160)

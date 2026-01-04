@@ -6,7 +6,7 @@
 
 # Class: SquareCatalogService
 
-Defined in: [src/angular/services/square-catalog.service.ts:26](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/services/square-catalog.service.ts#L26)
+Defined in: [src/angular/services/square-catalog.service.ts:26](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-catalog.service.ts#L26)
 
 Service for Square catalog operations
 
@@ -41,7 +41,7 @@ export class ProductsComponent implements OnInit {
 
 > `readonly` **error$**: `Observable`\<`Error` \| `null`\>
 
-Defined in: [src/angular/services/square-catalog.service.ts:34](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/services/square-catalog.service.ts#L34)
+Defined in: [src/angular/services/square-catalog.service.ts:34](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-catalog.service.ts#L34)
 
 Observable of errors
 
@@ -51,7 +51,7 @@ Observable of errors
 
 > `readonly` **loading$**: `Observable`\<`boolean`\>
 
-Defined in: [src/angular/services/square-catalog.service.ts:31](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/services/square-catalog.service.ts#L31)
+Defined in: [src/angular/services/square-catalog.service.ts:31](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-catalog.service.ts#L31)
 
 Observable of loading state
 
@@ -61,7 +61,7 @@ Observable of loading state
 
 > **batchRetrieve**\<`T`\>(`objectIds`, `apiEndpoint`): `Observable`\<`T`\>
 
-Defined in: [src/angular/services/square-catalog.service.ts:160](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/services/square-catalog.service.ts#L160)
+Defined in: [src/angular/services/square-catalog.service.ts:160](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-catalog.service.ts#L160)
 
 Batch retrieve catalog items by IDs
 
@@ -97,7 +97,7 @@ Observable of the catalog items
 
 > **list**\<`T`\>(`types?`, `apiEndpoint?`): `Observable`\<`T`\>
 
-Defined in: [src/angular/services/square-catalog.service.ts:43](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/services/square-catalog.service.ts#L43)
+Defined in: [src/angular/services/square-catalog.service.ts:43](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-catalog.service.ts#L43)
 
 List catalog items
 
@@ -133,7 +133,7 @@ Observable of catalog items
 
 > **retrieve**\<`T`\>(`objectId`, `apiEndpoint`): `Observable`\<`T`\>
 
-Defined in: [src/angular/services/square-catalog.service.ts:124](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/services/square-catalog.service.ts#L124)
+Defined in: [src/angular/services/square-catalog.service.ts:124](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-catalog.service.ts#L124)
 
 Retrieve a catalog item by ID
 
@@ -169,7 +169,7 @@ Observable of the catalog item
 
 > **search**\<`T`\>(`request`, `apiEndpoint`): `Observable`\<`T`\>
 
-Defined in: [src/angular/services/square-catalog.service.ts:84](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/services/square-catalog.service.ts#L84)
+Defined in: [src/angular/services/square-catalog.service.ts:84](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/services/square-catalog.service.ts#L84)
 
 Search catalog items
 

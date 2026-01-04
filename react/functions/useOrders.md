@@ -8,7 +8,7 @@
 
 > **useOrders**(`options`): [`UseOrdersReturn`](../interfaces/UseOrdersReturn.md)
 
-Defined in: [src/react/hooks/useOrders.ts:118](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/hooks/useOrders.ts#L118)
+Defined in: [src/react/hooks/useOrders.ts:118](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/hooks/useOrders.ts#L118)
 
 Hook for managing orders via your backend API
 

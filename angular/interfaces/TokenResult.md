@@ -6,7 +6,7 @@
 
 # Interface: TokenResult
 
-Defined in: [src/angular/types.ts:78](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L78)
+Defined in: [src/angular/types.ts:78](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L78)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:78](https://github.com/mbates/squareup/blob/98
 
 > `optional` **errors**: [`TokenError`](TokenError.md)[]
 
-Defined in: [src/angular/types.ts:81](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L81)
+Defined in: [src/angular/types.ts:81](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L81)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/angular/types.ts:81](https://github.com/mbates/squareup/blob/98
 
 > **status**: `"OK"` \| `"Cancel"` \| `"Error"`
 
-Defined in: [src/angular/types.ts:79](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L79)
+Defined in: [src/angular/types.ts:79](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L79)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/angular/types.ts:79](https://github.com/mbates/squareup/blob/98
 
 > `optional` **token**: `string`
 
-Defined in: [src/angular/types.ts:80](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L80)
+Defined in: [src/angular/types.ts:80](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L80)

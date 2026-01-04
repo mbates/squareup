@@ -6,7 +6,7 @@
 
 # Interface: OrderFulfillment
 
-Defined in: [src/angular/types.ts:151](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L151)
+Defined in: [src/angular/types.ts:151](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L151)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:151](https://github.com/mbates/squareup/blob/9
 
 > `optional` **pickupDetails**: [`PickupDetails`](PickupDetails.md)
 
-Defined in: [src/angular/types.ts:154](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L154)
+Defined in: [src/angular/types.ts:154](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L154)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/angular/types.ts:154](https://github.com/mbates/squareup/blob/9
 
 > `optional` **shipmentDetails**: [`ShipmentDetails`](ShipmentDetails.md)
 
-Defined in: [src/angular/types.ts:155](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L155)
+Defined in: [src/angular/types.ts:155](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L155)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/angular/types.ts:155](https://github.com/mbates/squareup/blob/9
 
 > `optional` **state**: `string`
 
-Defined in: [src/angular/types.ts:153](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L153)
+Defined in: [src/angular/types.ts:153](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L153)
 
 ***
 
@@ -38,4 +38,4 @@ Defined in: [src/angular/types.ts:153](https://github.com/mbates/squareup/blob/9
 
 > **type**: `"PICKUP"` \| `"SHIPMENT"` \| `"DELIVERY"`
 
-Defined in: [src/angular/types.ts:152](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/angular/types.ts#L152)
+Defined in: [src/angular/types.ts:152](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/angular/types.ts#L152)

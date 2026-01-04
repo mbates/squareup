@@ -8,7 +8,7 @@
 
 > **PaymentButton**(`__namedParameters`): `Element`
 
-Defined in: [src/react/components/PaymentButton.tsx:74](https://github.com/mbates/squareup/blob/982da1d528d8eb74b8387f5a958673b817575922/src/react/components/PaymentButton.tsx#L74)
+Defined in: [src/react/components/PaymentButton.tsx:74](https://github.com/mbates/squareup/blob/5cbceb7be75e480372e4059c7badcdbbc730e2e4/src/react/components/PaymentButton.tsx#L74)
 
 Digital wallet payment button (Google Pay / Apple Pay)
 
