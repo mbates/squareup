@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.2.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: CreateCustomerRequest
 
-Defined in: [src/angular/types.ts:185](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L185)
+Defined in: [src/angular/types.ts:185](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L185)
 
 Customer types
 
@@ -16,7 +16,7 @@ Customer types
 
 > `optional` **address**: [`Address`](Address.md)
 
-Defined in: [src/angular/types.ts:191](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L191)
+Defined in: [src/angular/types.ts:191](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L191)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/angular/types.ts:191](https://github.com/mbates/squareup/blob/8
 
 > `optional` **companyName**: `string`
 
-Defined in: [src/angular/types.ts:188](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L188)
+Defined in: [src/angular/types.ts:188](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L188)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/angular/types.ts:188](https://github.com/mbates/squareup/blob/8
 
 > `optional` **emailAddress**: `string`
 
-Defined in: [src/angular/types.ts:189](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L189)
+Defined in: [src/angular/types.ts:189](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L189)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/angular/types.ts:189](https://github.com/mbates/squareup/blob/8
 
 > `optional` **familyName**: `string`
 
-Defined in: [src/angular/types.ts:187](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L187)
+Defined in: [src/angular/types.ts:187](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L187)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/angular/types.ts:187](https://github.com/mbates/squareup/blob/8
 
 > `optional` **givenName**: `string`
 
-Defined in: [src/angular/types.ts:186](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L186)
+Defined in: [src/angular/types.ts:186](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L186)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/angular/types.ts:186](https://github.com/mbates/squareup/blob/8
 
 > `optional` **note**: `string`
 
-Defined in: [src/angular/types.ts:192](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L192)
+Defined in: [src/angular/types.ts:192](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L192)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/angular/types.ts:192](https://github.com/mbates/squareup/blob/8
 
 > `optional` **phoneNumber**: `string`
 
-Defined in: [src/angular/types.ts:190](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L190)
+Defined in: [src/angular/types.ts:190](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L190)
 
 ***
 
@@ -72,4 +72,4 @@ Defined in: [src/angular/types.ts:190](https://github.com/mbates/squareup/blob/8
 
 > `optional` **referenceId**: `string`
 
-Defined in: [src/angular/types.ts:193](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L193)
+Defined in: [src/angular/types.ts:193](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L193)

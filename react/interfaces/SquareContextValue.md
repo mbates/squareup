@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.2.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: SquareContextValue
 
-Defined in: [src/react/types.ts:22](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L22)
+Defined in: [src/react/types.ts:22](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L22)
 
 Square context value
 
@@ -16,7 +16,7 @@ Square context value
 
 > **config**: [`SquareProviderConfig`](SquareProviderConfig.md)
 
-Defined in: [src/react/types.ts:24](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L24)
+Defined in: [src/react/types.ts:24](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L24)
 
 Configuration
 
@@ -26,7 +26,7 @@ Configuration
 
 > **error**: `Error` \| `null`
 
-Defined in: [src/react/types.ts:30](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L30)
+Defined in: [src/react/types.ts:30](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L30)
 
 Error if SDK failed to load
 
@@ -36,7 +36,7 @@ Error if SDK failed to load
 
 > **payments**: [`Payments`](Payments.md) \| `null`
 
-Defined in: [src/react/types.ts:28](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L28)
+Defined in: [src/react/types.ts:28](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L28)
 
 Square Payments instance
 
@@ -46,6 +46,6 @@ Square Payments instance
 
 > **sdkLoaded**: `boolean`
 
-Defined in: [src/react/types.ts:26](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L26)
+Defined in: [src/react/types.ts:26](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L26)
 
 Whether the Web Payments SDK is loaded

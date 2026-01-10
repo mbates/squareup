@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.2.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: CardOptions
 
-Defined in: [src/angular/types.ts:48](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L48)
+Defined in: [src/angular/types.ts:48](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L48)
 
 ## Properties
 
@@ -14,4 +14,4 @@ Defined in: [src/angular/types.ts:48](https://github.com/mbates/squareup/blob/82
 
 > `optional` **style**: [`CardStyle`](CardStyle.md)
 
-Defined in: [src/angular/types.ts:49](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L49)
+Defined in: [src/angular/types.ts:49](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L49)

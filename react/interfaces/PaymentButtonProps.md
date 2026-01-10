@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.2.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: PaymentButtonProps
 
-Defined in: [src/react/components/PaymentButton.tsx:13](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/components/PaymentButton.tsx#L13)
+Defined in: [src/react/components/PaymentButton.tsx:13](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/components/PaymentButton.tsx#L13)
 
 Props for PaymentButton component
 
@@ -16,7 +16,7 @@ Props for PaymentButton component
 
 > `optional` **amount**: `number`
 
-Defined in: [src/react/components/PaymentButton.tsx:17](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/components/PaymentButton.tsx#L17)
+Defined in: [src/react/components/PaymentButton.tsx:17](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/components/PaymentButton.tsx#L17)
 
 Amount to display/charge (for display purposes)
 
@@ -26,7 +26,7 @@ Amount to display/charge (for display purposes)
 
 > `optional` **buttonOptions**: [`DigitalWalletOptions`](DigitalWalletOptions.md)
 
-Defined in: [src/react/components/PaymentButton.tsx:21](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/components/PaymentButton.tsx#L21)
+Defined in: [src/react/components/PaymentButton.tsx:21](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/components/PaymentButton.tsx#L21)
 
 Button styling options
 
@@ -36,7 +36,7 @@ Button styling options
 
 > `optional` **className**: `string`
 
-Defined in: [src/react/components/PaymentButton.tsx:23](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/components/PaymentButton.tsx#L23)
+Defined in: [src/react/components/PaymentButton.tsx:23](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/components/PaymentButton.tsx#L23)
 
 Additional CSS class name
 
@@ -46,7 +46,7 @@ Additional CSS class name
 
 > `optional` **currency**: `string`
 
-Defined in: [src/react/components/PaymentButton.tsx:19](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/components/PaymentButton.tsx#L19)
+Defined in: [src/react/components/PaymentButton.tsx:19](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/components/PaymentButton.tsx#L19)
 
 Currency code
 
@@ -56,7 +56,7 @@ Currency code
 
 > `optional` **onCancel**: () => `void`
 
-Defined in: [src/react/components/PaymentButton.tsx:33](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/components/PaymentButton.tsx#L33)
+Defined in: [src/react/components/PaymentButton.tsx:33](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/components/PaymentButton.tsx#L33)
 
 Callback when payment is cancelled
 
@@ -70,7 +70,7 @@ Callback when payment is cancelled
 
 > `optional` **onError**: (`error`) => `void`
 
-Defined in: [src/react/components/PaymentButton.tsx:31](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/components/PaymentButton.tsx#L31)
+Defined in: [src/react/components/PaymentButton.tsx:31](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/components/PaymentButton.tsx#L31)
 
 Callback when an error occurs
 
@@ -90,7 +90,7 @@ Callback when an error occurs
 
 > `optional` **onPayment**: (`token`) => `void`
 
-Defined in: [src/react/components/PaymentButton.tsx:29](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/components/PaymentButton.tsx#L29)
+Defined in: [src/react/components/PaymentButton.tsx:29](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/components/PaymentButton.tsx#L29)
 
 Callback when payment is successful
 
@@ -110,7 +110,7 @@ Callback when payment is successful
 
 > `optional` **onReady**: () => `void`
 
-Defined in: [src/react/components/PaymentButton.tsx:27](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/components/PaymentButton.tsx#L27)
+Defined in: [src/react/components/PaymentButton.tsx:27](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/components/PaymentButton.tsx#L27)
 
 Callback when payment method is ready
 
@@ -124,7 +124,7 @@ Callback when payment method is ready
 
 > `optional` **style**: `CSSProperties`
 
-Defined in: [src/react/components/PaymentButton.tsx:25](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/components/PaymentButton.tsx#L25)
+Defined in: [src/react/components/PaymentButton.tsx:25](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/components/PaymentButton.tsx#L25)
 
 Inline styles for the container
 
@@ -134,6 +134,6 @@ Inline styles for the container
 
 > **type**: [`PaymentMethodType`](../type-aliases/PaymentMethodType.md)
 
-Defined in: [src/react/components/PaymentButton.tsx:15](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/components/PaymentButton.tsx#L15)
+Defined in: [src/react/components/PaymentButton.tsx:15](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/components/PaymentButton.tsx#L15)
 
 Payment method type

@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.2.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: UseOrdersReturn
 
-Defined in: [src/react/hooks/useOrders.ts:73](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useOrders.ts#L73)
+Defined in: [src/react/hooks/useOrders.ts:73](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L73)
 
 Return type for useOrders hook
 
@@ -20,7 +20,7 @@ Return type for useOrders hook
 
 > **create**: (`options`) => `Promise`\<[`OrderResponse`](OrderResponse.md)\>
 
-Defined in: [src/react/hooks/useOrders.ts:75](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useOrders.ts#L75)
+Defined in: [src/react/hooks/useOrders.ts:75](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L75)
 
 Create a new order
 
@@ -40,7 +40,7 @@ Create a new order
 
 > **data**: [`OrderResponse`](OrderResponse.md) \| `null`
 
-Defined in: [src/react/types.ts:208](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L208)
+Defined in: [src/react/types.ts:208](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L208)
 
 #### Inherited from
 
@@ -52,7 +52,7 @@ Defined in: [src/react/types.ts:208](https://github.com/mbates/squareup/blob/824
 
 > **error**: `Error` \| `null`
 
-Defined in: [src/react/types.ts:209](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L209)
+Defined in: [src/react/types.ts:209](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L209)
 
 #### Inherited from
 
@@ -64,7 +64,7 @@ Defined in: [src/react/types.ts:209](https://github.com/mbates/squareup/blob/824
 
 > **get**: (`orderId`) => `Promise`\<[`OrderResponse`](OrderResponse.md)\>
 
-Defined in: [src/react/hooks/useOrders.ts:77](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useOrders.ts#L77)
+Defined in: [src/react/hooks/useOrders.ts:77](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L77)
 
 Get an order by ID
 
@@ -84,7 +84,7 @@ Get an order by ID
 
 > **loading**: `boolean`
 
-Defined in: [src/react/types.ts:210](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L210)
+Defined in: [src/react/types.ts:210](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L210)
 
 #### Inherited from
 
@@ -96,7 +96,7 @@ Defined in: [src/react/types.ts:210](https://github.com/mbates/squareup/blob/824
 
 > **reset**: () => `void`
 
-Defined in: [src/react/hooks/useOrders.ts:79](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useOrders.ts#L79)
+Defined in: [src/react/hooks/useOrders.ts:79](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L79)
 
 Reset the hook state
 

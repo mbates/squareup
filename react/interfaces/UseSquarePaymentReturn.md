@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.2.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: UseSquarePaymentReturn
 
-Defined in: [src/react/types.ts:198](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L198)
+Defined in: [src/react/types.ts:198](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L198)
 
 Hook state types
 
@@ -20,7 +20,7 @@ Hook state types
 
 > **card**: [`Card`](Card.md) \| `null`
 
-Defined in: [src/react/types.ts:201](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L201)
+Defined in: [src/react/types.ts:201](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L201)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/react/types.ts:201](https://github.com/mbates/squareup/blob/824
 
 > **cardRef**: (`instance`) => `void` \| () => `VoidOrUndefinedOnly`
 
-Defined in: [src/react/types.ts:199](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L199)
+Defined in: [src/react/types.ts:199](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L199)
 
 #### Parameters
 
@@ -46,7 +46,7 @@ Defined in: [src/react/types.ts:199](https://github.com/mbates/squareup/blob/824
 
 > **error**: `Error` \| `null`
 
-Defined in: [src/react/types.ts:194](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L194)
+Defined in: [src/react/types.ts:194](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L194)
 
 #### Inherited from
 
@@ -58,7 +58,7 @@ Defined in: [src/react/types.ts:194](https://github.com/mbates/squareup/blob/824
 
 > **loading**: `boolean`
 
-Defined in: [src/react/types.ts:195](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L195)
+Defined in: [src/react/types.ts:195](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L195)
 
 #### Inherited from
 
@@ -70,7 +70,7 @@ Defined in: [src/react/types.ts:195](https://github.com/mbates/squareup/blob/824
 
 > **ready**: `boolean`
 
-Defined in: [src/react/types.ts:193](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L193)
+Defined in: [src/react/types.ts:193](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L193)
 
 #### Inherited from
 
@@ -82,7 +82,7 @@ Defined in: [src/react/types.ts:193](https://github.com/mbates/squareup/blob/824
 
 > **tokenize**: () => `Promise`\<`string`\>
 
-Defined in: [src/react/types.ts:200](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/types.ts#L200)
+Defined in: [src/react/types.ts:200](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L200)
 
 #### Returns
 

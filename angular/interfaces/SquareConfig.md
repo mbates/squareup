@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.2.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: SquareConfig
 
-Defined in: [src/angular/types.ts:8](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L8)
+Defined in: [src/angular/types.ts:8](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L8)
 
 Square module configuration
 
@@ -16,7 +16,7 @@ Square module configuration
 
 > `optional` **accessToken**: `string`
 
-Defined in: [src/angular/types.ts:16](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L16)
+Defined in: [src/angular/types.ts:16](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L16)
 
 Access token for server-side operations
 
@@ -26,7 +26,7 @@ Access token for server-side operations
 
 > **applicationId**: `string`
 
-Defined in: [src/angular/types.ts:10](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L10)
+Defined in: [src/angular/types.ts:10](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L10)
 
 Square application ID
 
@@ -36,7 +36,7 @@ Square application ID
 
 > `optional` **currency**: `string`
 
-Defined in: [src/angular/types.ts:18](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L18)
+Defined in: [src/angular/types.ts:18](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L18)
 
 Default currency code
 
@@ -46,7 +46,7 @@ Default currency code
 
 > `optional` **environment**: `"sandbox"` \| `"production"`
 
-Defined in: [src/angular/types.ts:14](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L14)
+Defined in: [src/angular/types.ts:14](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L14)
 
 Environment (sandbox or production)
 
@@ -56,6 +56,6 @@ Environment (sandbox or production)
 
 > **locationId**: `string`
 
-Defined in: [src/angular/types.ts:12](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L12)
+Defined in: [src/angular/types.ts:12](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L12)
 
 Square location ID

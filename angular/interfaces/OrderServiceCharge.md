@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.2.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: OrderServiceCharge
 
-Defined in: [src/angular/types.ts:145](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L145)
+Defined in: [src/angular/types.ts:145](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L145)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:145](https://github.com/mbates/squareup/blob/8
 
 > `optional` **amountMoney**: [`Money`](Money.md)
 
-Defined in: [src/angular/types.ts:148](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L148)
+Defined in: [src/angular/types.ts:148](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L148)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/angular/types.ts:148](https://github.com/mbates/squareup/blob/8
 
 > `optional` **name**: `string`
 
-Defined in: [src/angular/types.ts:146](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L146)
+Defined in: [src/angular/types.ts:146](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L146)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/angular/types.ts:146](https://github.com/mbates/squareup/blob/8
 
 > `optional` **percentage**: `string`
 
-Defined in: [src/angular/types.ts:147](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L147)
+Defined in: [src/angular/types.ts:147](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L147)

@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.2.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: DigitalWalletOptions
 
-Defined in: [src/angular/types.ts:72](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L72)
+Defined in: [src/angular/types.ts:72](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L72)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:72](https://github.com/mbates/squareup/blob/82
 
 > `optional` **buttonColor**: `"default"` \| `"black"` \| `"white"`
 
-Defined in: [src/angular/types.ts:73](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L73)
+Defined in: [src/angular/types.ts:73](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L73)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/angular/types.ts:73](https://github.com/mbates/squareup/blob/82
 
 > `optional` **buttonSizeMode**: `"fill"` \| `"static"`
 
-Defined in: [src/angular/types.ts:74](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L74)
+Defined in: [src/angular/types.ts:74](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L74)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/angular/types.ts:74](https://github.com/mbates/squareup/blob/82
 
 > `optional` **buttonType**: `"long"` \| `"short"`
 
-Defined in: [src/angular/types.ts:75](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/types.ts#L75)
+Defined in: [src/angular/types.ts:75](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/types.ts#L75)

@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.2.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Class: SquareSdkService
 
-Defined in: [src/angular/services/square-sdk.service.ts:36](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/services/square-sdk.service.ts#L36)
+Defined in: [src/angular/services/square-sdk.service.ts:36](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/services/square-sdk.service.ts#L36)
 
 Service for loading and managing the Square Web Payments SDK
 
@@ -31,7 +31,7 @@ export class CheckoutComponent {
 
 > **new SquareSdkService**(`config`, `ngZone`): `SquareSdkService`
 
-Defined in: [src/angular/services/square-sdk.service.ts:56](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/services/square-sdk.service.ts#L56)
+Defined in: [src/angular/services/square-sdk.service.ts:56](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/services/square-sdk.service.ts#L56)
 
 #### Parameters
 
@@ -53,7 +53,7 @@ Defined in: [src/angular/services/square-sdk.service.ts:56](https://github.com/m
 
 > `readonly` **error$**: `Observable`\<`Error` \| `null`\>
 
-Defined in: [src/angular/services/square-sdk.service.ts:49](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/services/square-sdk.service.ts#L49)
+Defined in: [src/angular/services/square-sdk.service.ts:49](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/services/square-sdk.service.ts#L49)
 
 Observable of any SDK loading errors
 
@@ -63,7 +63,7 @@ Observable of any SDK loading errors
 
 > `readonly` **loading$**: `Observable`\<`boolean`\>
 
-Defined in: [src/angular/services/square-sdk.service.ts:46](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/services/square-sdk.service.ts#L46)
+Defined in: [src/angular/services/square-sdk.service.ts:46](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/services/square-sdk.service.ts#L46)
 
 Observable of SDK loading state
 
@@ -73,7 +73,7 @@ Observable of SDK loading state
 
 > `readonly` **payments$**: `Observable`\<[`Payments`](../interfaces/Payments.md) \| `null`\>
 
-Defined in: [src/angular/services/square-sdk.service.ts:43](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/services/square-sdk.service.ts#L43)
+Defined in: [src/angular/services/square-sdk.service.ts:43](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/services/square-sdk.service.ts#L43)
 
 Observable of the Payments instance once SDK is loaded
 
@@ -85,7 +85,7 @@ Observable of the Payments instance once SDK is loaded
 
 > **get** **isReady**(): `boolean`
 
-Defined in: [src/angular/services/square-sdk.service.ts:52](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/services/square-sdk.service.ts#L52)
+Defined in: [src/angular/services/square-sdk.service.ts:52](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/services/square-sdk.service.ts#L52)
 
 Whether the SDK is ready
 
@@ -99,7 +99,7 @@ Whether the SDK is ready
 
 > **whenReady**(): `Observable`\<[`Payments`](../interfaces/Payments.md)\>
 
-Defined in: [src/angular/services/square-sdk.service.ts:66](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/angular/services/square-sdk.service.ts#L66)
+Defined in: [src/angular/services/square-sdk.service.ts:66](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/angular/services/square-sdk.service.ts#L66)
 
 Get a promise that resolves when the SDK is ready
 

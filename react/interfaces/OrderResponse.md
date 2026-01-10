@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v0.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v0.2.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: OrderResponse
 
-Defined in: [src/react/hooks/useOrders.ts:37](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useOrders.ts#L37)
+Defined in: [src/react/hooks/useOrders.ts:37](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L37)
 
 Order response
 
@@ -16,7 +16,7 @@ Order response
 
 > `optional` **createdAt**: `string`
 
-Defined in: [src/react/hooks/useOrders.ts:55](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useOrders.ts#L55)
+Defined in: [src/react/hooks/useOrders.ts:55](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L55)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/react/hooks/useOrders.ts:55](https://github.com/mbates/squareup
 
 > `optional` **customerId**: `string`
 
-Defined in: [src/react/hooks/useOrders.ts:53](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useOrders.ts#L53)
+Defined in: [src/react/hooks/useOrders.ts:53](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L53)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/react/hooks/useOrders.ts:53](https://github.com/mbates/squareup
 
 > **id**: `string`
 
-Defined in: [src/react/hooks/useOrders.ts:38](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useOrders.ts#L38)
+Defined in: [src/react/hooks/useOrders.ts:38](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L38)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/react/hooks/useOrders.ts:38](https://github.com/mbates/squareup
 
 > `optional` **lineItems**: `object`[]
 
-Defined in: [src/react/hooks/useOrders.ts:44](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useOrders.ts#L44)
+Defined in: [src/react/hooks/useOrders.ts:44](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L44)
 
 #### name?
 
@@ -72,7 +72,7 @@ Defined in: [src/react/hooks/useOrders.ts:44](https://github.com/mbates/squareup
 
 > `optional` **referenceId**: `string`
 
-Defined in: [src/react/hooks/useOrders.ts:54](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useOrders.ts#L54)
+Defined in: [src/react/hooks/useOrders.ts:54](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L54)
 
 ***
 
@@ -80,7 +80,7 @@ Defined in: [src/react/hooks/useOrders.ts:54](https://github.com/mbates/squareup
 
 > **status**: `string`
 
-Defined in: [src/react/hooks/useOrders.ts:39](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useOrders.ts#L39)
+Defined in: [src/react/hooks/useOrders.ts:39](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L39)
 
 ***
 
@@ -88,7 +88,7 @@ Defined in: [src/react/hooks/useOrders.ts:39](https://github.com/mbates/squareup
 
 > `optional` **totalMoney**: `object`
 
-Defined in: [src/react/hooks/useOrders.ts:40](https://github.com/mbates/squareup/blob/824f4816f17ba50f86315ee987746e0a114472bf/src/react/hooks/useOrders.ts#L40)
+Defined in: [src/react/hooks/useOrders.ts:40](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L40)
 
 #### amount
 
