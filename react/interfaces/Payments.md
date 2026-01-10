@@ -6,7 +6,7 @@
 
 # Interface: Payments
 
-Defined in: [src/react/types.ts:37](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L37)
+Defined in: [src/react/types.ts:37](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L37)
 
 Web Payments SDK types
 These are simplified types for the Square Web Payments SDK
@@ -17,7 +17,7 @@ These are simplified types for the Square Web Payments SDK
 
 > **ach**: (`options?`) => `Promise`\<[`Ach`](Ach.md)\>
 
-Defined in: [src/react/types.ts:42](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L42)
+Defined in: [src/react/types.ts:42](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L42)
 
 #### Parameters
 
@@ -35,7 +35,7 @@ Defined in: [src/react/types.ts:42](https://github.com/mbates/squareup/blob/8c46
 
 > **applePay**: (`options`) => `Promise`\<[`ApplePay`](ApplePay.md)\>
 
-Defined in: [src/react/types.ts:40](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L40)
+Defined in: [src/react/types.ts:40](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L40)
 
 #### Parameters
 
@@ -53,7 +53,7 @@ Defined in: [src/react/types.ts:40](https://github.com/mbates/squareup/blob/8c46
 
 > **card**: (`options?`) => `Promise`\<[`Card`](Card.md)\>
 
-Defined in: [src/react/types.ts:38](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L38)
+Defined in: [src/react/types.ts:38](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L38)
 
 #### Parameters
 
@@ -71,7 +71,7 @@ Defined in: [src/react/types.ts:38](https://github.com/mbates/squareup/blob/8c46
 
 > **giftCard**: (`options?`) => `Promise`\<[`GiftCard`](GiftCard.md)\>
 
-Defined in: [src/react/types.ts:41](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L41)
+Defined in: [src/react/types.ts:41](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L41)
 
 #### Parameters
 
@@ -89,7 +89,7 @@ Defined in: [src/react/types.ts:41](https://github.com/mbates/squareup/blob/8c46
 
 > **googlePay**: (`options`) => `Promise`\<[`GooglePay`](GooglePay.md)\>
 
-Defined in: [src/react/types.ts:39](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L39)
+Defined in: [src/react/types.ts:39](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L39)
 
 #### Parameters
 
@@ -107,7 +107,7 @@ Defined in: [src/react/types.ts:39](https://github.com/mbates/squareup/blob/8c46
 
 > **verifyBuyer**: (`sourceId`, `verificationDetails`) => `Promise`\<[`VerificationResult`](VerificationResult.md)\>
 
-Defined in: [src/react/types.ts:43](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L43)
+Defined in: [src/react/types.ts:43](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L43)
 
 #### Parameters
 

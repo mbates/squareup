@@ -8,7 +8,7 @@
 
 > **LoyaltyEventType** = `"loyalty.account.created"` \| `"loyalty.account.updated"` \| `"loyalty.program.created"` \| `"loyalty.promotion.created"`
 
-Defined in: [src/server/types.ts:37](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/server/types.ts#L37)
+Defined in: [src/server/types.ts:37](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/server/types.ts#L37)
 
 @bates-solutions/squareup/server
 

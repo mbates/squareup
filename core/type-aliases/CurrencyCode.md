@@ -8,6 +8,6 @@
 
 > **CurrencyCode** = `"USD"` \| `"CAD"` \| `"GBP"` \| `"EUR"` \| `"AUD"` \| `"JPY"`
 
-Defined in: [src/core/types/index.ts:9](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/core/types/index.ts#L9)
+Defined in: [src/core/types/index.ts:9](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/core/types/index.ts#L9)
 
 Currency codes supported by Square

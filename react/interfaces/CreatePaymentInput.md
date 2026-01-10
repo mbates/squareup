@@ -6,7 +6,7 @@
 
 # Interface: CreatePaymentInput
 
-Defined in: [src/react/hooks/usePayments.ts:7](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/usePayments.ts#L7)
+Defined in: [src/react/hooks/usePayments.ts:7](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/usePayments.ts#L7)
 
 Payment creation options for the hook
 
@@ -16,7 +16,7 @@ Payment creation options for the hook
 
 > **amount**: `number`
 
-Defined in: [src/react/hooks/usePayments.ts:11](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/usePayments.ts#L11)
+Defined in: [src/react/hooks/usePayments.ts:11](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/usePayments.ts#L11)
 
 Amount in smallest currency unit (cents for USD)
 
@@ -26,7 +26,7 @@ Amount in smallest currency unit (cents for USD)
 
 > `optional` **autocomplete**: `boolean`
 
-Defined in: [src/react/hooks/usePayments.ts:23](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/usePayments.ts#L23)
+Defined in: [src/react/hooks/usePayments.ts:23](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/usePayments.ts#L23)
 
 Whether to auto-complete the payment
 
@@ -36,7 +36,7 @@ Whether to auto-complete the payment
 
 > `optional` **currency**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:13](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/usePayments.ts#L13)
+Defined in: [src/react/hooks/usePayments.ts:13](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/usePayments.ts#L13)
 
 Currency code
 
@@ -46,7 +46,7 @@ Currency code
 
 > `optional` **customerId**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:15](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/usePayments.ts#L15)
+Defined in: [src/react/hooks/usePayments.ts:15](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/usePayments.ts#L15)
 
 Customer ID to associate with payment
 
@@ -56,7 +56,7 @@ Customer ID to associate with payment
 
 > `optional` **note**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:21](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/usePayments.ts#L21)
+Defined in: [src/react/hooks/usePayments.ts:21](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/usePayments.ts#L21)
 
 Note for the payment
 
@@ -66,7 +66,7 @@ Note for the payment
 
 > `optional` **orderId**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:17](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/usePayments.ts#L17)
+Defined in: [src/react/hooks/usePayments.ts:17](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/usePayments.ts#L17)
 
 Order ID to associate with payment
 
@@ -76,7 +76,7 @@ Order ID to associate with payment
 
 > `optional` **referenceId**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:19](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/usePayments.ts#L19)
+Defined in: [src/react/hooks/usePayments.ts:19](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/usePayments.ts#L19)
 
 Reference ID for external tracking
 
@@ -86,6 +86,6 @@ Reference ID for external tracking
 
 > **sourceId**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:9](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/usePayments.ts#L9)
+Defined in: [src/react/hooks/usePayments.ts:9](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/usePayments.ts#L9)
 
 Payment source token from card tokenization

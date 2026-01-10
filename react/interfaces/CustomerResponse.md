@@ -6,7 +6,7 @@
 
 # Interface: CustomerResponse
 
-Defined in: [src/react/hooks/useCustomers.ts:34](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useCustomers.ts#L34)
+Defined in: [src/react/hooks/useCustomers.ts:34](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L34)
 
 Customer response
 
@@ -16,7 +16,7 @@ Customer response
 
 > `optional` **address**: [`CustomerAddressInput`](CustomerAddressInput.md)
 
-Defined in: [src/react/hooks/useCustomers.ts:44](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useCustomers.ts#L44)
+Defined in: [src/react/hooks/useCustomers.ts:44](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L44)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/react/hooks/useCustomers.ts:44](https://github.com/mbates/squar
 
 > `optional` **companyName**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:40](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useCustomers.ts#L40)
+Defined in: [src/react/hooks/useCustomers.ts:40](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L40)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/react/hooks/useCustomers.ts:40](https://github.com/mbates/squar
 
 > `optional` **createdAt**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:45](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useCustomers.ts#L45)
+Defined in: [src/react/hooks/useCustomers.ts:45](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L45)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/react/hooks/useCustomers.ts:45](https://github.com/mbates/squar
 
 > `optional` **emailAddress**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:38](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useCustomers.ts#L38)
+Defined in: [src/react/hooks/useCustomers.ts:38](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L38)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/react/hooks/useCustomers.ts:38](https://github.com/mbates/squar
 
 > `optional` **familyName**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:37](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useCustomers.ts#L37)
+Defined in: [src/react/hooks/useCustomers.ts:37](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L37)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/react/hooks/useCustomers.ts:37](https://github.com/mbates/squar
 
 > `optional` **givenName**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:36](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useCustomers.ts#L36)
+Defined in: [src/react/hooks/useCustomers.ts:36](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L36)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/react/hooks/useCustomers.ts:36](https://github.com/mbates/squar
 
 > **id**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:35](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useCustomers.ts#L35)
+Defined in: [src/react/hooks/useCustomers.ts:35](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L35)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [src/react/hooks/useCustomers.ts:35](https://github.com/mbates/squar
 
 > `optional` **nickname**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:41](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useCustomers.ts#L41)
+Defined in: [src/react/hooks/useCustomers.ts:41](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L41)
 
 ***
 
@@ -80,7 +80,7 @@ Defined in: [src/react/hooks/useCustomers.ts:41](https://github.com/mbates/squar
 
 > `optional` **note**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:42](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useCustomers.ts#L42)
+Defined in: [src/react/hooks/useCustomers.ts:42](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L42)
 
 ***
 
@@ -88,7 +88,7 @@ Defined in: [src/react/hooks/useCustomers.ts:42](https://github.com/mbates/squar
 
 > `optional` **phoneNumber**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:39](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useCustomers.ts#L39)
+Defined in: [src/react/hooks/useCustomers.ts:39](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L39)
 
 ***
 
@@ -96,7 +96,7 @@ Defined in: [src/react/hooks/useCustomers.ts:39](https://github.com/mbates/squar
 
 > `optional` **referenceId**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:43](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useCustomers.ts#L43)
+Defined in: [src/react/hooks/useCustomers.ts:43](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L43)
 
 ***
 
@@ -104,4 +104,4 @@ Defined in: [src/react/hooks/useCustomers.ts:43](https://github.com/mbates/squar
 
 > `optional` **updatedAt**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:46](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useCustomers.ts#L46)
+Defined in: [src/react/hooks/useCustomers.ts:46](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L46)

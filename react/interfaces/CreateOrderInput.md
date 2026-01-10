@@ -6,7 +6,7 @@
 
 # Interface: CreateOrderInput
 
-Defined in: [src/react/hooks/useOrders.ts:23](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L23)
+Defined in: [src/react/hooks/useOrders.ts:23](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useOrders.ts#L23)
 
 Order creation options
 
@@ -16,7 +16,7 @@ Order creation options
 
 > `optional` **customerId**: `string`
 
-Defined in: [src/react/hooks/useOrders.ts:27](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L27)
+Defined in: [src/react/hooks/useOrders.ts:27](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useOrders.ts#L27)
 
 Customer ID to associate with order
 
@@ -26,7 +26,7 @@ Customer ID to associate with order
 
 > **lineItems**: [`OrderLineItemInput`](OrderLineItemInput.md)[]
 
-Defined in: [src/react/hooks/useOrders.ts:25](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L25)
+Defined in: [src/react/hooks/useOrders.ts:25](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useOrders.ts#L25)
 
 Line items for the order
 
@@ -36,7 +36,7 @@ Line items for the order
 
 > `optional` **paymentToken**: `string`
 
-Defined in: [src/react/hooks/useOrders.ts:31](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L31)
+Defined in: [src/react/hooks/useOrders.ts:31](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useOrders.ts#L31)
 
 Optional payment token to pay for the order
 
@@ -46,6 +46,6 @@ Optional payment token to pay for the order
 
 > `optional` **referenceId**: `string`
 
-Defined in: [src/react/hooks/useOrders.ts:29](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/useOrders.ts#L29)
+Defined in: [src/react/hooks/useOrders.ts:29](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useOrders.ts#L29)
 
 Reference ID for external tracking

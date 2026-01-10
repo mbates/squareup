@@ -6,7 +6,7 @@
 
 # Interface: UsePaymentsOptions
 
-Defined in: [src/react/hooks/usePayments.ts:45](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/usePayments.ts#L45)
+Defined in: [src/react/hooks/usePayments.ts:45](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/usePayments.ts#L45)
 
 Options for usePayments hook
 
@@ -16,7 +16,7 @@ Options for usePayments hook
 
 > `optional` **apiEndpoint**: `string`
 
-Defined in: [src/react/hooks/usePayments.ts:47](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/usePayments.ts#L47)
+Defined in: [src/react/hooks/usePayments.ts:47](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/usePayments.ts#L47)
 
 API endpoint for creating payments (default: /api/payments)
 
@@ -26,7 +26,7 @@ API endpoint for creating payments (default: /api/payments)
 
 > `optional` **onError**: (`error`) => `void`
 
-Defined in: [src/react/hooks/usePayments.ts:51](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/usePayments.ts#L51)
+Defined in: [src/react/hooks/usePayments.ts:51](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/usePayments.ts#L51)
 
 Callback on payment error
 
@@ -46,7 +46,7 @@ Callback on payment error
 
 > `optional` **onSuccess**: (`payment`) => `void`
 
-Defined in: [src/react/hooks/usePayments.ts:49](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/hooks/usePayments.ts#L49)
+Defined in: [src/react/hooks/usePayments.ts:49](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/usePayments.ts#L49)
 
 Callback on successful payment
 

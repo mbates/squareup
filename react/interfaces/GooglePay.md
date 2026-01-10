@@ -6,7 +6,7 @@
 
 # Interface: GooglePay
 
-Defined in: [src/react/types.ts:59](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L59)
+Defined in: [src/react/types.ts:59](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L59)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:59](https://github.com/mbates/squareup/blob/8c46
 
 > **attach**: (`element`, `options?`) => `Promise`\<`void`\>
 
-Defined in: [src/react/types.ts:60](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L60)
+Defined in: [src/react/types.ts:60](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L60)
 
 #### Parameters
 
@@ -36,7 +36,7 @@ Defined in: [src/react/types.ts:60](https://github.com/mbates/squareup/blob/8c46
 
 > **destroy**: () => `Promise`\<`void`\>
 
-Defined in: [src/react/types.ts:61](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L61)
+Defined in: [src/react/types.ts:61](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L61)
 
 #### Returns
 
@@ -48,7 +48,7 @@ Defined in: [src/react/types.ts:61](https://github.com/mbates/squareup/blob/8c46
 
 > **tokenize**: () => `Promise`\<[`TokenResult`](TokenResult.md)\>
 
-Defined in: [src/react/types.ts:62](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/react/types.ts#L62)
+Defined in: [src/react/types.ts:62](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L62)
 
 #### Returns
 

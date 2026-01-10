@@ -8,7 +8,7 @@
 
 > **InvoiceEventType** = `"invoice.created"` \| `"invoice.updated"` \| `"invoice.published"` \| `"invoice.payment_made"` \| `"invoice.canceled"`
 
-Defined in: [src/server/types.ts:29](https://github.com/mbates/squareup/blob/8c46134cf39ac2cfc86b2d998f7cb56c9436089e/src/server/types.ts#L29)
+Defined in: [src/server/types.ts:29](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/server/types.ts#L29)
 
 @bates-solutions/squareup/server
 
