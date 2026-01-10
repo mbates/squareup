@@ -6,7 +6,7 @@
 
 # Interface: WebhookResponse
 
-Defined in: [src/server/middleware/nextjs.ts:12](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/server/middleware/nextjs.ts#L12)
+Defined in: [server/middleware/nextjs.ts:12](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/server/middleware/nextjs.ts#L12)
 
 Response type for Next.js webhook handlers
 
@@ -16,7 +16,7 @@ Response type for Next.js webhook handlers
 
 > **body**: `Record`\<`string`, `unknown`\>
 
-Defined in: [src/server/middleware/nextjs.ts:14](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/server/middleware/nextjs.ts#L14)
+Defined in: [server/middleware/nextjs.ts:14](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/server/middleware/nextjs.ts#L14)
 
 ***
 
@@ -24,4 +24,4 @@ Defined in: [src/server/middleware/nextjs.ts:14](https://github.com/mbates/squar
 
 > **status**: `number`
 
-Defined in: [src/server/middleware/nextjs.ts:13](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/server/middleware/nextjs.ts#L13)
+Defined in: [server/middleware/nextjs.ts:13](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/server/middleware/nextjs.ts#L13)

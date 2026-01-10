@@ -6,7 +6,5 @@
 
 ## Modules
 
-- [angular](angular/README.md)
 - [core](core/README.md)
-- [react](react/README.md)
 - [server](server/README.md)

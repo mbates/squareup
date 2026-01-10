@@ -6,7 +6,7 @@
 
 # Interface: PaginatedResponse\<T\>
 
-Defined in: [src/core/types/index.ts:28](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/types/index.ts#L28)
+Defined in: [core/types/index.ts:28](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/types/index.ts#L28)
 
 Common response with pagination
 
@@ -22,7 +22,7 @@ Common response with pagination
 
 > `optional` **cursor**: `string`
 
-Defined in: [src/core/types/index.ts:30](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/types/index.ts#L30)
+Defined in: [core/types/index.ts:30](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/types/index.ts#L30)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/core/types/index.ts:30](https://github.com/mbates/squareup/blob
 
 > **data**: `T`[]
 
-Defined in: [src/core/types/index.ts:29](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/types/index.ts#L29)
+Defined in: [core/types/index.ts:29](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/types/index.ts#L29)

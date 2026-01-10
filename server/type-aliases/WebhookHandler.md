@@ -8,7 +8,7 @@
 
 > **WebhookHandler**\<`T`\> = (`event`) => `void` \| `Promise`\<`void`\>
 
-Defined in: [src/server/types.ts:97](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/server/types.ts#L97)
+Defined in: [server/types.ts:97](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/server/types.ts#L97)
 
 Handler function for webhook events
 

@@ -6,7 +6,7 @@
 
 # Class: OrderBuilder
 
-Defined in: [src/core/builders/order.builder.ts:53](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/builders/order.builder.ts#L53)
+Defined in: [core/builders/order.builder.ts:53](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/builders/order.builder.ts#L53)
 
 Fluent builder for creating Square orders
 
@@ -28,7 +28,7 @@ const order = await square.orders
 
 > **new OrderBuilder**(`client`, `locationId`): `OrderBuilder`
 
-Defined in: [src/core/builders/order.builder.ts:60](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/builders/order.builder.ts#L60)
+Defined in: [core/builders/order.builder.ts:60](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/builders/order.builder.ts#L60)
 
 #### Parameters
 
@@ -50,7 +50,7 @@ Defined in: [src/core/builders/order.builder.ts:60](https://github.com/mbates/sq
 
 > **addItem**(`item`): `this`
 
-Defined in: [src/core/builders/order.builder.ts:89](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/builders/order.builder.ts#L89)
+Defined in: [core/builders/order.builder.ts:89](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/builders/order.builder.ts#L89)
 
 Add a line item to the order
 
@@ -82,7 +82,7 @@ builder
 
 > **addItems**(`items`): `this`
 
-Defined in: [src/core/builders/order.builder.ts:124](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/builders/order.builder.ts#L124)
+Defined in: [core/builders/order.builder.ts:124](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/builders/order.builder.ts#L124)
 
 Add multiple line items at once
 
@@ -106,7 +106,7 @@ Builder instance for chaining
 
 > **build**(): `Promise`\<`Order`\>
 
-Defined in: [src/core/builders/order.builder.ts:184](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/builders/order.builder.ts#L184)
+Defined in: [core/builders/order.builder.ts:184](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/builders/order.builder.ts#L184)
 
 Build and create the order
 
@@ -130,7 +130,7 @@ When API call fails
 
 > **preview**(): `object`
 
-Defined in: [src/core/builders/order.builder.ts:214](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/builders/order.builder.ts#L214)
+Defined in: [core/builders/order.builder.ts:214](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/builders/order.builder.ts#L214)
 
 Preview the order without creating it
 Returns the order configuration that would be sent
@@ -169,7 +169,7 @@ Returns the order configuration that would be sent
 
 > **reset**(): `this`
 
-Defined in: [src/core/builders/order.builder.ts:235](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/builders/order.builder.ts#L235)
+Defined in: [core/builders/order.builder.ts:235](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/builders/order.builder.ts#L235)
 
 Reset the builder to start fresh
 
@@ -183,7 +183,7 @@ Reset the builder to start fresh
 
 > **withCurrency**(`currency`): `this`
 
-Defined in: [src/core/builders/order.builder.ts:71](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/builders/order.builder.ts#L71)
+Defined in: [core/builders/order.builder.ts:71](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/builders/order.builder.ts#L71)
 
 Set the currency for the order
 
@@ -207,7 +207,7 @@ Builder instance for chaining
 
 > **withCustomer**(`customerId`): `this`
 
-Defined in: [src/core/builders/order.builder.ts:148](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/builders/order.builder.ts#L148)
+Defined in: [core/builders/order.builder.ts:148](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/builders/order.builder.ts#L148)
 
 Associate a customer with the order
 
@@ -231,7 +231,7 @@ Builder instance for chaining
 
 > **withNote**(`_note`): `this`
 
-Defined in: [src/core/builders/order.builder.ts:170](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/builders/order.builder.ts#L170)
+Defined in: [core/builders/order.builder.ts:170](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/builders/order.builder.ts#L170)
 
 Add a note to the order
 
@@ -253,7 +253,7 @@ Builder instance for chaining
 
 > **withReference**(`referenceId`): `this`
 
-Defined in: [src/core/builders/order.builder.ts:159](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/builders/order.builder.ts#L159)
+Defined in: [core/builders/order.builder.ts:159](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/builders/order.builder.ts#L159)
 
 Add a reference ID for external tracking
 
@@ -277,7 +277,7 @@ Builder instance for chaining
 
 > **withTip**(`amount`): `this`
 
-Defined in: [src/core/builders/order.builder.ts:137](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/builders/order.builder.ts#L137)
+Defined in: [core/builders/order.builder.ts:137](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/builders/order.builder.ts#L137)
 
 Add a tip to the order
 
