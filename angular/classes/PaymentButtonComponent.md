@@ -6,7 +6,7 @@
 
 # Class: PaymentButtonComponent
 
-Defined in: [src/angular/components/payment-button.component.ts:53](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/components/payment-button.component.ts#L53)
+Defined in: [src/angular/components/payment-button.component.ts:53](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/components/payment-button.component.ts#L53)
 
 Payment button component for Google Pay / Apple Pay
 
@@ -37,7 +37,7 @@ Payment button component for Google Pay / Apple Pay
 
 > **new PaymentButtonComponent**(`sdk`, `cdr`): `PaymentButtonComponent`
 
-Defined in: [src/angular/components/payment-button.component.ts:81](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/components/payment-button.component.ts#L81)
+Defined in: [src/angular/components/payment-button.component.ts:81](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/components/payment-button.component.ts#L81)
 
 #### Parameters
 
@@ -59,7 +59,7 @@ Defined in: [src/angular/components/payment-button.component.ts:81](https://gith
 
 > `optional` **buttonOptions**: [`DigitalWalletOptions`](../interfaces/DigitalWalletOptions.md)
 
-Defined in: [src/angular/components/payment-button.component.ts:58](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/components/payment-button.component.ts#L58)
+Defined in: [src/angular/components/payment-button.component.ts:58](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/components/payment-button.component.ts#L58)
 
 Button styling options
 
@@ -69,7 +69,7 @@ Button styling options
 
 > **buttonReady**: `EventEmitter`\<`void`\>
 
-Defined in: [src/angular/components/payment-button.component.ts:61](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/components/payment-button.component.ts#L61)
+Defined in: [src/angular/components/payment-button.component.ts:61](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/components/payment-button.component.ts#L61)
 
 Emits when button is ready
 
@@ -79,7 +79,7 @@ Emits when button is ready
 
 > **cancel**: `EventEmitter`\<`void`\>
 
-Defined in: [src/angular/components/payment-button.component.ts:70](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/components/payment-button.component.ts#L70)
+Defined in: [src/angular/components/payment-button.component.ts:70](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/components/payment-button.component.ts#L70)
 
 Emits when payment is cancelled
 
@@ -89,7 +89,7 @@ Emits when payment is cancelled
 
 > **error**: `EventEmitter`\<`Error`\>
 
-Defined in: [src/angular/components/payment-button.component.ts:67](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/components/payment-button.component.ts#L67)
+Defined in: [src/angular/components/payment-button.component.ts:67](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/components/payment-button.component.ts#L67)
 
 Emits when an error occurs
 
@@ -99,7 +99,7 @@ Emits when an error occurs
 
 > **loading**: `boolean` = `false`
 
-Defined in: [src/angular/components/payment-button.component.ts:79](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/components/payment-button.component.ts#L79)
+Defined in: [src/angular/components/payment-button.component.ts:79](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/components/payment-button.component.ts#L79)
 
 ***
 
@@ -107,7 +107,7 @@ Defined in: [src/angular/components/payment-button.component.ts:79](https://gith
 
 > **payment**: `EventEmitter`\<`string`\>
 
-Defined in: [src/angular/components/payment-button.component.ts:64](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/components/payment-button.component.ts#L64)
+Defined in: [src/angular/components/payment-button.component.ts:64](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/components/payment-button.component.ts#L64)
 
 Emits payment token on success
 
@@ -117,7 +117,7 @@ Emits payment token on success
 
 > **ready**: `boolean` = `false`
 
-Defined in: [src/angular/components/payment-button.component.ts:78](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/components/payment-button.component.ts#L78)
+Defined in: [src/angular/components/payment-button.component.ts:78](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/components/payment-button.component.ts#L78)
 
 ***
 
@@ -125,7 +125,7 @@ Defined in: [src/angular/components/payment-button.component.ts:78](https://gith
 
 > **type**: `"googlePay"` \| `"applePay"` = `'googlePay'`
 
-Defined in: [src/angular/components/payment-button.component.ts:55](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/components/payment-button.component.ts#L55)
+Defined in: [src/angular/components/payment-button.component.ts:55](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/components/payment-button.component.ts#L55)
 
 Payment method type
 
@@ -135,7 +135,7 @@ Payment method type
 
 > **handleClick**(): `void`
 
-Defined in: [src/angular/components/payment-button.component.ts:105](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/components/payment-button.component.ts#L105)
+Defined in: [src/angular/components/payment-button.component.ts:105](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/components/payment-button.component.ts#L105)
 
 #### Returns
 
@@ -147,7 +147,7 @@ Defined in: [src/angular/components/payment-button.component.ts:105](https://git
 
 > **ngOnDestroy**(): `void`
 
-Defined in: [src/angular/components/payment-button.component.ts:97](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/components/payment-button.component.ts#L97)
+Defined in: [src/angular/components/payment-button.component.ts:97](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/components/payment-button.component.ts#L97)
 
 A callback method that performs custom clean-up, invoked immediately
 before a directive, pipe, or service instance is destroyed.
@@ -166,7 +166,7 @@ before a directive, pipe, or service instance is destroyed.
 
 > **ngOnInit**(): `void`
 
-Defined in: [src/angular/components/payment-button.component.ts:86](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/components/payment-button.component.ts#L86)
+Defined in: [src/angular/components/payment-button.component.ts:86](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/components/payment-button.component.ts#L86)
 
 A callback method that is invoked immediately after the
 default change detector has checked the directive's

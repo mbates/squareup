@@ -6,7 +6,7 @@
 
 # Interface: DigitalWalletOptions
 
-Defined in: [src/react/types.ts:119](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L119)
+Defined in: [src/react/types.ts:119](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L119)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:119](https://github.com/mbates/squareup/blob/d6b
 
 > `optional` **buttonColor**: `"default"` \| `"black"` \| `"white"`
 
-Defined in: [src/react/types.ts:120](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L120)
+Defined in: [src/react/types.ts:120](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L120)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/react/types.ts:120](https://github.com/mbates/squareup/blob/d6b
 
 > `optional` **buttonSizeMode**: `"fill"` \| `"static"`
 
-Defined in: [src/react/types.ts:121](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L121)
+Defined in: [src/react/types.ts:121](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L121)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/react/types.ts:121](https://github.com/mbates/squareup/blob/d6b
 
 > `optional` **buttonType**: `"buy"` \| `"donate"` \| `"plain"` \| `"order"` \| `"pay"` \| `"tip"`
 
-Defined in: [src/react/types.ts:122](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L122)
+Defined in: [src/react/types.ts:122](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L122)

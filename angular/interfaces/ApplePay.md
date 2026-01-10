@@ -6,7 +6,7 @@
 
 # Interface: ApplePay
 
-Defined in: [src/angular/types.ts:42](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L42)
+Defined in: [src/angular/types.ts:42](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L42)
 
 ## Methods
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:42](https://github.com/mbates/squareup/blob/d6
 
 > **attach**(`element`, `options?`): `Promise`\<`void`\>
 
-Defined in: [src/angular/types.ts:43](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L43)
+Defined in: [src/angular/types.ts:43](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L43)
 
 #### Parameters
 
@@ -36,7 +36,7 @@ Defined in: [src/angular/types.ts:43](https://github.com/mbates/squareup/blob/d6
 
 > **destroy**(): `Promise`\<`void`\>
 
-Defined in: [src/angular/types.ts:44](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L44)
+Defined in: [src/angular/types.ts:44](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L44)
 
 #### Returns
 
@@ -48,7 +48,7 @@ Defined in: [src/angular/types.ts:44](https://github.com/mbates/squareup/blob/d6
 
 > **tokenize**(): `Promise`\<[`TokenResult`](TokenResult.md)\>
 
-Defined in: [src/angular/types.ts:45](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L45)
+Defined in: [src/angular/types.ts:45](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L45)
 
 #### Returns
 

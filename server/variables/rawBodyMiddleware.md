@@ -8,7 +8,7 @@
 
 > `const` **rawBodyMiddleware**: `RequestHandler`
 
-Defined in: [src/server/middleware/express.ts:163](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/server/middleware/express.ts#L163)
+Defined in: [src/server/middleware/express.ts:163](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/server/middleware/express.ts#L163)
 
 Raw body parser middleware for Express
 

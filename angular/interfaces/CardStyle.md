@@ -6,7 +6,7 @@
 
 # Interface: CardStyle
 
-Defined in: [src/angular/types.ts:52](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L52)
+Defined in: [src/angular/types.ts:52](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L52)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:52](https://github.com/mbates/squareup/blob/d6
 
 > `optional` **.input-container**: `Record`\<`string`, `string`\>
 
-Defined in: [src/angular/types.ts:53](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L53)
+Defined in: [src/angular/types.ts:53](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L53)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/angular/types.ts:53](https://github.com/mbates/squareup/blob/d6
 
 > `optional` **.input-container.is-error**: `Record`\<`string`, `string`\>
 
-Defined in: [src/angular/types.ts:55](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L55)
+Defined in: [src/angular/types.ts:55](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L55)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/angular/types.ts:55](https://github.com/mbates/squareup/blob/d6
 
 > `optional` **.input-container.is-focus**: `Record`\<`string`, `string`\>
 
-Defined in: [src/angular/types.ts:54](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L54)
+Defined in: [src/angular/types.ts:54](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L54)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [src/angular/types.ts:54](https://github.com/mbates/squareup/blob/d6
 
 > `optional` **.message-icon**: `Record`\<`string`, `string`\>
 
-Defined in: [src/angular/types.ts:57](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L57)
+Defined in: [src/angular/types.ts:57](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L57)
 
 ***
 
@@ -46,7 +46,7 @@ Defined in: [src/angular/types.ts:57](https://github.com/mbates/squareup/blob/d6
 
 > `optional` **.message-text**: `Record`\<`string`, `string`\>
 
-Defined in: [src/angular/types.ts:56](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L56)
+Defined in: [src/angular/types.ts:56](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L56)
 
 ***
 
@@ -54,7 +54,7 @@ Defined in: [src/angular/types.ts:56](https://github.com/mbates/squareup/blob/d6
 
 > `optional` **.message-text.is-error**: `Record`\<`string`, `string`\>
 
-Defined in: [src/angular/types.ts:58](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L58)
+Defined in: [src/angular/types.ts:58](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L58)
 
 ***
 
@@ -62,7 +62,7 @@ Defined in: [src/angular/types.ts:58](https://github.com/mbates/squareup/blob/d6
 
 > `optional` **input**: `Record`\<`string`, `string`\>
 
-Defined in: [src/angular/types.ts:59](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L59)
+Defined in: [src/angular/types.ts:59](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L59)
 
 ***
 
@@ -70,7 +70,7 @@ Defined in: [src/angular/types.ts:59](https://github.com/mbates/squareup/blob/d6
 
 > `optional` **input::placeholder**: `Record`\<`string`, `string`\>
 
-Defined in: [src/angular/types.ts:61](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L61)
+Defined in: [src/angular/types.ts:61](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L61)
 
 ***
 
@@ -78,4 +78,4 @@ Defined in: [src/angular/types.ts:61](https://github.com/mbates/squareup/blob/d6
 
 > `optional` **input.is-focus**: `Record`\<`string`, `string`\>
 
-Defined in: [src/angular/types.ts:60](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L60)
+Defined in: [src/angular/types.ts:60](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L60)

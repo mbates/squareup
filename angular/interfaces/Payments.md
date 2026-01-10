@@ -6,7 +6,7 @@
 
 # Interface: Payments
 
-Defined in: [src/angular/types.ts:24](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L24)
+Defined in: [src/angular/types.ts:24](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L24)
 
 Square Web Payments SDK types
 
@@ -16,7 +16,7 @@ Square Web Payments SDK types
 
 > **applePay**(`options`): `Promise`\<[`ApplePay`](ApplePay.md)\>
 
-Defined in: [src/angular/types.ts:27](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L27)
+Defined in: [src/angular/types.ts:27](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L27)
 
 #### Parameters
 
@@ -34,7 +34,7 @@ Defined in: [src/angular/types.ts:27](https://github.com/mbates/squareup/blob/d6
 
 > **card**(`options?`): `Promise`\<[`Card`](Card.md)\>
 
-Defined in: [src/angular/types.ts:25](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L25)
+Defined in: [src/angular/types.ts:25](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L25)
 
 #### Parameters
 
@@ -52,7 +52,7 @@ Defined in: [src/angular/types.ts:25](https://github.com/mbates/squareup/blob/d6
 
 > **googlePay**(`options`): `Promise`\<[`GooglePay`](GooglePay.md)\>
 
-Defined in: [src/angular/types.ts:26](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L26)
+Defined in: [src/angular/types.ts:26](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L26)
 
 #### Parameters
 

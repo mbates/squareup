@@ -6,7 +6,7 @@
 
 # Class: SquareCardDirective
 
-Defined in: [src/angular/directives/square-card.directive.ts:52](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/directives/square-card.directive.ts#L52)
+Defined in: [src/angular/directives/square-card.directive.ts:52](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/directives/square-card.directive.ts#L52)
 
 Directive for attaching Square card input to an element
 
@@ -53,7 +53,7 @@ export class CheckoutComponent {
 
 > **new SquareCardDirective**(`elementRef`, `payments`): `SquareCardDirective`
 
-Defined in: [src/angular/directives/square-card.directive.ts:64](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/directives/square-card.directive.ts#L64)
+Defined in: [src/angular/directives/square-card.directive.ts:64](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/directives/square-card.directive.ts#L64)
 
 #### Parameters
 
@@ -75,7 +75,7 @@ Defined in: [src/angular/directives/square-card.directive.ts:64](https://github.
 
 > **cardError**: `EventEmitter`\<`Error`\>
 
-Defined in: [src/angular/directives/square-card.directive.ts:60](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/directives/square-card.directive.ts#L60)
+Defined in: [src/angular/directives/square-card.directive.ts:60](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/directives/square-card.directive.ts#L60)
 
 Emits when an error occurs
 
@@ -85,7 +85,7 @@ Emits when an error occurs
 
 > `optional` **cardOptions**: [`CardOptions`](../interfaces/CardOptions.md)
 
-Defined in: [src/angular/directives/square-card.directive.ts:54](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/directives/square-card.directive.ts#L54)
+Defined in: [src/angular/directives/square-card.directive.ts:54](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/directives/square-card.directive.ts#L54)
 
 Card styling options
 
@@ -95,7 +95,7 @@ Card styling options
 
 > **cardReady**: `EventEmitter`\<`void`\>
 
-Defined in: [src/angular/directives/square-card.directive.ts:57](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/directives/square-card.directive.ts#L57)
+Defined in: [src/angular/directives/square-card.directive.ts:57](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/directives/square-card.directive.ts#L57)
 
 Emits when card input is ready
 
@@ -105,7 +105,7 @@ Emits when card input is ready
 
 > **ngOnDestroy**(): `void`
 
-Defined in: [src/angular/directives/square-card.directive.ts:82](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/directives/square-card.directive.ts#L82)
+Defined in: [src/angular/directives/square-card.directive.ts:82](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/directives/square-card.directive.ts#L82)
 
 A callback method that performs custom clean-up, invoked immediately
 before a directive, pipe, or service instance is destroyed.
@@ -124,7 +124,7 @@ before a directive, pipe, or service instance is destroyed.
 
 > **ngOnInit**(): `void`
 
-Defined in: [src/angular/directives/square-card.directive.ts:69](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/directives/square-card.directive.ts#L69)
+Defined in: [src/angular/directives/square-card.directive.ts:69](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/directives/square-card.directive.ts#L69)
 
 A callback method that is invoked immediately after the
 default change detector has checked the directive's

@@ -6,7 +6,7 @@
 
 # Interface: CreateOrderRequest
 
-Defined in: [src/angular/types.ts:112](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L112)
+Defined in: [src/angular/types.ts:112](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L112)
 
 Order types
 
@@ -16,7 +16,7 @@ Order types
 
 > `optional` **customerId**: `string`
 
-Defined in: [src/angular/types.ts:118](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L118)
+Defined in: [src/angular/types.ts:118](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L118)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/angular/types.ts:118](https://github.com/mbates/squareup/blob/d
 
 > `optional` **discounts**: [`OrderDiscount`](OrderDiscount.md)[]
 
-Defined in: [src/angular/types.ts:114](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L114)
+Defined in: [src/angular/types.ts:114](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L114)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/angular/types.ts:114](https://github.com/mbates/squareup/blob/d
 
 > `optional` **fulfillments**: [`OrderFulfillment`](OrderFulfillment.md)[]
 
-Defined in: [src/angular/types.ts:117](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L117)
+Defined in: [src/angular/types.ts:117](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L117)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/angular/types.ts:117](https://github.com/mbates/squareup/blob/d
 
 > `optional` **lineItems**: [`OrderLineItem`](OrderLineItem.md)[]
 
-Defined in: [src/angular/types.ts:113](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L113)
+Defined in: [src/angular/types.ts:113](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L113)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/angular/types.ts:113](https://github.com/mbates/squareup/blob/d
 
 > `optional` **note**: `string`
 
-Defined in: [src/angular/types.ts:120](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L120)
+Defined in: [src/angular/types.ts:120](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L120)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/angular/types.ts:120](https://github.com/mbates/squareup/blob/d
 
 > `optional` **referenceId**: `string`
 
-Defined in: [src/angular/types.ts:119](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L119)
+Defined in: [src/angular/types.ts:119](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L119)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/angular/types.ts:119](https://github.com/mbates/squareup/blob/d
 
 > `optional` **serviceCharges**: [`OrderServiceCharge`](OrderServiceCharge.md)[]
 
-Defined in: [src/angular/types.ts:116](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L116)
+Defined in: [src/angular/types.ts:116](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L116)
 
 ***
 
@@ -72,4 +72,4 @@ Defined in: [src/angular/types.ts:116](https://github.com/mbates/squareup/blob/d
 
 > `optional` **taxes**: [`OrderTax`](OrderTax.md)[]
 
-Defined in: [src/angular/types.ts:115](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L115)
+Defined in: [src/angular/types.ts:115](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L115)

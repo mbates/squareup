@@ -6,7 +6,7 @@
 
 # Interface: Address
 
-Defined in: [src/angular/types.ts:196](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L196)
+Defined in: [src/angular/types.ts:196](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L196)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:196](https://github.com/mbates/squareup/blob/d
 
 > `optional` **addressLine1**: `string`
 
-Defined in: [src/angular/types.ts:197](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L197)
+Defined in: [src/angular/types.ts:197](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L197)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/angular/types.ts:197](https://github.com/mbates/squareup/blob/d
 
 > `optional` **addressLine2**: `string`
 
-Defined in: [src/angular/types.ts:198](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L198)
+Defined in: [src/angular/types.ts:198](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L198)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/angular/types.ts:198](https://github.com/mbates/squareup/blob/d
 
 > `optional` **administrativeDistrictLevel1**: `string`
 
-Defined in: [src/angular/types.ts:200](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L200)
+Defined in: [src/angular/types.ts:200](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L200)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [src/angular/types.ts:200](https://github.com/mbates/squareup/blob/d
 
 > `optional` **country**: `string`
 
-Defined in: [src/angular/types.ts:202](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L202)
+Defined in: [src/angular/types.ts:202](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L202)
 
 ***
 
@@ -46,7 +46,7 @@ Defined in: [src/angular/types.ts:202](https://github.com/mbates/squareup/blob/d
 
 > `optional` **locality**: `string`
 
-Defined in: [src/angular/types.ts:199](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L199)
+Defined in: [src/angular/types.ts:199](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L199)
 
 ***
 
@@ -54,4 +54,4 @@ Defined in: [src/angular/types.ts:199](https://github.com/mbates/squareup/blob/d
 
 > `optional` **postalCode**: `string`
 
-Defined in: [src/angular/types.ts:201](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L201)
+Defined in: [src/angular/types.ts:201](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L201)

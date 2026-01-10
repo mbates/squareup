@@ -6,7 +6,7 @@
 
 # Interface: TokenResult
 
-Defined in: [src/react/types.ts:125](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L125)
+Defined in: [src/react/types.ts:125](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L125)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:125](https://github.com/mbates/squareup/blob/d6b
 
 > `optional` **details**: `object`
 
-Defined in: [src/react/types.ts:129](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L129)
+Defined in: [src/react/types.ts:129](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L129)
 
 #### billing?
 
@@ -54,7 +54,7 @@ Defined in: [src/react/types.ts:129](https://github.com/mbates/squareup/blob/d6b
 
 > `optional` **errors**: [`TokenError`](TokenError.md)[]
 
-Defined in: [src/react/types.ts:128](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L128)
+Defined in: [src/react/types.ts:128](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L128)
 
 ***
 
@@ -62,7 +62,7 @@ Defined in: [src/react/types.ts:128](https://github.com/mbates/squareup/blob/d6b
 
 > **status**: `"OK"` \| `"Cancel"` \| `"Error"`
 
-Defined in: [src/react/types.ts:126](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L126)
+Defined in: [src/react/types.ts:126](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L126)
 
 ***
 
@@ -70,4 +70,4 @@ Defined in: [src/react/types.ts:126](https://github.com/mbates/squareup/blob/d6b
 
 > `optional` **token**: `string`
 
-Defined in: [src/react/types.ts:127](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L127)
+Defined in: [src/react/types.ts:127](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L127)

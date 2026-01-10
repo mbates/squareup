@@ -6,7 +6,7 @@
 
 # Class: SquareApiError
 
-Defined in: [src/core/errors.ts:55](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/core/errors.ts#L55)
+Defined in: [src/core/errors.ts:55](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/errors.ts#L55)
 
 API-level errors from Square
 
@@ -20,7 +20,7 @@ API-level errors from Square
 
 > **new SquareApiError**(`message`, `code`, `statusCode`, `errors`): `SquareApiError`
 
-Defined in: [src/core/errors.ts:63](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/core/errors.ts#L63)
+Defined in: [src/core/errors.ts:63](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/errors.ts#L63)
 
 #### Parameters
 
@@ -54,7 +54,7 @@ Defined in: [src/core/errors.ts:63](https://github.com/mbates/squareup/blob/d6b2
 
 > `readonly` **code**: [`SquareErrorCode`](../type-aliases/SquareErrorCode.md)
 
-Defined in: [src/core/errors.ts:31](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/core/errors.ts#L31)
+Defined in: [src/core/errors.ts:31](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/errors.ts#L31)
 
 #### Inherited from
 
@@ -66,7 +66,7 @@ Defined in: [src/core/errors.ts:31](https://github.com/mbates/squareup/blob/d6b2
 
 > `readonly` `optional` **details**: `unknown`
 
-Defined in: [src/core/errors.ts:33](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/core/errors.ts#L33)
+Defined in: [src/core/errors.ts:33](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/errors.ts#L33)
 
 #### Inherited from
 
@@ -78,7 +78,7 @@ Defined in: [src/core/errors.ts:33](https://github.com/mbates/squareup/blob/d6b2
 
 > `readonly` **errors**: `object`[]
 
-Defined in: [src/core/errors.ts:56](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/core/errors.ts#L56)
+Defined in: [src/core/errors.ts:56](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/errors.ts#L56)
 
 #### category
 
@@ -102,7 +102,7 @@ Defined in: [src/core/errors.ts:56](https://github.com/mbates/squareup/blob/d6b2
 
 > `readonly` `optional` **statusCode**: `number`
 
-Defined in: [src/core/errors.ts:32](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/core/errors.ts#L32)
+Defined in: [src/core/errors.ts:32](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/core/errors.ts#L32)
 
 #### Inherited from
 

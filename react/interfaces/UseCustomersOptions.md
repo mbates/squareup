@@ -6,7 +6,7 @@
 
 # Interface: UseCustomersOptions
 
-Defined in: [src/react/hooks/useCustomers.ts:52](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L52)
+Defined in: [src/react/hooks/useCustomers.ts:52](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/hooks/useCustomers.ts#L52)
 
 Options for useCustomers hook
 
@@ -16,7 +16,7 @@ Options for useCustomers hook
 
 > `optional` **apiEndpoint**: `string`
 
-Defined in: [src/react/hooks/useCustomers.ts:54](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L54)
+Defined in: [src/react/hooks/useCustomers.ts:54](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/hooks/useCustomers.ts#L54)
 
 API endpoint for customers (default: /api/customers)
 
@@ -26,7 +26,7 @@ API endpoint for customers (default: /api/customers)
 
 > `optional` **onError**: (`error`) => `void`
 
-Defined in: [src/react/hooks/useCustomers.ts:58](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L58)
+Defined in: [src/react/hooks/useCustomers.ts:58](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/hooks/useCustomers.ts#L58)
 
 Callback on error
 
@@ -46,7 +46,7 @@ Callback on error
 
 > `optional` **onSuccess**: (`customer`) => `void`
 
-Defined in: [src/react/hooks/useCustomers.ts:56](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useCustomers.ts#L56)
+Defined in: [src/react/hooks/useCustomers.ts:56](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/hooks/useCustomers.ts#L56)
 
 Callback on successful operation
 

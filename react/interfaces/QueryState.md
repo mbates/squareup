@@ -6,7 +6,7 @@
 
 # Interface: QueryState\<T\>
 
-Defined in: [src/react/types.ts:216](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L216)
+Defined in: [src/react/types.ts:216](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L216)
 
 Query hook state
 
@@ -26,7 +26,7 @@ Query hook state
 
 > **data**: `T` \| `null`
 
-Defined in: [src/react/types.ts:217](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L217)
+Defined in: [src/react/types.ts:217](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L217)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [src/react/types.ts:217](https://github.com/mbates/squareup/blob/d6b
 
 > **error**: `Error` \| `null`
 
-Defined in: [src/react/types.ts:218](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L218)
+Defined in: [src/react/types.ts:218](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L218)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [src/react/types.ts:218](https://github.com/mbates/squareup/blob/d6b
 
 > **loading**: `boolean`
 
-Defined in: [src/react/types.ts:219](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L219)
+Defined in: [src/react/types.ts:219](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L219)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [src/react/types.ts:219](https://github.com/mbates/squareup/blob/d6b
 
 > **refetch**: () => `Promise`\<`void`\>
 
-Defined in: [src/react/types.ts:220](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L220)
+Defined in: [src/react/types.ts:220](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L220)
 
 #### Returns
 

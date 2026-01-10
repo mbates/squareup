@@ -6,7 +6,7 @@
 
 # Class: SquarePaymentsService
 
-Defined in: [src/angular/services/square-payments.service.ts:45](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/services/square-payments.service.ts#L45)
+Defined in: [src/angular/services/square-payments.service.ts:45](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/services/square-payments.service.ts#L45)
 
 Service for Square payment operations
 
@@ -42,7 +42,7 @@ export class CheckoutComponent implements OnInit, OnDestroy {
 
 > **new SquarePaymentsService**(`config`, `sdk`): `SquarePaymentsService`
 
-Defined in: [src/angular/services/square-payments.service.ts:60](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/services/square-payments.service.ts#L60)
+Defined in: [src/angular/services/square-payments.service.ts:60](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/services/square-payments.service.ts#L60)
 
 #### Parameters
 
@@ -64,7 +64,7 @@ Defined in: [src/angular/services/square-payments.service.ts:60](https://github.
 
 > `readonly` **error$**: `Observable`\<`Error` \| `null`\>
 
-Defined in: [src/angular/services/square-payments.service.ts:55](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/services/square-payments.service.ts#L55)
+Defined in: [src/angular/services/square-payments.service.ts:55](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/services/square-payments.service.ts#L55)
 
 Observable of errors
 
@@ -74,7 +74,7 @@ Observable of errors
 
 > `readonly` **loading$**: `Observable`\<`boolean`\>
 
-Defined in: [src/angular/services/square-payments.service.ts:52](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/services/square-payments.service.ts#L52)
+Defined in: [src/angular/services/square-payments.service.ts:52](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/services/square-payments.service.ts#L52)
 
 Observable of loading state
 
@@ -84,7 +84,7 @@ Observable of loading state
 
 > `readonly` **ready$**: `Observable`\<`boolean`\>
 
-Defined in: [src/angular/services/square-payments.service.ts:58](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/services/square-payments.service.ts#L58)
+Defined in: [src/angular/services/square-payments.service.ts:58](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/services/square-payments.service.ts#L58)
 
 Observable of card ready state
 
@@ -94,7 +94,7 @@ Observable of card ready state
 
 > **attachCard**(`element`, `options?`): `Observable`\<`void`\>
 
-Defined in: [src/angular/services/square-payments.service.ts:72](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/services/square-payments.service.ts#L72)
+Defined in: [src/angular/services/square-payments.service.ts:72](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/services/square-payments.service.ts#L72)
 
 Attach a card input to an element
 
@@ -124,7 +124,7 @@ Observable that completes when card is attached
 
 > **createPayment**\<`T`\>(`request`, `apiEndpoint`): `Observable`\<`T`\>
 
-Defined in: [src/angular/services/square-payments.service.ts:153](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/services/square-payments.service.ts#L153)
+Defined in: [src/angular/services/square-payments.service.ts:153](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/services/square-payments.service.ts#L153)
 
 Create a payment via backend API
 
@@ -160,7 +160,7 @@ Observable of the payment response
 
 > **destroyCard**(): `void`
 
-Defined in: [src/angular/services/square-payments.service.ts:100](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/services/square-payments.service.ts#L100)
+Defined in: [src/angular/services/square-payments.service.ts:100](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/services/square-payments.service.ts#L100)
 
 Destroy the current card instance
 
@@ -174,7 +174,7 @@ Destroy the current card instance
 
 > **tokenize**(): `Observable`\<`string`\>
 
-Defined in: [src/angular/services/square-payments.service.ts:113](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/services/square-payments.service.ts#L113)
+Defined in: [src/angular/services/square-payments.service.ts:113](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/services/square-payments.service.ts#L113)
 
 Tokenize the card input
 

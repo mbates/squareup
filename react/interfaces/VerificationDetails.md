@@ -6,7 +6,7 @@
 
 # Interface: VerificationDetails
 
-Defined in: [src/react/types.ts:149](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L149)
+Defined in: [src/react/types.ts:149](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L149)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/react/types.ts:149](https://github.com/mbates/squareup/blob/d6b
 
 > **amount**: `string`
 
-Defined in: [src/react/types.ts:150](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L150)
+Defined in: [src/react/types.ts:150](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L150)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/react/types.ts:150](https://github.com/mbates/squareup/blob/d6b
 
 > `optional` **billingContact**: `object`
 
-Defined in: [src/react/types.ts:153](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L153)
+Defined in: [src/react/types.ts:153](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L153)
 
 #### addressLines?
 
@@ -66,7 +66,7 @@ Defined in: [src/react/types.ts:153](https://github.com/mbates/squareup/blob/d6b
 
 > **currencyCode**: `string`
 
-Defined in: [src/react/types.ts:151](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L151)
+Defined in: [src/react/types.ts:151](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L151)
 
 ***
 
@@ -74,4 +74,4 @@ Defined in: [src/react/types.ts:151](https://github.com/mbates/squareup/blob/d6b
 
 > **intent**: `"CHARGE"` \| `"STORE"`
 
-Defined in: [src/react/types.ts:152](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L152)
+Defined in: [src/react/types.ts:152](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L152)

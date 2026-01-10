@@ -6,7 +6,7 @@
 
 # Interface: Recipient
 
-Defined in: [src/angular/types.ts:171](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L171)
+Defined in: [src/angular/types.ts:171](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L171)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:171](https://github.com/mbates/squareup/blob/d
 
 > `optional` **displayName**: `string`
 
-Defined in: [src/angular/types.ts:172](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L172)
+Defined in: [src/angular/types.ts:172](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L172)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/angular/types.ts:172](https://github.com/mbates/squareup/blob/d
 
 > `optional` **emailAddress**: `string`
 
-Defined in: [src/angular/types.ts:173](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L173)
+Defined in: [src/angular/types.ts:173](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L173)
 
 ***
 
@@ -30,4 +30,4 @@ Defined in: [src/angular/types.ts:173](https://github.com/mbates/squareup/blob/d
 
 > `optional` **phoneNumber**: `string`
 
-Defined in: [src/angular/types.ts:174](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L174)
+Defined in: [src/angular/types.ts:174](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L174)

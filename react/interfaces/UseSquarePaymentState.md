@@ -6,7 +6,7 @@
 
 # Interface: UseSquarePaymentState
 
-Defined in: [src/react/types.ts:192](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L192)
+Defined in: [src/react/types.ts:192](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L192)
 
 Hook state types
 
@@ -20,7 +20,7 @@ Hook state types
 
 > **error**: `Error` \| `null`
 
-Defined in: [src/react/types.ts:194](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L194)
+Defined in: [src/react/types.ts:194](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L194)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/react/types.ts:194](https://github.com/mbates/squareup/blob/d6b
 
 > **loading**: `boolean`
 
-Defined in: [src/react/types.ts:195](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L195)
+Defined in: [src/react/types.ts:195](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L195)
 
 ***
 
@@ -36,4 +36,4 @@ Defined in: [src/react/types.ts:195](https://github.com/mbates/squareup/blob/d6b
 
 > **ready**: `boolean`
 
-Defined in: [src/react/types.ts:193](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/types.ts#L193)
+Defined in: [src/react/types.ts:193](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/types.ts#L193)

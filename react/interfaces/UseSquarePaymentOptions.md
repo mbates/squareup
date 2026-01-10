@@ -6,7 +6,7 @@
 
 # Interface: UseSquarePaymentOptions
 
-Defined in: [src/react/hooks/useSquarePayment.ts:8](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useSquarePayment.ts#L8)
+Defined in: [src/react/hooks/useSquarePayment.ts:8](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/hooks/useSquarePayment.ts#L8)
 
 Options for useSquarePayment hook
 
@@ -16,7 +16,7 @@ Options for useSquarePayment hook
 
 > `optional` **cardOptions**: [`CardOptions`](CardOptions.md)
 
-Defined in: [src/react/hooks/useSquarePayment.ts:10](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useSquarePayment.ts#L10)
+Defined in: [src/react/hooks/useSquarePayment.ts:10](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/hooks/useSquarePayment.ts#L10)
 
 Card input styling options
 
@@ -26,7 +26,7 @@ Card input styling options
 
 > `optional` **onError**: (`error`) => `void`
 
-Defined in: [src/react/hooks/useSquarePayment.ts:16](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useSquarePayment.ts#L16)
+Defined in: [src/react/hooks/useSquarePayment.ts:16](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/hooks/useSquarePayment.ts#L16)
 
 Callback when an error occurs
 
@@ -46,7 +46,7 @@ Callback when an error occurs
 
 > `optional` **onReady**: () => `void`
 
-Defined in: [src/react/hooks/useSquarePayment.ts:12](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useSquarePayment.ts#L12)
+Defined in: [src/react/hooks/useSquarePayment.ts:12](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/hooks/useSquarePayment.ts#L12)
 
 Callback when card is ready
 
@@ -60,7 +60,7 @@ Callback when card is ready
 
 > `optional` **onTokenize**: (`token`) => `void`
 
-Defined in: [src/react/hooks/useSquarePayment.ts:14](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/hooks/useSquarePayment.ts#L14)
+Defined in: [src/react/hooks/useSquarePayment.ts:14](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/hooks/useSquarePayment.ts#L14)
 
 Callback when tokenization succeeds
 

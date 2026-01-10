@@ -8,4 +8,4 @@
 
 > `const` **SquareContext**: `Context`\<[`SquareContextValue`](../interfaces/SquareContextValue.md) \| `null`\>
 
-Defined in: [src/react/SquareProvider.tsx:4](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/react/SquareProvider.tsx#L4)
+Defined in: [src/react/SquareProvider.tsx:4](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/react/SquareProvider.tsx#L4)

@@ -6,7 +6,7 @@
 
 # Interface: OrderLineItem
 
-Defined in: [src/angular/types.ts:123](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L123)
+Defined in: [src/angular/types.ts:123](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L123)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [src/angular/types.ts:123](https://github.com/mbates/squareup/blob/d
 
 > `optional` **basePriceMoney**: [`Money`](Money.md)
 
-Defined in: [src/angular/types.ts:128](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L128)
+Defined in: [src/angular/types.ts:128](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L128)
 
 ***
 
@@ -22,7 +22,7 @@ Defined in: [src/angular/types.ts:128](https://github.com/mbates/squareup/blob/d
 
 > `optional` **catalogObjectId**: `string`
 
-Defined in: [src/angular/types.ts:126](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L126)
+Defined in: [src/angular/types.ts:126](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L126)
 
 ***
 
@@ -30,7 +30,7 @@ Defined in: [src/angular/types.ts:126](https://github.com/mbates/squareup/blob/d
 
 > `optional` **name**: `string`
 
-Defined in: [src/angular/types.ts:124](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L124)
+Defined in: [src/angular/types.ts:124](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L124)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [src/angular/types.ts:124](https://github.com/mbates/squareup/blob/d
 
 > `optional` **note**: `string`
 
-Defined in: [src/angular/types.ts:129](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L129)
+Defined in: [src/angular/types.ts:129](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L129)
 
 ***
 
@@ -46,7 +46,7 @@ Defined in: [src/angular/types.ts:129](https://github.com/mbates/squareup/blob/d
 
 > **quantity**: `string`
 
-Defined in: [src/angular/types.ts:125](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L125)
+Defined in: [src/angular/types.ts:125](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L125)
 
 ***
 
@@ -54,4 +54,4 @@ Defined in: [src/angular/types.ts:125](https://github.com/mbates/squareup/blob/d
 
 > `optional` **variationName**: `string`
 
-Defined in: [src/angular/types.ts:127](https://github.com/mbates/squareup/blob/d6b2fac41166e6715afbe2a8bcbab0c784e759f8/src/angular/types.ts#L127)
+Defined in: [src/angular/types.ts:127](https://github.com/mbates/squareup/blob/e1717f4e682df14ec77f74c91b6d5513106fd4d4/src/angular/types.ts#L127)
