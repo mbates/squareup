@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v0.2.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.0.0**](../../README.md)
 
 ***
 
@@ -8,6 +8,6 @@
 
 > **WebhookEventType** = [`PaymentEventType`](PaymentEventType.md) \| [`RefundEventType`](RefundEventType.md) \| [`OrderEventType`](OrderEventType.md) \| [`CustomerEventType`](CustomerEventType.md) \| [`SubscriptionEventType`](SubscriptionEventType.md) \| [`InvoiceEventType`](InvoiceEventType.md) \| [`LoyaltyEventType`](LoyaltyEventType.md) \| [`CatalogEventType`](CatalogEventType.md) \| [`InventoryEventType`](InventoryEventType.md) \| [`TeamEventType`](TeamEventType.md) \| [`LaborEventType`](LaborEventType.md)
 
-Defined in: [server/types.ts:58](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/server/types.ts#L58)
+Defined in: [server/types.ts:58](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/server/types.ts#L58)
 
 All Square webhook event types

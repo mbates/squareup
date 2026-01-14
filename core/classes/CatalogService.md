@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v0.2.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.0.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Class: CatalogService
 
-Defined in: [core/services/catalog.service.ts:122](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/services/catalog.service.ts#L122)
+Defined in: [core/services/catalog.service.ts:152](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/services/catalog.service.ts#L152)
 
 Catalog service for managing Square catalog items
 
@@ -35,7 +35,7 @@ const results = await square.catalog.search({
 
 > **new CatalogService**(`client`): `CatalogService`
 
-Defined in: [core/services/catalog.service.ts:123](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/services/catalog.service.ts#L123)
+Defined in: [core/services/catalog.service.ts:153](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/services/catalog.service.ts#L153)
 
 #### Parameters
 
@@ -53,7 +53,7 @@ Defined in: [core/services/catalog.service.ts:123](https://github.com/mbates/squ
 
 > **batchGet**(`objectIds`): `Promise`\<`CatalogObject`[]\>
 
-Defined in: [core/services/catalog.service.ts:372](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/services/catalog.service.ts#L372)
+Defined in: [core/services/catalog.service.ts:454](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/services/catalog.service.ts#L454)
 
 Batch retrieve multiple catalog objects
 
@@ -83,7 +83,7 @@ const items = await square.catalog.batchGet(['ITEM_1', 'ITEM_2', 'ITEM_3']);
 
 > **createCategory**(`options`): `Promise`\<`CatalogObject`\>
 
-Defined in: [core/services/catalog.service.ts:205](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/services/catalog.service.ts#L205)
+Defined in: [core/services/catalog.service.ts:235](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/services/catalog.service.ts#L235)
 
 Create a category
 
@@ -115,7 +115,7 @@ const category = await square.catalog.createCategory({
 
 > **createItem**(`options`): `Promise`\<`CatalogObject`\>
 
-Defined in: [core/services/catalog.service.ts:144](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/services/catalog.service.ts#L144)
+Defined in: [core/services/catalog.service.ts:174](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/services/catalog.service.ts#L174)
 
 Create a catalog item with variations
 
@@ -153,7 +153,7 @@ const item = await square.catalog.createItem({
 
 > **delete**(`objectId`): `Promise`\<`void`\>
 
-Defined in: [core/services/catalog.service.ts:270](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/services/catalog.service.ts#L270)
+Defined in: [core/services/catalog.service.ts:352](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/services/catalog.service.ts#L352)
 
 Delete a catalog object
 
@@ -181,7 +181,7 @@ await square.catalog.delete('ITEM_123');
 
 > **get**(`objectId`): `Promise`\<`CatalogObject`\>
 
-Defined in: [core/services/catalog.service.ts:243](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/services/catalog.service.ts#L243)
+Defined in: [core/services/catalog.service.ts:325](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/services/catalog.service.ts#L325)
 
 Get a catalog object by ID
 
@@ -211,7 +211,7 @@ const item = await square.catalog.get('ITEM_123');
 
 > **list**(`objectType`, `options?`): `Promise`\<`CatalogObject`[]\>
 
-Defined in: [core/services/catalog.service.ts:336](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/services/catalog.service.ts#L336)
+Defined in: [core/services/catalog.service.ts:418](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/services/catalog.service.ts#L418)
 
 List all catalog objects of a specific type
 
@@ -249,7 +249,7 @@ const items = await square.catalog.list('ITEM', { limit: 50 });
 
 > **search**(`options?`): `Promise`\<\{ `cursor?`: `string`; `data`: `CatalogObject`[]; \}\>
 
-Defined in: [core/services/catalog.service.ts:298](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/core/services/catalog.service.ts#L298)
+Defined in: [core/services/catalog.service.ts:380](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/services/catalog.service.ts#L380)
 
 Search the catalog
 
@@ -279,5 +279,61 @@ const results = await square.catalog.search({
 // Get all categories
 const categories = await square.catalog.search({
   objectTypes: ['CATEGORY'],
+});
+```
+
+***
+
+### upsert()
+
+> **upsert**(`catalogObject`, `idempotencyKey?`): `Promise`\<`CatalogObject`\>
+
+Defined in: [core/services/catalog.service.ts:294](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/services/catalog.service.ts#L294)
+
+Upsert (create or update) a catalog object
+
+#### Parameters
+
+##### catalogObject
+
+`CatalogObject`
+
+The catalog object to upsert
+
+##### idempotencyKey?
+
+`string`
+
+Optional idempotency key
+
+#### Returns
+
+`Promise`\<`CatalogObject`\>
+
+The upserted catalog object
+
+#### Example
+
+```typescript
+// Update an existing item's custom attributes
+const updatedItem = await square.catalog.upsert({
+  type: 'ITEM',
+  id: 'EXISTING_ITEM_ID',
+  version: existingItem.version,
+  customAttributeValues: {
+    'Square:some-key': { stringValue: 'new value' }
+  },
+  itemData: existingItem.itemData,
+});
+
+// Update a variation price
+const updatedVariation = await square.catalog.upsert({
+  type: 'ITEM_VARIATION',
+  id: 'EXISTING_VARIATION_ID',
+  version: existingVariation.version,
+  itemVariationData: {
+    ...existingVariation.itemVariationData,
+    priceMoney: { amount: BigInt(500), currency: 'USD' },
+  },
 });
 ```

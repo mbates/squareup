@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v0.2.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.0.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: WebhookConfig
 
-Defined in: [server/types.ts:111](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/server/types.ts#L111)
+Defined in: [server/types.ts:111](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/server/types.ts#L111)
 
 Configuration for webhook handling
 
@@ -20,7 +20,7 @@ Configuration for webhook handling
 
 > **handlers**: [`WebhookHandlers`](../type-aliases/WebhookHandlers.md)
 
-Defined in: [server/types.ts:115](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/server/types.ts#L115)
+Defined in: [server/types.ts:115](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/server/types.ts#L115)
 
 Event handlers by type
 
@@ -30,7 +30,7 @@ Event handlers by type
 
 > `optional` **notificationUrl**: `string`
 
-Defined in: [server/types.ts:117](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/server/types.ts#L117)
+Defined in: [server/types.ts:117](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/server/types.ts#L117)
 
 URL where webhooks are received (for signature verification)
 
@@ -40,7 +40,7 @@ URL where webhooks are received (for signature verification)
 
 > **signatureKey**: `string`
 
-Defined in: [server/types.ts:113](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/server/types.ts#L113)
+Defined in: [server/types.ts:113](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/server/types.ts#L113)
 
 Square webhook signature key
 
@@ -50,7 +50,7 @@ Square webhook signature key
 
 > `optional` **throwOnInvalidSignature**: `boolean`
 
-Defined in: [server/types.ts:122](https://github.com/mbates/squareup/blob/7fc1f90acc9e8ec4ffc6c0b33c0e5d3803366ae1/src/server/types.ts#L122)
+Defined in: [server/types.ts:122](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/server/types.ts#L122)
 
 Whether to throw on signature verification failure
 
