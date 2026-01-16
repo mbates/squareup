@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.0.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.1.0**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **createIdempotencyKey**(): `string`
 
-Defined in: [core/utils.ts:102](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/utils.ts#L102)
+Defined in: [core/utils.ts:102](https://github.com/mbates/squareup/blob/dbcba9ef6bec3f860a4170a9374bb001913ef9a5/src/core/utils.ts#L102)
 
 Create a unique idempotency key for Square API requests
 

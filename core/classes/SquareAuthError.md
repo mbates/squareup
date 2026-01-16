@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.0.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.1.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Class: SquareAuthError
 
-Defined in: [core/errors.ts:78](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/errors.ts#L78)
+Defined in: [core/errors.ts:78](https://github.com/mbates/squareup/blob/dbcba9ef6bec3f860a4170a9374bb001913ef9a5/src/core/errors.ts#L78)
 
 Authentication errors
 
@@ -20,7 +20,7 @@ Authentication errors
 
 > **new SquareAuthError**(`message`, `code`): `SquareAuthError`
 
-Defined in: [core/errors.ts:79](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/errors.ts#L79)
+Defined in: [core/errors.ts:79](https://github.com/mbates/squareup/blob/dbcba9ef6bec3f860a4170a9374bb001913ef9a5/src/core/errors.ts#L79)
 
 #### Parameters
 
@@ -46,7 +46,7 @@ Defined in: [core/errors.ts:79](https://github.com/mbates/squareup/blob/32b2a6cc
 
 > `readonly` **code**: [`SquareErrorCode`](../type-aliases/SquareErrorCode.md)
 
-Defined in: [core/errors.ts:31](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/errors.ts#L31)
+Defined in: [core/errors.ts:31](https://github.com/mbates/squareup/blob/dbcba9ef6bec3f860a4170a9374bb001913ef9a5/src/core/errors.ts#L31)
 
 #### Inherited from
 
@@ -58,7 +58,7 @@ Defined in: [core/errors.ts:31](https://github.com/mbates/squareup/blob/32b2a6cc
 
 > `readonly` `optional` **details**: `unknown`
 
-Defined in: [core/errors.ts:33](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/errors.ts#L33)
+Defined in: [core/errors.ts:33](https://github.com/mbates/squareup/blob/dbcba9ef6bec3f860a4170a9374bb001913ef9a5/src/core/errors.ts#L33)
 
 #### Inherited from
 
@@ -70,7 +70,7 @@ Defined in: [core/errors.ts:33](https://github.com/mbates/squareup/blob/32b2a6cc
 
 > `readonly` `optional` **statusCode**: `number`
 
-Defined in: [core/errors.ts:32](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/errors.ts#L32)
+Defined in: [core/errors.ts:32](https://github.com/mbates/squareup/blob/dbcba9ef6bec3f860a4170a9374bb001913ef9a5/src/core/errors.ts#L32)
 
 #### Inherited from
 

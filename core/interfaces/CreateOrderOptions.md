@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.0.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.1.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: CreateOrderOptions
 
-Defined in: [core/types/index.ts:70](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/types/index.ts#L70)
+Defined in: [core/types/index.ts:70](https://github.com/mbates/squareup/blob/dbcba9ef6bec3f860a4170a9374bb001913ef9a5/src/core/types/index.ts#L70)
 
 Create order options
 
@@ -16,7 +16,7 @@ Create order options
 
 > `optional` **customerId**: `string`
 
-Defined in: [core/types/index.ts:72](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/types/index.ts#L72)
+Defined in: [core/types/index.ts:72](https://github.com/mbates/squareup/blob/dbcba9ef6bec3f860a4170a9374bb001913ef9a5/src/core/types/index.ts#L72)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [core/types/index.ts:72](https://github.com/mbates/squareup/blob/32b
 
 > `optional` **idempotencyKey**: `string`
 
-Defined in: [core/types/index.ts:74](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/types/index.ts#L74)
+Defined in: [core/types/index.ts:74](https://github.com/mbates/squareup/blob/dbcba9ef6bec3f860a4170a9374bb001913ef9a5/src/core/types/index.ts#L74)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [core/types/index.ts:74](https://github.com/mbates/squareup/blob/32b
 
 > **lineItems**: [`LineItemInput`](LineItemInput.md)[]
 
-Defined in: [core/types/index.ts:71](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/types/index.ts#L71)
+Defined in: [core/types/index.ts:71](https://github.com/mbates/squareup/blob/dbcba9ef6bec3f860a4170a9374bb001913ef9a5/src/core/types/index.ts#L71)
 
 ***
 
@@ -40,4 +40,4 @@ Defined in: [core/types/index.ts:71](https://github.com/mbates/squareup/blob/32b
 
 > `optional` **referenceId**: `string`
 
-Defined in: [core/types/index.ts:73](https://github.com/mbates/squareup/blob/32b2a6cc46d36384f60a869a504a33fd25157827/src/core/types/index.ts#L73)
+Defined in: [core/types/index.ts:73](https://github.com/mbates/squareup/blob/dbcba9ef6bec3f860a4170a9374bb001913ef9a5/src/core/types/index.ts#L73)
