@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.1.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.2.0**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **processWebhookEvent**(`event`, `config`): `Promise`\<`void`\>
 
-Defined in: [server/webhook.ts:170](https://github.com/mbates/squareup/blob/dbcba9ef6bec3f860a4170a9374bb001913ef9a5/src/server/webhook.ts#L170)
+Defined in: [server/webhook.ts:170](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/server/webhook.ts#L170)
 
 Process a webhook event by calling the appropriate handler
 
