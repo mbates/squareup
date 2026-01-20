@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.2.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.2.1**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: ParsedWebhookRequest
 
-Defined in: [server/types.ts:138](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/server/types.ts#L138)
+Defined in: [server/types.ts:138](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/server/types.ts#L138)
 
 Parsed webhook request
 
@@ -16,7 +16,7 @@ Parsed webhook request
 
 > **event**: [`WebhookEvent`](WebhookEvent.md)
 
-Defined in: [server/types.ts:144](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/server/types.ts#L144)
+Defined in: [server/types.ts:144](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/server/types.ts#L144)
 
 Parsed event data
 
@@ -26,7 +26,7 @@ Parsed event data
 
 > **rawBody**: `string`
 
-Defined in: [server/types.ts:140](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/server/types.ts#L140)
+Defined in: [server/types.ts:140](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/server/types.ts#L140)
 
 The raw request body
 
@@ -36,6 +36,6 @@ The raw request body
 
 > **signature**: `string`
 
-Defined in: [server/types.ts:142](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/server/types.ts#L142)
+Defined in: [server/types.ts:142](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/server/types.ts#L142)
 
 The signature from headers

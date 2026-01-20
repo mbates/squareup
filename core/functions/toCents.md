@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.2.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.2.1**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **toCents**(`amount`, `currency`): `bigint`
 
-Defined in: [core/utils.ts:38](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/core/utils.ts#L38)
+Defined in: [core/utils.ts:38](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/core/utils.ts#L38)
 
 Convert a dollar amount to cents (smallest currency unit)
 

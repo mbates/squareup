@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.2.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.2.1**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **InventoryEventType** = `"inventory.count.updated"`
 
-Defined in: [server/types.ts:47](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/server/types.ts#L47)
+Defined in: [server/types.ts:47](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/server/types.ts#L47)
 
 @bates-solutions/squareup/server
 

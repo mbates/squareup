@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.2.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.2.1**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: SquareWebhookRequest
 
-Defined in: [server/middleware/express.ts:13](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/server/middleware/express.ts#L13)
+Defined in: [server/middleware/express.ts:13](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/server/middleware/express.ts#L13)
 
 Extended Express Request with Square webhook data
 
@@ -20,7 +20,7 @@ Extended Express Request with Square webhook data
 
 > `optional` **rawBody**: `string`
 
-Defined in: [server/middleware/express.ts:15](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/server/middleware/express.ts#L15)
+Defined in: [server/middleware/express.ts:15](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/server/middleware/express.ts#L15)
 
 The raw request body as a string
 
@@ -30,6 +30,6 @@ The raw request body as a string
 
 > `optional` **squareEvent**: [`WebhookEvent`](WebhookEvent.md)\<`unknown`\>
 
-Defined in: [server/middleware/express.ts:17](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/server/middleware/express.ts#L17)
+Defined in: [server/middleware/express.ts:17](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/server/middleware/express.ts#L17)
 
 The parsed Square webhook event

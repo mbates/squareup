@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.2.0**](../README.md)
+[**@bates-solutions/squareup API Reference v1.2.1**](../README.md)
 
 ***
 
@@ -34,6 +34,7 @@
 - [MoneyInput](interfaces/MoneyInput.md)
 - [PaginatedResponse](interfaces/PaginatedResponse.md)
 - [PaginationOptions](interfaces/PaginationOptions.md)
+- [SearchOrdersOptions](interfaces/SearchOrdersOptions.md)
 - [SquareClientConfig](interfaces/SquareClientConfig.md)
 
 ## Type Aliases

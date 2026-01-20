@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.2.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.2.1**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Class: CatalogService
 
-Defined in: [core/services/catalog.service.ts:152](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/core/services/catalog.service.ts#L152)
+Defined in: [core/services/catalog.service.ts:152](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/core/services/catalog.service.ts#L152)
 
 Catalog service for managing Square catalog items
 
@@ -35,7 +35,7 @@ const results = await square.catalog.search({
 
 > **new CatalogService**(`client`): `CatalogService`
 
-Defined in: [core/services/catalog.service.ts:153](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/core/services/catalog.service.ts#L153)
+Defined in: [core/services/catalog.service.ts:153](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/core/services/catalog.service.ts#L153)
 
 #### Parameters
 
@@ -53,7 +53,7 @@ Defined in: [core/services/catalog.service.ts:153](https://github.com/mbates/squ
 
 > **batchGet**(`objectIds`): `Promise`\<`CatalogObject`[]\>
 
-Defined in: [core/services/catalog.service.ts:462](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/core/services/catalog.service.ts#L462)
+Defined in: [core/services/catalog.service.ts:462](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/core/services/catalog.service.ts#L462)
 
 Batch retrieve multiple catalog objects
 
@@ -83,7 +83,7 @@ const items = await square.catalog.batchGet(['ITEM_1', 'ITEM_2', 'ITEM_3']);
 
 > **createCategory**(`options`): `Promise`\<`CatalogObject`\>
 
-Defined in: [core/services/catalog.service.ts:235](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/core/services/catalog.service.ts#L235)
+Defined in: [core/services/catalog.service.ts:235](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/core/services/catalog.service.ts#L235)
 
 Create a category
 
@@ -115,7 +115,7 @@ const category = await square.catalog.createCategory({
 
 > **createItem**(`options`): `Promise`\<`CatalogObject`\>
 
-Defined in: [core/services/catalog.service.ts:174](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/core/services/catalog.service.ts#L174)
+Defined in: [core/services/catalog.service.ts:174](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/core/services/catalog.service.ts#L174)
 
 Create a catalog item with variations
 
@@ -153,7 +153,7 @@ const item = await square.catalog.createItem({
 
 > **delete**(`objectId`): `Promise`\<`void`\>
 
-Defined in: [core/services/catalog.service.ts:352](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/core/services/catalog.service.ts#L352)
+Defined in: [core/services/catalog.service.ts:352](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/core/services/catalog.service.ts#L352)
 
 Delete a catalog object
 
@@ -181,7 +181,7 @@ await square.catalog.delete('ITEM_123');
 
 > **get**(`objectId`): `Promise`\<`CatalogObject`\>
 
-Defined in: [core/services/catalog.service.ts:325](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/core/services/catalog.service.ts#L325)
+Defined in: [core/services/catalog.service.ts:325](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/core/services/catalog.service.ts#L325)
 
 Get a catalog object by ID
 
@@ -211,7 +211,7 @@ const item = await square.catalog.get('ITEM_123');
 
 > **list**(`objectType`, `options?`): `Promise`\<`CatalogObject`[]\>
 
-Defined in: [core/services/catalog.service.ts:418](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/core/services/catalog.service.ts#L418)
+Defined in: [core/services/catalog.service.ts:418](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/core/services/catalog.service.ts#L418)
 
 List all catalog objects of a specific type
 
@@ -249,7 +249,7 @@ const items = await square.catalog.list('ITEM', { limit: 50 });
 
 > **search**(`options?`): `Promise`\<\{ `cursor?`: `string`; `data`: `CatalogObject`[]; \}\>
 
-Defined in: [core/services/catalog.service.ts:380](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/core/services/catalog.service.ts#L380)
+Defined in: [core/services/catalog.service.ts:380](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/core/services/catalog.service.ts#L380)
 
 Search the catalog
 
@@ -288,7 +288,7 @@ const categories = await square.catalog.search({
 
 > **upsert**(`catalogObject`, `idempotencyKey?`): `Promise`\<`CatalogObject`\>
 
-Defined in: [core/services/catalog.service.ts:294](https://github.com/mbates/squareup/blob/2b85acb716e1cd46e6c182537b6d98fbcae0ef0b/src/core/services/catalog.service.ts#L294)
+Defined in: [core/services/catalog.service.ts:294](https://github.com/mbates/squareup/blob/63589cfc34c560e1faab8834479e5c143d24c255/src/core/services/catalog.service.ts#L294)
 
 Upsert (create or update) a catalog object
 
