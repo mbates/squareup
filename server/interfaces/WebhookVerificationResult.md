@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.3.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.4.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: WebhookVerificationResult
 
-Defined in: [server/types.ts:128](https://github.com/mbates/squareup/blob/8b7dbd9a26fb7e3b1c18c7764f6bb54e0d3c0528/src/server/types.ts#L128)
+Defined in: [server/types.ts:128](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/server/types.ts#L128)
 
 Result of webhook verification
 
@@ -16,7 +16,7 @@ Result of webhook verification
 
 > `optional` **error**: `string`
 
-Defined in: [server/types.ts:132](https://github.com/mbates/squareup/blob/8b7dbd9a26fb7e3b1c18c7764f6bb54e0d3c0528/src/server/types.ts#L132)
+Defined in: [server/types.ts:132](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/server/types.ts#L132)
 
 Error message if invalid
 
@@ -26,6 +26,6 @@ Error message if invalid
 
 > **valid**: `boolean`
 
-Defined in: [server/types.ts:130](https://github.com/mbates/squareup/blob/8b7dbd9a26fb7e3b1c18c7764f6bb54e0d3c0528/src/server/types.ts#L130)
+Defined in: [server/types.ts:130](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/server/types.ts#L130)
 
 Whether the signature is valid

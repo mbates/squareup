@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.3.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.4.0**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **LaborEventType** = `"labor.timecard.created"` \| `"labor.timecard.updated"`
 
-Defined in: [server/types.ts:53](https://github.com/mbates/squareup/blob/8b7dbd9a26fb7e3b1c18c7764f6bb54e0d3c0528/src/server/types.ts#L53)
+Defined in: [server/types.ts:53](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/server/types.ts#L53)
 
 @bates-solutions/squareup/server
 
