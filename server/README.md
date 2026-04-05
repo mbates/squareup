@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.5.1**](../README.md)
+[**@bates-solutions/squareup API Reference v1.5.2**](../README.md)
 
 ***
 
@@ -8,8 +8,12 @@
 
 ## Interfaces
 
+- [CustomerWebhookObject](interfaces/CustomerWebhookObject.md)
 - [ExpressWebhookOptions](interfaces/ExpressWebhookOptions.md)
+- [OrderWebhookObject](interfaces/OrderWebhookObject.md)
 - [ParsedWebhookRequest](interfaces/ParsedWebhookRequest.md)
+- [PaymentWebhookObject](interfaces/PaymentWebhookObject.md)
+- [RefundWebhookObject](interfaces/RefundWebhookObject.md)
 - [SquareWebhookRequest](interfaces/SquareWebhookRequest.md)
 - [WebhookConfig](interfaces/WebhookConfig.md)
 - [WebhookEvent](interfaces/WebhookEvent.md)
@@ -20,13 +24,17 @@
 
 - [CatalogEventType](type-aliases/CatalogEventType.md)
 - [CustomerEventType](type-aliases/CustomerEventType.md)
+- [CustomerWebhookEvent](type-aliases/CustomerWebhookEvent.md)
 - [InventoryEventType](type-aliases/InventoryEventType.md)
 - [InvoiceEventType](type-aliases/InvoiceEventType.md)
 - [LaborEventType](type-aliases/LaborEventType.md)
 - [LoyaltyEventType](type-aliases/LoyaltyEventType.md)
 - [OrderEventType](type-aliases/OrderEventType.md)
+- [OrderWebhookEvent](type-aliases/OrderWebhookEvent.md)
 - [PaymentEventType](type-aliases/PaymentEventType.md)
+- [PaymentWebhookEvent](type-aliases/PaymentWebhookEvent.md)
 - [RefundEventType](type-aliases/RefundEventType.md)
+- [RefundWebhookEvent](type-aliases/RefundWebhookEvent.md)
 - [SubscriptionEventType](type-aliases/SubscriptionEventType.md)
 - [TeamEventType](type-aliases/TeamEventType.md)
 - [WebhookEventType](type-aliases/WebhookEventType.md)
@@ -44,6 +52,9 @@
 - [createNextPagesWebhookHandler](functions/createNextPagesWebhookHandler.md)
 - [createNextWebhookHandler](functions/createNextWebhookHandler.md)
 - [createWebhookProcessor](functions/createWebhookProcessor.md)
+- [getCustomerId](functions/getCustomerId.md)
+- [getOrderId](functions/getOrderId.md)
+- [getPaymentId](functions/getPaymentId.md)
 - [parseAndVerifyWebhook](functions/parseAndVerifyWebhook.md)
 - [parseNextWebhook](functions/parseNextWebhook.md)
 - [parseWebhookEvent](functions/parseWebhookEvent.md)

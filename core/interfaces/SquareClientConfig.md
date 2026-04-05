@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.5.1**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.5.2**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: SquareClientConfig
 
-Defined in: [core/client.ts:16](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/client.ts#L16)
+Defined in: [core/client.ts:16](https://github.com/mbates/squareup/blob/6d0f048fcda3a2f66001b3d1fa98587fb99af062/src/core/client.ts#L16)
 
 Configuration options for the Square client
 
@@ -16,7 +16,7 @@ Configuration options for the Square client
 
 > **accessToken**: `string`
 
-Defined in: [core/client.ts:20](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/client.ts#L20)
+Defined in: [core/client.ts:20](https://github.com/mbates/squareup/blob/6d0f048fcda3a2f66001b3d1fa98587fb99af062/src/core/client.ts#L20)
 
 Square API access token
 
@@ -26,7 +26,7 @@ Square API access token
 
 > `optional` **defaultCurrency?**: `string`
 
-Defined in: [core/client.ts:37](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/client.ts#L37)
+Defined in: [core/client.ts:37](https://github.com/mbates/squareup/blob/6d0f048fcda3a2f66001b3d1fa98587fb99af062/src/core/client.ts#L37)
 
 Default currency code
 
@@ -42,7 +42,7 @@ Default currency code
 
 > `optional` **environment?**: [`SquareEnvironment`](../type-aliases/SquareEnvironment.md)
 
-Defined in: [core/client.ts:26](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/client.ts#L26)
+Defined in: [core/client.ts:26](https://github.com/mbates/squareup/blob/6d0f048fcda3a2f66001b3d1fa98587fb99af062/src/core/client.ts#L26)
 
 Square environment (sandbox or production)
 
@@ -58,6 +58,6 @@ Square environment (sandbox or production)
 
 > `optional` **locationId?**: `string`
 
-Defined in: [core/client.ts:31](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/client.ts#L31)
+Defined in: [core/client.ts:31](https://github.com/mbates/squareup/blob/6d0f048fcda3a2f66001b3d1fa98587fb99af062/src/core/client.ts#L31)
 
 Default location ID for operations that require it

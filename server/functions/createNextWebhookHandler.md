@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.5.1**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.5.2**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **createNextWebhookHandler**(`config`): (`request`) => `Promise`\<`Response`\>
 
-Defined in: [server/middleware/nextjs.ts:66](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/server/middleware/nextjs.ts#L66)
+Defined in: [server/middleware/nextjs.ts:66](https://github.com/mbates/squareup/blob/6d0f048fcda3a2f66001b3d1fa98587fb99af062/src/server/middleware/nextjs.ts#L66)
 
 Create a Next.js App Router webhook handler
 

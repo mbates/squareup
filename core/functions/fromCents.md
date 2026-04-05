@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.5.1**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.5.2**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **fromCents**(`cents`, `currency?`): `number`
 
-Defined in: [core/utils.ts:58](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/utils.ts#L58)
+Defined in: [core/utils.ts:58](https://github.com/mbates/squareup/blob/6d0f048fcda3a2f66001b3d1fa98587fb99af062/src/core/utils.ts#L58)
 
 Convert cents (smallest currency unit) to dollar amount
 

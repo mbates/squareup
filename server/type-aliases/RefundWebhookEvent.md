@@ -2,17 +2,23 @@
 
 ***
 
-[@bates-solutions/squareup API Reference](../../README.md) / [server](../README.md) / CustomerEventType
+[@bates-solutions/squareup API Reference](../../README.md) / [server](../README.md) / RefundWebhookEvent
 
-# Type Alias: CustomerEventType
+# Type Alias: RefundWebhookEvent
 
-> **CustomerEventType** = `"customer.created"` \| `"customer.updated"` \| `"customer.deleted"`
+> **RefundWebhookEvent** = [`WebhookEvent`](../interfaces/WebhookEvent.md)\<[`RefundWebhookObject`](../interfaces/RefundWebhookObject.md)\> & `object`
 
-Defined in: [server/types.ts:20](https://github.com/mbates/squareup/blob/6d0f048fcda3a2f66001b3d1fa98587fb99af062/src/server/types.ts#L20)
+Defined in: [server/types.ts:212](https://github.com/mbates/squareup/blob/6d0f048fcda3a2f66001b3d1fa98587fb99af062/src/server/types.ts#L212)
 
 @bates-solutions/squareup/server
 
 Server utilities for handling Square webhooks
+
+## Type Declaration
+
+### type
+
+> **type**: [`RefundEventType`](RefundEventType.md)
 
 ## Examples
 

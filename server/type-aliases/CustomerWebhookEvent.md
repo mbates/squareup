@@ -2,17 +2,23 @@
 
 ***
 
-[@bates-solutions/squareup API Reference](../../README.md) / [server](../README.md) / CustomerEventType
+[@bates-solutions/squareup API Reference](../../README.md) / [server](../README.md) / CustomerWebhookEvent
 
-# Type Alias: CustomerEventType
+# Type Alias: CustomerWebhookEvent
 
-> **CustomerEventType** = `"customer.created"` \| `"customer.updated"` \| `"customer.deleted"`
+> **CustomerWebhookEvent** = [`WebhookEvent`](../interfaces/WebhookEvent.md)\<[`CustomerWebhookObject`](../interfaces/CustomerWebhookObject.md)\> & `object`
 
-Defined in: [server/types.ts:20](https://github.com/mbates/squareup/blob/6d0f048fcda3a2f66001b3d1fa98587fb99af062/src/server/types.ts#L20)
+Defined in: [server/types.ts:215](https://github.com/mbates/squareup/blob/6d0f048fcda3a2f66001b3d1fa98587fb99af062/src/server/types.ts#L215)
 
 @bates-solutions/squareup/server
 
 Server utilities for handling Square webhooks
+
+## Type Declaration
+
+### type
+
+> **type**: [`CustomerEventType`](CustomerEventType.md)
 
 ## Examples
 
