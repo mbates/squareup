@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.4.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.5.1**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: WebhookConfig
 
-Defined in: [server/types.ts:111](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/server/types.ts#L111)
+Defined in: [server/types.ts:111](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/server/types.ts#L111)
 
 Configuration for webhook handling
 
@@ -20,7 +20,7 @@ Configuration for webhook handling
 
 > **handlers**: [`WebhookHandlers`](../type-aliases/WebhookHandlers.md)
 
-Defined in: [server/types.ts:115](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/server/types.ts#L115)
+Defined in: [server/types.ts:115](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/server/types.ts#L115)
 
 Event handlers by type
 
@@ -28,9 +28,9 @@ Event handlers by type
 
 ### notificationUrl?
 
-> `optional` **notificationUrl**: `string`
+> `optional` **notificationUrl?**: `string`
 
-Defined in: [server/types.ts:117](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/server/types.ts#L117)
+Defined in: [server/types.ts:117](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/server/types.ts#L117)
 
 URL where webhooks are received (for signature verification)
 
@@ -40,7 +40,7 @@ URL where webhooks are received (for signature verification)
 
 > **signatureKey**: `string`
 
-Defined in: [server/types.ts:113](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/server/types.ts#L113)
+Defined in: [server/types.ts:113](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/server/types.ts#L113)
 
 Square webhook signature key
 
@@ -48,9 +48,9 @@ Square webhook signature key
 
 ### throwOnInvalidSignature?
 
-> `optional` **throwOnInvalidSignature**: `boolean`
+> `optional` **throwOnInvalidSignature?**: `boolean`
 
-Defined in: [server/types.ts:122](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/server/types.ts#L122)
+Defined in: [server/types.ts:122](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/server/types.ts#L122)
 
 Whether to throw on signature verification failure
 

@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.4.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.5.1**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: SearchOrdersOptions
 
-Defined in: [core/types/index.ts:100](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/types/index.ts#L100)
+Defined in: [core/types/index.ts:100](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/types/index.ts#L100)
 
 Search orders options
 
@@ -14,30 +14,30 @@ Search orders options
 
 ### cursor?
 
-> `optional` **cursor**: `string`
+> `optional` **cursor?**: `string`
 
-Defined in: [core/types/index.ts:102](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/types/index.ts#L102)
+Defined in: [core/types/index.ts:102](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/types/index.ts#L102)
 
 ***
 
 ### limit?
 
-> `optional` **limit**: `number`
+> `optional` **limit?**: `number`
 
-Defined in: [core/types/index.ts:103](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/types/index.ts#L103)
+Defined in: [core/types/index.ts:103](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/types/index.ts#L103)
 
 ***
 
 ### locationIds?
 
-> `optional` **locationIds**: `string`[]
+> `optional` **locationIds?**: `string`[]
 
-Defined in: [core/types/index.ts:101](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/types/index.ts#L101)
+Defined in: [core/types/index.ts:101](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/types/index.ts#L101)
 
 ***
 
 ### query?
 
-> `optional` **query**: `SearchOrdersQuery`
+> `optional` **query?**: `SearchOrdersQuery`
 
-Defined in: [core/types/index.ts:104](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/types/index.ts#L104)
+Defined in: [core/types/index.ts:104](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/types/index.ts#L104)

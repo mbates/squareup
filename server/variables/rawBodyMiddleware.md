@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.4.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.5.1**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > `const` **rawBodyMiddleware**: `RequestHandler`
 
-Defined in: [server/middleware/express.ts:163](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/server/middleware/express.ts#L163)
+Defined in: [server/middleware/express.ts:163](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/server/middleware/express.ts#L163)
 
 Raw body parser middleware for Express
 

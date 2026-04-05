@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.4.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.5.1**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: LineItemInput
 
-Defined in: [core/types/index.ts:44](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/types/index.ts#L44)
+Defined in: [core/types/index.ts:44](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/types/index.ts#L44)
 
 Line item for orders
 
@@ -14,38 +14,38 @@ Line item for orders
 
 ### amount?
 
-> `optional` **amount**: `number`
+> `optional` **amount?**: `number`
 
-Defined in: [core/types/index.ts:48](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/types/index.ts#L48)
+Defined in: [core/types/index.ts:48](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/types/index.ts#L48)
 
 ***
 
 ### catalogObjectId?
 
-> `optional` **catalogObjectId**: `string`
+> `optional` **catalogObjectId?**: `string`
 
-Defined in: [core/types/index.ts:46](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/types/index.ts#L46)
+Defined in: [core/types/index.ts:46](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/types/index.ts#L46)
 
 ***
 
 ### name?
 
-> `optional` **name**: `string`
+> `optional` **name?**: `string`
 
-Defined in: [core/types/index.ts:45](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/types/index.ts#L45)
+Defined in: [core/types/index.ts:45](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/types/index.ts#L45)
 
 ***
 
 ### note?
 
-> `optional` **note**: `string`
+> `optional` **note?**: `string`
 
-Defined in: [core/types/index.ts:49](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/types/index.ts#L49)
+Defined in: [core/types/index.ts:49](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/types/index.ts#L49)
 
 ***
 
 ### quantity?
 
-> `optional` **quantity**: `number`
+> `optional` **quantity?**: `number`
 
-Defined in: [core/types/index.ts:47](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/types/index.ts#L47)
+Defined in: [core/types/index.ts:47](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/types/index.ts#L47)

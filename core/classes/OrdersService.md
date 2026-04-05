@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.4.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.5.1**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Class: OrdersService
 
-Defined in: [core/services/orders.service.ts:25](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/services/orders.service.ts#L25)
+Defined in: [core/services/orders.service.ts:25](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/services/orders.service.ts#L25)
 
 Orders service for managing Square orders
 
@@ -32,7 +32,7 @@ const order = await square.orders.create({
 
 > **new OrdersService**(`client`, `defaultLocationId?`): `OrdersService`
 
-Defined in: [core/services/orders.service.ts:26](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/services/orders.service.ts#L26)
+Defined in: [core/services/orders.service.ts:26](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/services/orders.service.ts#L26)
 
 #### Parameters
 
@@ -54,7 +54,7 @@ Defined in: [core/services/orders.service.ts:26](https://github.com/mbates/squar
 
 > **builder**(`locationId?`): [`OrderBuilder`](OrderBuilder.md)
 
-Defined in: [core/services/orders.service.ts:47](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/services/orders.service.ts#L47)
+Defined in: [core/services/orders.service.ts:47](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/services/orders.service.ts#L47)
 
 Create a new order builder
 
@@ -89,7 +89,7 @@ const order = await square.orders
 
 > **create**(`options`, `locationId?`): `Promise`\<`Order`\>
 
-Defined in: [core/services/orders.service.ts:76](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/services/orders.service.ts#L76)
+Defined in: [core/services/orders.service.ts:76](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/services/orders.service.ts#L76)
 
 Create an order directly (without builder)
 
@@ -131,7 +131,7 @@ const order = await square.orders.create({
 
 > **get**(`orderId`): `Promise`\<`Order`\>
 
-Defined in: [core/services/orders.service.ts:118](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/services/orders.service.ts#L118)
+Defined in: [core/services/orders.service.ts:118](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/services/orders.service.ts#L118)
 
 Get an order by ID
 
@@ -161,7 +161,7 @@ const order = await square.orders.get('ORDER_123');
 
 > **pay**(`orderId`, `paymentIds`): `Promise`\<`Order`\>
 
-Defined in: [core/services/orders.service.ts:188](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/services/orders.service.ts#L188)
+Defined in: [core/services/orders.service.ts:188](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/services/orders.service.ts#L188)
 
 Pay for an order
 
@@ -197,7 +197,7 @@ const order = await square.orders.pay('ORDER_123', ['PAYMENT_456']);
 
 > **search**(`options?`): `Promise`\<\{ `cursor?`: `string`; `data`: `Order`[]; \}\>
 
-Defined in: [core/services/orders.service.ts:246](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/services/orders.service.ts#L246)
+Defined in: [core/services/orders.service.ts:246](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/services/orders.service.ts#L246)
 
 Search for orders
 
@@ -256,7 +256,7 @@ const { data } = await square.orders.search({
 
 > **update**(`orderId`, `updates`, `locationId?`): `Promise`\<`Order`\>
 
-Defined in: [core/services/orders.service.ts:139](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/core/services/orders.service.ts#L139)
+Defined in: [core/services/orders.service.ts:139](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/core/services/orders.service.ts#L139)
 
 Update an order
 

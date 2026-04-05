@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.4.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.5.1**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **LoyaltyEventType** = `"loyalty.account.created"` \| `"loyalty.account.updated"` \| `"loyalty.program.created"` \| `"loyalty.promotion.created"`
 
-Defined in: [server/types.ts:37](https://github.com/mbates/squareup/blob/57c8fcd614ec400c089d1bd7914e78c796994d0e/src/server/types.ts#L37)
+Defined in: [server/types.ts:37](https://github.com/mbates/squareup/blob/7abcb23f768425657eceb9d435ae63d053505602/src/server/types.ts#L37)
 
 @bates-solutions/squareup/server
 
