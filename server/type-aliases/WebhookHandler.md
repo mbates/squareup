@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.5.2**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.6.0**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **WebhookHandler**\<`T`\> = (`event`) => `void` \| `Promise`\<`void`\>
 
-Defined in: [server/types.ts:97](https://github.com/mbates/squareup/blob/6d0f048fcda3a2f66001b3d1fa98587fb99af062/src/server/types.ts#L97)
+Defined in: [server/types.ts:97](https://github.com/mbates/squareup/blob/f660af842439736b0c20211f3401c1f0023d5b33/src/server/types.ts#L97)
 
 Handler function for webhook events
 

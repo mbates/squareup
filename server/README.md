@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.5.2**](../README.md)
+[**@bates-solutions/squareup API Reference v1.6.0**](../README.md)
 
 ***
 
@@ -10,6 +10,9 @@
 
 - [CustomerWebhookObject](interfaces/CustomerWebhookObject.md)
 - [ExpressWebhookOptions](interfaces/ExpressWebhookOptions.md)
+- [LambdaProxyEvent](interfaces/LambdaProxyEvent.md)
+- [LambdaProxyResult](interfaces/LambdaProxyResult.md)
+- [LambdaWebhookConfig](interfaces/LambdaWebhookConfig.md)
 - [OrderWebhookObject](interfaces/OrderWebhookObject.md)
 - [ParsedWebhookRequest](interfaces/ParsedWebhookRequest.md)
 - [PaymentWebhookObject](interfaces/PaymentWebhookObject.md)
@@ -17,6 +20,7 @@
 - [SquareWebhookRequest](interfaces/SquareWebhookRequest.md)
 - [WebhookConfig](interfaces/WebhookConfig.md)
 - [WebhookEvent](interfaces/WebhookEvent.md)
+- [WebhookEventContext](interfaces/WebhookEventContext.md)
 - [WebhookResponse](interfaces/WebhookResponse.md)
 - [WebhookVerificationResult](interfaces/WebhookVerificationResult.md)
 
@@ -28,6 +32,8 @@
 - [InventoryEventType](type-aliases/InventoryEventType.md)
 - [InvoiceEventType](type-aliases/InvoiceEventType.md)
 - [LaborEventType](type-aliases/LaborEventType.md)
+- [LambdaWebhookHandler](type-aliases/LambdaWebhookHandler.md)
+- [LambdaWebhookHandlers](type-aliases/LambdaWebhookHandlers.md)
 - [LoyaltyEventType](type-aliases/LoyaltyEventType.md)
 - [OrderEventType](type-aliases/OrderEventType.md)
 - [OrderWebhookEvent](type-aliases/OrderWebhookEvent.md)
@@ -49,6 +55,7 @@
 ## Functions
 
 - [createExpressWebhookHandler](functions/createExpressWebhookHandler.md)
+- [createLambdaWebhookHandler](functions/createLambdaWebhookHandler.md)
 - [createNextPagesWebhookHandler](functions/createNextPagesWebhookHandler.md)
 - [createNextWebhookHandler](functions/createNextWebhookHandler.md)
 - [createWebhookProcessor](functions/createWebhookProcessor.md)
