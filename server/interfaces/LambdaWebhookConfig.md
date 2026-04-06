@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.6.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.7.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: LambdaWebhookConfig
 
-Defined in: [server/middleware/lambda.ts:57](https://github.com/mbates/squareup/blob/f660af842439736b0c20211f3401c1f0023d5b33/src/server/middleware/lambda.ts#L57)
+Defined in: [server/middleware/lambda.ts:57](https://github.com/mbates/squareup/blob/a4b8b594804c80ee4c5401fe0beb0f806e462553/src/server/middleware/lambda.ts#L57)
 
 Configuration for Lambda webhook handling
 
@@ -16,7 +16,7 @@ Configuration for Lambda webhook handling
 
 > `optional` **corsHeaders?**: `Record`\<`string`, `string`\>
 
-Defined in: [server/middleware/lambda.ts:65](https://github.com/mbates/squareup/blob/f660af842439736b0c20211f3401c1f0023d5b33/src/server/middleware/lambda.ts#L65)
+Defined in: [server/middleware/lambda.ts:65](https://github.com/mbates/squareup/blob/a4b8b594804c80ee4c5401fe0beb0f806e462553/src/server/middleware/lambda.ts#L65)
 
 Custom CORS headers (merged with defaults)
 
@@ -26,7 +26,7 @@ Custom CORS headers (merged with defaults)
 
 > **handlers**: [`LambdaWebhookHandlers`](../type-aliases/LambdaWebhookHandlers.md)
 
-Defined in: [server/middleware/lambda.ts:61](https://github.com/mbates/squareup/blob/f660af842439736b0c20211f3401c1f0023d5b33/src/server/middleware/lambda.ts#L61)
+Defined in: [server/middleware/lambda.ts:61](https://github.com/mbates/squareup/blob/a4b8b594804c80ee4c5401fe0beb0f806e462553/src/server/middleware/lambda.ts#L61)
 
 Event handlers by type
 
@@ -36,7 +36,7 @@ Event handlers by type
 
 > `optional` **notificationUrl?**: `string`
 
-Defined in: [server/middleware/lambda.ts:63](https://github.com/mbates/squareup/blob/f660af842439736b0c20211f3401c1f0023d5b33/src/server/middleware/lambda.ts#L63)
+Defined in: [server/middleware/lambda.ts:63](https://github.com/mbates/squareup/blob/a4b8b594804c80ee4c5401fe0beb0f806e462553/src/server/middleware/lambda.ts#L63)
 
 URL where webhooks are received (for signature verification)
 
@@ -46,6 +46,6 @@ URL where webhooks are received (for signature verification)
 
 > **signatureKey**: `string`
 
-Defined in: [server/middleware/lambda.ts:59](https://github.com/mbates/squareup/blob/f660af842439736b0c20211f3401c1f0023d5b33/src/server/middleware/lambda.ts#L59)
+Defined in: [server/middleware/lambda.ts:59](https://github.com/mbates/squareup/blob/a4b8b594804c80ee4c5401fe0beb0f806e462553/src/server/middleware/lambda.ts#L59)
 
 Square webhook signature key
