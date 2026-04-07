@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.7.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.8.0**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **formatMoney**(`cents`, `currency?`, `locale?`): `string`
 
-Defined in: [core/utils.ts:79](https://github.com/mbates/squareup/blob/a4b8b594804c80ee4c5401fe0beb0f806e462553/src/core/utils.ts#L79)
+Defined in: [core/utils.ts:79](https://github.com/mbates/squareup/blob/e8b175f9fa135da3fad7a826c83967bf8ac499a5/src/core/utils.ts#L79)
 
 Format money for display
 

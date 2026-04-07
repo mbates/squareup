@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.7.0**](../README.md)
+[**@bates-solutions/squareup API Reference v1.8.0**](../README.md)
 
 ***
 
@@ -21,6 +21,7 @@
 - [WebhookConfig](interfaces/WebhookConfig.md)
 - [WebhookEvent](interfaces/WebhookEvent.md)
 - [WebhookEventContext](interfaces/WebhookEventContext.md)
+- [WebhookLogger](interfaces/WebhookLogger.md)
 - [WebhookResponse](interfaces/WebhookResponse.md)
 - [WebhookVerificationResult](interfaces/WebhookVerificationResult.md)
 
