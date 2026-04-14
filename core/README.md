@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.8.0**](../README.md)
+[**@bates-solutions/squareup API Reference v1.9.0**](../README.md)
 
 ***
 
@@ -10,6 +10,7 @@
 
 - [CatalogService](classes/CatalogService.md)
 - [CheckoutService](classes/CheckoutService.md)
+- [CustomerGroupsService](classes/CustomerGroupsService.md)
 - [CustomersService](classes/CustomersService.md)
 - [InventoryService](classes/InventoryService.md)
 - [InvoicesService](classes/InvoicesService.md)

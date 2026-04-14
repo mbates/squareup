@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.8.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.9.0**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **RefundWebhookEvent** = [`WebhookEvent`](../interfaces/WebhookEvent.md)\<[`RefundWebhookObject`](../interfaces/RefundWebhookObject.md)\> & `object`
 
-Defined in: [server/types.ts:212](https://github.com/mbates/squareup/blob/e8b175f9fa135da3fad7a826c83967bf8ac499a5/src/server/types.ts#L212)
+Defined in: [server/types.ts:212](https://github.com/mbates/squareup/blob/756b613095b0aa87133212b3424e6f9269f64dfc/src/server/types.ts#L212)
 
 @bates-solutions/squareup/server
 
