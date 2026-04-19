@@ -6,7 +6,7 @@
 
 # Interface: CreateOrderOptions
 
-Defined in: [core/types/index.ts:70](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/types/index.ts#L70)
+Defined in: [core/types/index.ts:70](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/types/index.ts#L70)
 
 Create order options
 
@@ -16,7 +16,7 @@ Create order options
 
 > `optional` **customerId?**: `string`
 
-Defined in: [core/types/index.ts:72](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/types/index.ts#L72)
+Defined in: [core/types/index.ts:72](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/types/index.ts#L72)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [core/types/index.ts:72](https://github.com/mbates/squareup/blob/f92
 
 > `optional` **idempotencyKey?**: `string`
 
-Defined in: [core/types/index.ts:74](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/types/index.ts#L74)
+Defined in: [core/types/index.ts:74](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/types/index.ts#L74)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [core/types/index.ts:74](https://github.com/mbates/squareup/blob/f92
 
 > **lineItems**: [`LineItemInput`](LineItemInput.md)[]
 
-Defined in: [core/types/index.ts:71](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/types/index.ts#L71)
+Defined in: [core/types/index.ts:71](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/types/index.ts#L71)
 
 ***
 
@@ -40,4 +40,4 @@ Defined in: [core/types/index.ts:71](https://github.com/mbates/squareup/blob/f92
 
 > `optional` **referenceId?**: `string`
 
-Defined in: [core/types/index.ts:73](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/types/index.ts#L73)
+Defined in: [core/types/index.ts:73](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/types/index.ts#L73)

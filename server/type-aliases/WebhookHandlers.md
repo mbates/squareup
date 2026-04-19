@@ -8,6 +8,6 @@
 
 > **WebhookHandlers** = `{ [K in WebhookEventType]?: WebhookHandler }`
 
-Defined in: [server/types.ts:104](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/server/types.ts#L104)
+Defined in: [server/types.ts:104](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/server/types.ts#L104)
 
 Map of event types to their handlers

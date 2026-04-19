@@ -8,7 +8,7 @@
 
 > **LaborEventType** = `"labor.timecard.created"` \| `"labor.timecard.updated"`
 
-Defined in: [server/types.ts:53](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/server/types.ts#L53)
+Defined in: [server/types.ts:53](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/server/types.ts#L53)
 
 @bates-solutions/squareup/server
 

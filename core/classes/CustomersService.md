@@ -6,7 +6,7 @@
 
 # Class: CustomersService
 
-Defined in: [core/services/customers.service.ts:116](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/services/customers.service.ts#L116)
+Defined in: [core/services/customers.service.ts:116](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/services/customers.service.ts#L116)
 
 Customers service for managing Square customers
 
@@ -32,7 +32,7 @@ const results = await square.customers.search({
 
 > **new CustomersService**(`client`): `CustomersService`
 
-Defined in: [core/services/customers.service.ts:117](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/services/customers.service.ts#L117)
+Defined in: [core/services/customers.service.ts:117](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/services/customers.service.ts#L117)
 
 #### Parameters
 
@@ -50,7 +50,7 @@ Defined in: [core/services/customers.service.ts:117](https://github.com/mbates/s
 
 > **create**(`options`): `Promise`\<`Customer`\>
 
-Defined in: [core/services/customers.service.ts:135](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/services/customers.service.ts#L135)
+Defined in: [core/services/customers.service.ts:135](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/services/customers.service.ts#L135)
 
 Create a new customer
 
@@ -85,7 +85,7 @@ const customer = await square.customers.create({
 
 > **delete**(`customerId`): `Promise`\<`void`\>
 
-Defined in: [core/services/customers.service.ts:249](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/services/customers.service.ts#L249)
+Defined in: [core/services/customers.service.ts:249](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/services/customers.service.ts#L249)
 
 Delete a customer
 
@@ -113,7 +113,7 @@ await square.customers.delete('CUST_123');
 
 > **get**(`customerId`): `Promise`\<`Customer`\>
 
-Defined in: [core/services/customers.service.ts:185](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/services/customers.service.ts#L185)
+Defined in: [core/services/customers.service.ts:185](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/services/customers.service.ts#L185)
 
 Get a customer by ID
 
@@ -143,7 +143,7 @@ const customer = await square.customers.get('CUST_123');
 
 > **list**(`options?`): `Promise`\<\{ `cursor?`: `string`; `customers`: `Customer`[]; \}\>
 
-Defined in: [core/services/customers.service.ts:398](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/services/customers.service.ts#L398)
+Defined in: [core/services/customers.service.ts:398](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/services/customers.service.ts#L398)
 
 List customers with cursor-based pagination
 
@@ -177,7 +177,7 @@ const page2 = await square.customers.list({ cursor: page1.cursor, limit: 50 });
 
 > **search**(`options?`): `Promise`\<\{ `cursor?`: `string`; `data`: `Customer`[]; \}\>
 
-Defined in: [core/services/customers.service.ts:276](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/services/customers.service.ts#L276)
+Defined in: [core/services/customers.service.ts:276](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/services/customers.service.ts#L276)
 
 Search for customers
 
@@ -215,7 +215,7 @@ const results = await square.customers.search({
 
 > **update**(`customerId`, `options`): `Promise`\<`Customer`\>
 
-Defined in: [core/services/customers.service.ts:213](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/services/customers.service.ts#L213)
+Defined in: [core/services/customers.service.ts:213](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/services/customers.service.ts#L213)
 
 Update a customer
 

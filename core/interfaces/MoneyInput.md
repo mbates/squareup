@@ -6,7 +6,7 @@
 
 # Interface: MoneyInput
 
-Defined in: [core/types/index.ts:36](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/types/index.ts#L36)
+Defined in: [core/types/index.ts:36](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/types/index.ts#L36)
 
 Simple money representation for API inputs
 
@@ -16,7 +16,7 @@ Simple money representation for API inputs
 
 > **amount**: `number`
 
-Defined in: [core/types/index.ts:37](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/types/index.ts#L37)
+Defined in: [core/types/index.ts:37](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/types/index.ts#L37)
 
 ***
 
@@ -24,4 +24,4 @@ Defined in: [core/types/index.ts:37](https://github.com/mbates/squareup/blob/f92
 
 > `optional` **currency?**: [`CurrencyCode`](../type-aliases/CurrencyCode.md)
 
-Defined in: [core/types/index.ts:38](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/types/index.ts#L38)
+Defined in: [core/types/index.ts:38](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/types/index.ts#L38)

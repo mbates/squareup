@@ -8,6 +8,6 @@
 
 > **SquareEnvironment** = `"sandbox"` \| `"production"`
 
-Defined in: [core/types/index.ts:4](https://github.com/mbates/squareup/blob/f92173636cb82aa5c787e6b2748fad54d675bfbf/src/core/types/index.ts#L4)
+Defined in: [core/types/index.ts:4](https://github.com/mbates/squareup/blob/bd0cc77dd8a0653f0d66788f752f3f831d55e75c/src/core/types/index.ts#L4)
 
 Square environment configuration
