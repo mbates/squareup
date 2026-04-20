@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.11.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.12.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: LineItemInput
 
-Defined in: [core/types/index.ts:44](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/types/index.ts#L44)
+Defined in: [core/types/index.ts:44](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L44)
 
 Line item for orders
 
@@ -16,7 +16,7 @@ Line item for orders
 
 > `optional` **amount?**: `number`
 
-Defined in: [core/types/index.ts:48](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/types/index.ts#L48)
+Defined in: [core/types/index.ts:48](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L48)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [core/types/index.ts:48](https://github.com/mbates/squareup/blob/cc2
 
 > `optional` **basePriceMoney?**: `object`
 
-Defined in: [core/types/index.ts:54](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/types/index.ts#L54)
+Defined in: [core/types/index.ts:54](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L54)
 
 Explicit money override. When set, takes precedence over `amount` + the
 builder's default currency. Useful for order templates where the base
@@ -44,7 +44,7 @@ price must include an explicit currency.
 
 > `optional` **catalogObjectId?**: `string`
 
-Defined in: [core/types/index.ts:46](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/types/index.ts#L46)
+Defined in: [core/types/index.ts:46](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L46)
 
 ***
 
@@ -52,7 +52,7 @@ Defined in: [core/types/index.ts:46](https://github.com/mbates/squareup/blob/cc2
 
 > `optional` **name?**: `string`
 
-Defined in: [core/types/index.ts:45](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/types/index.ts#L45)
+Defined in: [core/types/index.ts:45](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L45)
 
 ***
 
@@ -60,7 +60,7 @@ Defined in: [core/types/index.ts:45](https://github.com/mbates/squareup/blob/cc2
 
 > `optional` **note?**: `string`
 
-Defined in: [core/types/index.ts:58](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/types/index.ts#L58)
+Defined in: [core/types/index.ts:58](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L58)
 
 ***
 
@@ -68,4 +68,4 @@ Defined in: [core/types/index.ts:58](https://github.com/mbates/squareup/blob/cc2
 
 > `optional` **quantity?**: `number`
 
-Defined in: [core/types/index.ts:47](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/types/index.ts#L47)
+Defined in: [core/types/index.ts:47](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L47)

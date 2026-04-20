@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.11.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.12.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: CreateOrderOptions
 
-Defined in: [core/types/index.ts:96](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/types/index.ts#L96)
+Defined in: [core/types/index.ts:96](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L96)
 
 Create order options
 
@@ -16,7 +16,7 @@ Create order options
 
 > `optional` **customerId?**: `string`
 
-Defined in: [core/types/index.ts:98](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/types/index.ts#L98)
+Defined in: [core/types/index.ts:98](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L98)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [core/types/index.ts:98](https://github.com/mbates/squareup/blob/cc2
 
 > `optional` **idempotencyKey?**: `string`
 
-Defined in: [core/types/index.ts:110](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/types/index.ts#L110)
+Defined in: [core/types/index.ts:110](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L110)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [core/types/index.ts:110](https://github.com/mbates/squareup/blob/cc
 
 > **lineItems**: [`LineItemInput`](LineItemInput.md)[]
 
-Defined in: [core/types/index.ts:97](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/types/index.ts#L97)
+Defined in: [core/types/index.ts:97](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L97)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [core/types/index.ts:97](https://github.com/mbates/squareup/blob/cc2
 
 > `optional` **locationId?**: `string`
 
-Defined in: [core/types/index.ts:109](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/types/index.ts#L109)
+Defined in: [core/types/index.ts:109](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L109)
 
 Override the client's default location for this order.
 
@@ -50,7 +50,7 @@ Override the client's default location for this order.
 
 > `optional` **pricingOptions?**: [`OrderPricingOptions`](OrderPricingOptions.md)
 
-Defined in: [core/types/index.ts:105](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/types/index.ts#L105)
+Defined in: [core/types/index.ts:105](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L105)
 
 ***
 
@@ -58,7 +58,7 @@ Defined in: [core/types/index.ts:105](https://github.com/mbates/squareup/blob/cc
 
 > `optional` **referenceId?**: `string`
 
-Defined in: [core/types/index.ts:99](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/types/index.ts#L99)
+Defined in: [core/types/index.ts:99](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L99)
 
 ***
 
@@ -66,7 +66,7 @@ Defined in: [core/types/index.ts:99](https://github.com/mbates/squareup/blob/cc2
 
 > `optional` **state?**: `"DRAFT"` \| `"OPEN"`
 
-Defined in: [core/types/index.ts:104](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/types/index.ts#L104)
+Defined in: [core/types/index.ts:104](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L104)
 
 Order state. Use `'DRAFT'` when creating an order template that will back
 a subscription phase (`subscriptions.create({ phases: [...] })`).

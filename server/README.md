@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.11.0**](../README.md)
+[**@bates-solutions/squareup API Reference v1.12.0**](../README.md)
 
 ***
 

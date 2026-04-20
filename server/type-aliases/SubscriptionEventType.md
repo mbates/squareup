@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.11.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.12.0**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **SubscriptionEventType** = `"subscription.created"` \| `"subscription.updated"`
 
-Defined in: [server/types.ts:26](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/server/types.ts#L26)
+Defined in: [server/types.ts:26](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/server/types.ts#L26)
 
 @bates-solutions/squareup/server
 

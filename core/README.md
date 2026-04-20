@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.11.0**](../README.md)
+[**@bates-solutions/squareup API Reference v1.12.0**](../README.md)
 
 ***
 
@@ -12,6 +12,8 @@
 - [CheckoutService](classes/CheckoutService.md)
 - [CustomerGroupsService](classes/CustomerGroupsService.md)
 - [CustomersService](classes/CustomersService.md)
+- [GiftCardActivitiesService](classes/GiftCardActivitiesService.md)
+- [GiftCardsService](classes/GiftCardsService.md)
 - [InventoryService](classes/InventoryService.md)
 - [InvoicesService](classes/InvoicesService.md)
 - [LoyaltyService](classes/LoyaltyService.md)
@@ -28,16 +30,27 @@
 
 ## Interfaces
 
+- [ActivateActivityDetails](interfaces/ActivateActivityDetails.md)
+- [AdjustDecrementActivityDetails](interfaces/AdjustDecrementActivityDetails.md)
+- [AdjustIncrementActivityDetails](interfaces/AdjustIncrementActivityDetails.md)
+- [CreateGiftCardActivityOptions](interfaces/CreateGiftCardActivityOptions.md)
+- [CreateGiftCardOptions](interfaces/CreateGiftCardOptions.md)
 - [CreateOrderOptions](interfaces/CreateOrderOptions.md)
 - [CreatePaymentOptions](interfaces/CreatePaymentOptions.md)
 - [CreateSubscriptionOptions](interfaces/CreateSubscriptionOptions.md)
+- [GiftCard](interfaces/GiftCard.md)
+- [GiftCardActivity](interfaces/GiftCardActivity.md)
 - [LineItemInput](interfaces/LineItemInput.md)
+- [ListGiftCardActivitiesOptions](interfaces/ListGiftCardActivitiesOptions.md)
+- [ListGiftCardsOptions](interfaces/ListGiftCardsOptions.md)
+- [LoadActivityDetails](interfaces/LoadActivityDetails.md)
 - [Money](interfaces/Money.md)
 - [MoneyInput](interfaces/MoneyInput.md)
 - [Order](interfaces/Order.md)
 - [OrderPricingOptions](interfaces/OrderPricingOptions.md)
 - [PaginatedResponse](interfaces/PaginatedResponse.md)
 - [PaginationOptions](interfaces/PaginationOptions.md)
+- [RedeemActivityDetails](interfaces/RedeemActivityDetails.md)
 - [SearchOrdersOptions](interfaces/SearchOrdersOptions.md)
 - [SearchRecentOrdersOptions](interfaces/SearchRecentOrdersOptions.md)
 - [SquareClientConfig](interfaces/SquareClientConfig.md)
@@ -47,7 +60,14 @@
 
 ## Type Aliases
 
+- [AdjustDecrementReason](type-aliases/AdjustDecrementReason.md)
+- [AdjustIncrementReason](type-aliases/AdjustIncrementReason.md)
 - [CurrencyCode](type-aliases/CurrencyCode.md)
+- [GiftCardActivityType](type-aliases/GiftCardActivityType.md)
+- [GiftCardDeactivateReason](type-aliases/GiftCardDeactivateReason.md)
+- [GiftCardGanSource](type-aliases/GiftCardGanSource.md)
+- [GiftCardState](type-aliases/GiftCardState.md)
+- [GiftCardType](type-aliases/GiftCardType.md)
 - [PaymentSource](type-aliases/PaymentSource.md)
 - [SquareEnvironment](type-aliases/SquareEnvironment.md)
 - [SquareErrorCode](type-aliases/SquareErrorCode.md)

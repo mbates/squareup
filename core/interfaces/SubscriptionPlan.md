@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.11.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.12.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: SubscriptionPlan
 
-Defined in: [core/services/subscriptions.service.ts:58](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/services/subscriptions.service.ts#L58)
+Defined in: [core/services/subscriptions.service.ts:58](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/services/subscriptions.service.ts#L58)
 
 Subscription plan from Square API
 
@@ -16,7 +16,7 @@ Subscription plan from Square API
 
 > `optional` **id?**: `string`
 
-Defined in: [core/services/subscriptions.service.ts:59](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/services/subscriptions.service.ts#L59)
+Defined in: [core/services/subscriptions.service.ts:59](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/services/subscriptions.service.ts#L59)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [core/services/subscriptions.service.ts:59](https://github.com/mbate
 
 > `optional` **subscriptionPlanData?**: `object`
 
-Defined in: [core/services/subscriptions.service.ts:61](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/services/subscriptions.service.ts#L61)
+Defined in: [core/services/subscriptions.service.ts:61](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/services/subscriptions.service.ts#L61)
 
 #### name?
 
@@ -40,4 +40,4 @@ Defined in: [core/services/subscriptions.service.ts:61](https://github.com/mbate
 
 > `optional` **type?**: `string`
 
-Defined in: [core/services/subscriptions.service.ts:60](https://github.com/mbates/squareup/blob/cc2848be999d186279012e73fbe300893ef84c22/src/core/services/subscriptions.service.ts#L60)
+Defined in: [core/services/subscriptions.service.ts:60](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/services/subscriptions.service.ts#L60)
