@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.10.0**](../README.md)
+[**@bates-solutions/squareup API Reference v1.11.0**](../README.md)
 
 ***
 
@@ -30,14 +30,20 @@
 
 - [CreateOrderOptions](interfaces/CreateOrderOptions.md)
 - [CreatePaymentOptions](interfaces/CreatePaymentOptions.md)
+- [CreateSubscriptionOptions](interfaces/CreateSubscriptionOptions.md)
 - [LineItemInput](interfaces/LineItemInput.md)
 - [Money](interfaces/Money.md)
 - [MoneyInput](interfaces/MoneyInput.md)
+- [Order](interfaces/Order.md)
+- [OrderPricingOptions](interfaces/OrderPricingOptions.md)
 - [PaginatedResponse](interfaces/PaginatedResponse.md)
 - [PaginationOptions](interfaces/PaginationOptions.md)
 - [SearchOrdersOptions](interfaces/SearchOrdersOptions.md)
 - [SearchRecentOrdersOptions](interfaces/SearchRecentOrdersOptions.md)
 - [SquareClientConfig](interfaces/SquareClientConfig.md)
+- [Subscription](interfaces/Subscription.md)
+- [SubscriptionPhaseInput](interfaces/SubscriptionPhaseInput.md)
+- [SubscriptionPlan](interfaces/SubscriptionPlan.md)
 
 ## Type Aliases
 
@@ -45,6 +51,8 @@
 - [PaymentSource](type-aliases/PaymentSource.md)
 - [SquareEnvironment](type-aliases/SquareEnvironment.md)
 - [SquareErrorCode](type-aliases/SquareErrorCode.md)
+- [SubscriptionCadence](type-aliases/SubscriptionCadence.md)
+- [SubscriptionStatus](type-aliases/SubscriptionStatus.md)
 
 ## Functions
 
