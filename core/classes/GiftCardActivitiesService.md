@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.13.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.13.1**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Class: GiftCardActivitiesService
 
-Defined in: [core/services/gift-cards.service.ts:256](https://github.com/mbates/squareup/blob/36eeb9010838e6df2f59b359e89c69f57fcea7b6/src/core/services/gift-cards.service.ts#L256)
+Defined in: [core/services/gift-cards.service.ts:256](https://github.com/mbates/squareup/blob/062721e435bb8ebf7b21ecf236e68c6a5f5432e7/src/core/services/gift-cards.service.ts#L256)
 
 Service for managing gift card activities (the Gift Card Activities API).
 
@@ -34,7 +34,7 @@ await square.giftCards.activities.create({
 
 > **new GiftCardActivitiesService**(`client`, `defaultLocationId?`): `GiftCardActivitiesService`
 
-Defined in: [core/services/gift-cards.service.ts:257](https://github.com/mbates/squareup/blob/36eeb9010838e6df2f59b359e89c69f57fcea7b6/src/core/services/gift-cards.service.ts#L257)
+Defined in: [core/services/gift-cards.service.ts:257](https://github.com/mbates/squareup/blob/062721e435bb8ebf7b21ecf236e68c6a5f5432e7/src/core/services/gift-cards.service.ts#L257)
 
 #### Parameters
 
@@ -56,7 +56,7 @@ Defined in: [core/services/gift-cards.service.ts:257](https://github.com/mbates/
 
 > **create**(`options`): `Promise`\<[`GiftCardActivity`](../interfaces/GiftCardActivity.md)\>
 
-Defined in: [core/services/gift-cards.service.ts:269](https://github.com/mbates/squareup/blob/36eeb9010838e6df2f59b359e89c69f57fcea7b6/src/core/services/gift-cards.service.ts#L269)
+Defined in: [core/services/gift-cards.service.ts:269](https://github.com/mbates/squareup/blob/062721e435bb8ebf7b21ecf236e68c6a5f5432e7/src/core/services/gift-cards.service.ts#L269)
 
 Create a gift card activity.
 
@@ -80,7 +80,7 @@ Always pass a stable key for retries to avoid double-applying activities
 
 > **list**(`options?`): `Promise`\<\{ `activities`: [`GiftCardActivity`](../interfaces/GiftCardActivity.md)[]; `cursor?`: `string`; \}\>
 
-Defined in: [core/services/gift-cards.service.ts:349](https://github.com/mbates/squareup/blob/36eeb9010838e6df2f59b359e89c69f57fcea7b6/src/core/services/gift-cards.service.ts#L349)
+Defined in: [core/services/gift-cards.service.ts:349](https://github.com/mbates/squareup/blob/062721e435bb8ebf7b21ecf236e68c6a5f5432e7/src/core/services/gift-cards.service.ts#L349)
 
 List gift card activities, optionally filtered by card, type, location,
 or time range.
