@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.12.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.13.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: LoadActivityDetails
 
-Defined in: [core/services/gift-cards.service.ts:125](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/services/gift-cards.service.ts#L125)
+Defined in: [core/services/gift-cards.service.ts:125](https://github.com/mbates/squareup/blob/36eeb9010838e6df2f59b359e89c69f57fcea7b6/src/core/services/gift-cards.service.ts#L125)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [core/services/gift-cards.service.ts:125](https://github.com/mbates/
 
 > `optional` **amountMoney?**: `object`
 
-Defined in: [core/services/gift-cards.service.ts:126](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/services/gift-cards.service.ts#L126)
+Defined in: [core/services/gift-cards.service.ts:126](https://github.com/mbates/squareup/blob/36eeb9010838e6df2f59b359e89c69f57fcea7b6/src/core/services/gift-cards.service.ts#L126)
 
 #### amount?
 
@@ -30,7 +30,7 @@ Defined in: [core/services/gift-cards.service.ts:126](https://github.com/mbates/
 
 > `optional` **buyerPaymentInstrumentIds?**: `string`[]
 
-Defined in: [core/services/gift-cards.service.ts:130](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/services/gift-cards.service.ts#L130)
+Defined in: [core/services/gift-cards.service.ts:130](https://github.com/mbates/squareup/blob/36eeb9010838e6df2f59b359e89c69f57fcea7b6/src/core/services/gift-cards.service.ts#L130)
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [core/services/gift-cards.service.ts:130](https://github.com/mbates/
 
 > `optional` **lineItemUid?**: `string`
 
-Defined in: [core/services/gift-cards.service.ts:128](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/services/gift-cards.service.ts#L128)
+Defined in: [core/services/gift-cards.service.ts:128](https://github.com/mbates/squareup/blob/36eeb9010838e6df2f59b359e89c69f57fcea7b6/src/core/services/gift-cards.service.ts#L128)
 
 ***
 
@@ -46,7 +46,7 @@ Defined in: [core/services/gift-cards.service.ts:128](https://github.com/mbates/
 
 > `optional` **orderId?**: `string`
 
-Defined in: [core/services/gift-cards.service.ts:127](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/services/gift-cards.service.ts#L127)
+Defined in: [core/services/gift-cards.service.ts:127](https://github.com/mbates/squareup/blob/36eeb9010838e6df2f59b359e89c69f57fcea7b6/src/core/services/gift-cards.service.ts#L127)
 
 ***
 
@@ -54,4 +54,4 @@ Defined in: [core/services/gift-cards.service.ts:127](https://github.com/mbates/
 
 > `optional` **referenceId?**: `string`
 
-Defined in: [core/services/gift-cards.service.ts:129](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/services/gift-cards.service.ts#L129)
+Defined in: [core/services/gift-cards.service.ts:129](https://github.com/mbates/squareup/blob/36eeb9010838e6df2f59b359e89c69f57fcea7b6/src/core/services/gift-cards.service.ts#L129)

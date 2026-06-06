@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.12.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.13.0**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **InvoiceEventType** = `"invoice.created"` \| `"invoice.updated"` \| `"invoice.published"` \| `"invoice.payment_made"` \| `"invoice.canceled"`
 
-Defined in: [server/types.ts:29](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/server/types.ts#L29)
+Defined in: [server/types.ts:29](https://github.com/mbates/squareup/blob/36eeb9010838e6df2f59b359e89c69f57fcea7b6/src/server/types.ts#L29)
 
 @bates-solutions/squareup/server
 

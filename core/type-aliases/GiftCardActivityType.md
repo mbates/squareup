@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.12.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.13.0**](../../README.md)
 
 ***
 
@@ -8,6 +8,6 @@
 
 > **GiftCardActivityType** = `"ACTIVATE"` \| `"LOAD"` \| `"REDEEM"` \| `"CLEAR_BALANCE"` \| `"DEACTIVATE"` \| `"ADJUST_INCREMENT"` \| `"ADJUST_DECREMENT"` \| `"REFUND"` \| `"UNLINKED_ACTIVITY_REFUND"` \| `"IMPORT"` \| `"BLOCK"` \| `"UNBLOCK"` \| `"IMPORT_REVERSAL"` \| `"TRANSFER_BALANCE_FROM"` \| `"TRANSFER_BALANCE_TO"`
 
-Defined in: [core/services/gift-cards.service.ts:52](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/services/gift-cards.service.ts#L52)
+Defined in: [core/services/gift-cards.service.ts:52](https://github.com/mbates/squareup/blob/36eeb9010838e6df2f59b359e89c69f57fcea7b6/src/core/services/gift-cards.service.ts#L52)
 
 All gift card activity types supported by Square.

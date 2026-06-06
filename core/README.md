@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.12.0**](../README.md)
+[**@bates-solutions/squareup API Reference v1.13.0**](../README.md)
 
 ***
 
@@ -33,14 +33,17 @@
 - [ActivateActivityDetails](interfaces/ActivateActivityDetails.md)
 - [AdjustDecrementActivityDetails](interfaces/AdjustDecrementActivityDetails.md)
 - [AdjustIncrementActivityDetails](interfaces/AdjustIncrementActivityDetails.md)
+- [CreateCustomerOptions](interfaces/CreateCustomerOptions.md)
 - [CreateGiftCardActivityOptions](interfaces/CreateGiftCardActivityOptions.md)
 - [CreateGiftCardOptions](interfaces/CreateGiftCardOptions.md)
 - [CreateOrderOptions](interfaces/CreateOrderOptions.md)
 - [CreatePaymentOptions](interfaces/CreatePaymentOptions.md)
 - [CreateSubscriptionOptions](interfaces/CreateSubscriptionOptions.md)
+- [Customer](interfaces/Customer.md)
 - [GiftCard](interfaces/GiftCard.md)
 - [GiftCardActivity](interfaces/GiftCardActivity.md)
 - [LineItemInput](interfaces/LineItemInput.md)
+- [ListCustomersOptions](interfaces/ListCustomersOptions.md)
 - [ListGiftCardActivitiesOptions](interfaces/ListGiftCardActivitiesOptions.md)
 - [ListGiftCardsOptions](interfaces/ListGiftCardsOptions.md)
 - [LoadActivityDetails](interfaces/LoadActivityDetails.md)
@@ -51,18 +54,22 @@
 - [PaginatedResponse](interfaces/PaginatedResponse.md)
 - [PaginationOptions](interfaces/PaginationOptions.md)
 - [RedeemActivityDetails](interfaces/RedeemActivityDetails.md)
+- [SearchCustomersOptions](interfaces/SearchCustomersOptions.md)
 - [SearchOrdersOptions](interfaces/SearchOrdersOptions.md)
 - [SearchRecentOrdersOptions](interfaces/SearchRecentOrdersOptions.md)
 - [SquareClientConfig](interfaces/SquareClientConfig.md)
 - [Subscription](interfaces/Subscription.md)
 - [SubscriptionPhaseInput](interfaces/SubscriptionPhaseInput.md)
 - [SubscriptionPlan](interfaces/SubscriptionPlan.md)
+- [UpdateCustomerOptions](interfaces/UpdateCustomerOptions.md)
 
 ## Type Aliases
 
 - [AdjustDecrementReason](type-aliases/AdjustDecrementReason.md)
 - [AdjustIncrementReason](type-aliases/AdjustIncrementReason.md)
 - [CurrencyCode](type-aliases/CurrencyCode.md)
+- [CustomerSortField](type-aliases/CustomerSortField.md)
+- [CustomerSortOrder](type-aliases/CustomerSortOrder.md)
 - [GiftCardActivityType](type-aliases/GiftCardActivityType.md)
 - [GiftCardDeactivateReason](type-aliases/GiftCardDeactivateReason.md)
 - [GiftCardGanSource](type-aliases/GiftCardGanSource.md)

@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.12.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.13.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: OrderPricingOptions
 
-Defined in: [core/types/index.ts:80](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L80)
+Defined in: [core/types/index.ts:80](https://github.com/mbates/squareup/blob/36eeb9010838e6df2f59b359e89c69f57fcea7b6/src/core/types/index.ts#L80)
 
 Pricing options for an order. Controls automatic application of discounts
 (pricing rules) and taxes.
@@ -17,7 +17,7 @@ Pricing options for an order. Controls automatic application of discounts
 
 > `optional` **autoApplyDiscounts?**: `boolean`
 
-Defined in: [core/types/index.ts:86](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L86)
+Defined in: [core/types/index.ts:86](https://github.com/mbates/squareup/blob/36eeb9010838e6df2f59b359e89c69f57fcea7b6/src/core/types/index.ts#L86)
 
 Apply catalog pricing rules (incl. customer-group-gated wholesale rules)
 automatically at calculation time. Required for order templates that back
@@ -29,6 +29,6 @@ subscriptions with per-retailer wholesale pricing.
 
 > `optional` **autoApplyTaxes?**: `boolean`
 
-Defined in: [core/types/index.ts:90](https://github.com/mbates/squareup/blob/a23e5d04b710755974cd3f885dc527ae2c7e12be/src/core/types/index.ts#L90)
+Defined in: [core/types/index.ts:90](https://github.com/mbates/squareup/blob/36eeb9010838e6df2f59b359e89c69f57fcea7b6/src/core/types/index.ts#L90)
 
 Apply all enabled taxes at the location automatically.
