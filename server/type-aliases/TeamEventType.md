@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.13.1**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.13.2**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **TeamEventType** = `"team_member.created"` \| `"team_member.updated"`
 
-Defined in: [server/types.ts:50](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/server/types.ts#L50)
+Defined in: [server/types.ts:50](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/server/types.ts#L50)
 
 @bates-solutions/squareup/server
 

@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.13.1**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.13.2**](../../README.md)
 
 ***
 
@@ -8,6 +8,6 @@
 
 > **SquareErrorCode** = `"UNAUTHORIZED"` \| `"ACCESS_TOKEN_EXPIRED"` \| `"ACCESS_TOKEN_REVOKED"` \| `"FORBIDDEN"` \| `"INSUFFICIENT_SCOPES"` \| `"BAD_REQUEST"` \| `"INVALID_VALUE"` \| `"MISSING_REQUIRED_PARAMETER"` \| `"NOT_FOUND"` \| `"CONFLICT"` \| `"RATE_LIMITED"` \| `"INTERNAL_SERVER_ERROR"` \| `"SERVICE_UNAVAILABLE"` \| `"CARD_DECLINED"` \| `"VERIFY_CVV_FAILURE"` \| `"VERIFY_AVS_FAILURE"` \| `"INVALID_EXPIRATION"` \| `"CARD_EXPIRED"` \| `"INVALID_CARD"` \| `"GENERIC_DECLINE"` \| `"UNKNOWN"`
 
-Defined in: [core/errors.ts:4](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/errors.ts#L4)
+Defined in: [core/errors.ts:4](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/errors.ts#L4)
 
 Square error codes

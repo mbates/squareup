@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.13.1**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.13.2**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: ListCustomersOptions
 
-Defined in: [core/services/customers.service.ts:94](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/services/customers.service.ts#L94)
+Defined in: [core/services/customers.service.ts:94](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/services/customers.service.ts#L94)
 
 Options for listing customers
 
@@ -16,7 +16,7 @@ Options for listing customers
 
 > `optional` **cursor?**: `string`
 
-Defined in: [core/services/customers.service.ts:96](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/services/customers.service.ts#L96)
+Defined in: [core/services/customers.service.ts:96](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/services/customers.service.ts#L96)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [core/services/customers.service.ts:96](https://github.com/mbates/sq
 
 > `optional` **limit?**: `number`
 
-Defined in: [core/services/customers.service.ts:95](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/services/customers.service.ts#L95)
+Defined in: [core/services/customers.service.ts:95](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/services/customers.service.ts#L95)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [core/services/customers.service.ts:95](https://github.com/mbates/sq
 
 > `optional` **sortField?**: [`CustomerSortField`](../type-aliases/CustomerSortField.md)
 
-Defined in: [core/services/customers.service.ts:103](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/services/customers.service.ts#L103)
+Defined in: [core/services/customers.service.ts:103](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/services/customers.service.ts#L103)
 
 Field to sort by. Defaults to `DEFAULT` when omitted.
 
@@ -45,7 +45,7 @@ parameter, which the Square API rejects with a 400.
 
 > `optional` **sortOrder?**: [`CustomerSortOrder`](../type-aliases/CustomerSortOrder.md)
 
-Defined in: [core/services/customers.service.ts:110](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/services/customers.service.ts#L110)
+Defined in: [core/services/customers.service.ts:110](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/services/customers.service.ts#L110)
 
 Sort direction. Defaults to `DESC` when omitted.
 

@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.13.1**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.13.2**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: CustomerWebhookObject
 
-Defined in: [server/types.ts:193](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/server/types.ts#L193)
+Defined in: [server/types.ts:193](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/server/types.ts#L193)
 
 Customer object in a webhook event payload
 
@@ -16,7 +16,7 @@ Customer object in a webhook event payload
 
 > `optional` **customer?**: `object`
 
-Defined in: [server/types.ts:194](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/server/types.ts#L194)
+Defined in: [server/types.ts:194](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/server/types.ts#L194)
 
 #### email\_address?
 

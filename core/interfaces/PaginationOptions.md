@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.13.1**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.13.2**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: PaginationOptions
 
-Defined in: [core/types/index.ts:20](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/types/index.ts#L20)
+Defined in: [core/types/index.ts:20](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/types/index.ts#L20)
 
 Common pagination options
 
@@ -16,7 +16,7 @@ Common pagination options
 
 > `optional` **cursor?**: `string`
 
-Defined in: [core/types/index.ts:21](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/types/index.ts#L21)
+Defined in: [core/types/index.ts:21](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/types/index.ts#L21)
 
 ***
 
@@ -24,4 +24,4 @@ Defined in: [core/types/index.ts:21](https://github.com/mbates/squareup/blob/731
 
 > `optional` **limit?**: `number`
 
-Defined in: [core/types/index.ts:22](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/types/index.ts#L22)
+Defined in: [core/types/index.ts:22](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/types/index.ts#L22)

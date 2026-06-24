@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.13.1**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.13.2**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **CustomerSortField** = `"DEFAULT"` \| `"CREATED_AT"`
 
-Defined in: [core/services/customers.service.ts:84](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/services/customers.service.ts#L84)
+Defined in: [core/services/customers.service.ts:84](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/services/customers.service.ts#L84)
 
 Field used to sort customers when listing.
 
