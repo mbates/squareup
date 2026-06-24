@@ -6,7 +6,7 @@
 
 # Interface: Money
 
-Defined in: [core/utils.ts:7](https://github.com/mbates/squareup/blob/062721e435bb8ebf7b21ecf236e68c6a5f5432e7/src/core/utils.ts#L7)
+Defined in: [core/utils.ts:7](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/utils.ts#L7)
 
 Money representation
 
@@ -16,7 +16,7 @@ Money representation
 
 > **amount**: `bigint`
 
-Defined in: [core/utils.ts:8](https://github.com/mbates/squareup/blob/062721e435bb8ebf7b21ecf236e68c6a5f5432e7/src/core/utils.ts#L8)
+Defined in: [core/utils.ts:8](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/utils.ts#L8)
 
 ***
 
@@ -24,4 +24,4 @@ Defined in: [core/utils.ts:8](https://github.com/mbates/squareup/blob/062721e435
 
 > **currency**: [`CurrencyCode`](../type-aliases/CurrencyCode.md)
 
-Defined in: [core/utils.ts:9](https://github.com/mbates/squareup/blob/062721e435bb8ebf7b21ecf236e68c6a5f5432e7/src/core/utils.ts#L9)
+Defined in: [core/utils.ts:9](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/utils.ts#L9)

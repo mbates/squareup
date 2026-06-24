@@ -8,7 +8,7 @@
 
 > **CustomerSortField** = `"DEFAULT"` \| `"CREATED_AT"`
 
-Defined in: [core/services/customers.service.ts:84](https://github.com/mbates/squareup/blob/062721e435bb8ebf7b21ecf236e68c6a5f5432e7/src/core/services/customers.service.ts#L84)
+Defined in: [core/services/customers.service.ts:84](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/services/customers.service.ts#L84)
 
 Field used to sort customers when listing.
 

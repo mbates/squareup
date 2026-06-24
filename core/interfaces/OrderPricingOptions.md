@@ -6,7 +6,7 @@
 
 # Interface: OrderPricingOptions
 
-Defined in: [core/types/index.ts:80](https://github.com/mbates/squareup/blob/062721e435bb8ebf7b21ecf236e68c6a5f5432e7/src/core/types/index.ts#L80)
+Defined in: [core/types/index.ts:80](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/types/index.ts#L80)
 
 Pricing options for an order. Controls automatic application of discounts
 (pricing rules) and taxes.
@@ -17,7 +17,7 @@ Pricing options for an order. Controls automatic application of discounts
 
 > `optional` **autoApplyDiscounts?**: `boolean`
 
-Defined in: [core/types/index.ts:86](https://github.com/mbates/squareup/blob/062721e435bb8ebf7b21ecf236e68c6a5f5432e7/src/core/types/index.ts#L86)
+Defined in: [core/types/index.ts:86](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/types/index.ts#L86)
 
 Apply catalog pricing rules (incl. customer-group-gated wholesale rules)
 automatically at calculation time. Required for order templates that back
@@ -29,6 +29,6 @@ subscriptions with per-retailer wholesale pricing.
 
 > `optional` **autoApplyTaxes?**: `boolean`
 
-Defined in: [core/types/index.ts:90](https://github.com/mbates/squareup/blob/062721e435bb8ebf7b21ecf236e68c6a5f5432e7/src/core/types/index.ts#L90)
+Defined in: [core/types/index.ts:90](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/types/index.ts#L90)
 
 Apply all enabled taxes at the location automatically.

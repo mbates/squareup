@@ -8,7 +8,7 @@
 
 > **AdjustIncrementReason** = `"COMPLIMENTARY"` \| `"SUPPORT_ISSUE"` \| `"TRANSACTION_VOIDED"`
 
-Defined in: [core/services/gift-cards.service.ts:81](https://github.com/mbates/squareup/blob/062721e435bb8ebf7b21ecf236e68c6a5f5432e7/src/core/services/gift-cards.service.ts#L81)
+Defined in: [core/services/gift-cards.service.ts:81](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/services/gift-cards.service.ts#L81)
 
 Reason an `ADJUST_INCREMENT` activity was applied (money added outside a
 normal ACTIVATE/LOAD/REFUND flow).

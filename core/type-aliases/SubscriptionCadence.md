@@ -8,6 +8,6 @@
 
 > **SubscriptionCadence** = `"DAILY"` \| `"WEEKLY"` \| `"EVERY_TWO_WEEKS"` \| `"THIRTY_DAYS"` \| `"SIXTY_DAYS"` \| `"NINETY_DAYS"` \| `"MONTHLY"` \| `"EVERY_TWO_MONTHS"` \| `"QUARTERLY"` \| `"EVERY_FOUR_MONTHS"` \| `"EVERY_SIX_MONTHS"` \| `"ANNUAL"` \| `"EVERY_TWO_YEARS"`
 
-Defined in: [core/services/subscriptions.service.ts:13](https://github.com/mbates/squareup/blob/062721e435bb8ebf7b21ecf236e68c6a5f5432e7/src/core/services/subscriptions.service.ts#L13)
+Defined in: [core/services/subscriptions.service.ts:13](https://github.com/mbates/squareup/blob/7311789a49c4412dc14075bdfe461f20365e2a71/src/core/services/subscriptions.service.ts#L13)
 
 Subscription cadence types
