@@ -6,7 +6,7 @@
 
 # Interface: SearchRecentOrdersOptions
 
-Defined in: [core/types/index.ts:146](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/types/index.ts#L146)
+Defined in: [core/types/index.ts:146](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L146)
 
 Simplified options for searching recent orders
 
@@ -16,7 +16,7 @@ Simplified options for searching recent orders
 
 > `optional` **cursor?**: `string`
 
-Defined in: [core/types/index.ts:152](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/types/index.ts#L152)
+Defined in: [core/types/index.ts:152](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L152)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [core/types/index.ts:152](https://github.com/mbates/squareup/blob/ef
 
 > `optional` **limit?**: `number`
 
-Defined in: [core/types/index.ts:151](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/types/index.ts#L151)
+Defined in: [core/types/index.ts:151](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L151)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [core/types/index.ts:151](https://github.com/mbates/squareup/blob/ef
 
 > `optional` **locationIds?**: `string`[]
 
-Defined in: [core/types/index.ts:147](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/types/index.ts#L147)
+Defined in: [core/types/index.ts:147](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L147)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [core/types/index.ts:147](https://github.com/mbates/squareup/blob/ef
 
 > `optional` **since?**: `Date`
 
-Defined in: [core/types/index.ts:149](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/types/index.ts#L149)
+Defined in: [core/types/index.ts:149](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L149)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [core/types/index.ts:149](https://github.com/mbates/squareup/blob/ef
 
 > `optional` **states?**: `OrderState`[]
 
-Defined in: [core/types/index.ts:148](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/types/index.ts#L148)
+Defined in: [core/types/index.ts:148](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L148)
 
 ***
 
@@ -56,4 +56,4 @@ Defined in: [core/types/index.ts:148](https://github.com/mbates/squareup/blob/ef
 
 > `optional` **until?**: `Date`
 
-Defined in: [core/types/index.ts:150](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/types/index.ts#L150)
+Defined in: [core/types/index.ts:150](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L150)

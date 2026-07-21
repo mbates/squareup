@@ -6,7 +6,7 @@
 
 # Interface: AdjustDecrementActivityDetails
 
-Defined in: [core/services/gift-cards.service.ts:145](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/services/gift-cards.service.ts#L145)
+Defined in: [core/services/gift-cards.service.ts:145](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/gift-cards.service.ts#L145)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [core/services/gift-cards.service.ts:145](https://github.com/mbates/
 
 > **amountMoney**: `object`
 
-Defined in: [core/services/gift-cards.service.ts:146](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/services/gift-cards.service.ts#L146)
+Defined in: [core/services/gift-cards.service.ts:146](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/gift-cards.service.ts#L146)
 
 #### amount
 
@@ -30,4 +30,4 @@ Defined in: [core/services/gift-cards.service.ts:146](https://github.com/mbates/
 
 > **reason**: [`AdjustDecrementReason`](../type-aliases/AdjustDecrementReason.md)
 
-Defined in: [core/services/gift-cards.service.ts:147](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/services/gift-cards.service.ts#L147)
+Defined in: [core/services/gift-cards.service.ts:147](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/gift-cards.service.ts#L147)

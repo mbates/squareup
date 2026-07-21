@@ -8,7 +8,7 @@
 
 > **LambdaWebhookHandler**\<`T`\> = (`event`, `context`) => `void` \| `Promise`\<`void`\>
 
-Defined in: [server/middleware/lambda.ts:42](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/server/middleware/lambda.ts#L42)
+Defined in: [server/middleware/lambda.ts:42](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/server/middleware/lambda.ts#L42)
 
 Handler function for Lambda webhook events
 

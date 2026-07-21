@@ -6,7 +6,7 @@
 
 # Class: SquareError
 
-Defined in: [core/errors.ts:30](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/errors.ts#L30)
+Defined in: [core/errors.ts:30](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/errors.ts#L30)
 
 Base Square error class
 
@@ -27,7 +27,7 @@ Base Square error class
 
 > **new SquareError**(`message`, `code?`, `statusCode?`, `details?`): `SquareError`
 
-Defined in: [core/errors.ts:35](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/errors.ts#L35)
+Defined in: [core/errors.ts:35](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/errors.ts#L35)
 
 #### Parameters
 
@@ -61,7 +61,7 @@ Defined in: [core/errors.ts:35](https://github.com/mbates/squareup/blob/ef064123
 
 > `readonly` **code**: [`SquareErrorCode`](../type-aliases/SquareErrorCode.md)
 
-Defined in: [core/errors.ts:31](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/errors.ts#L31)
+Defined in: [core/errors.ts:31](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/errors.ts#L31)
 
 ***
 
@@ -69,7 +69,7 @@ Defined in: [core/errors.ts:31](https://github.com/mbates/squareup/blob/ef064123
 
 > `readonly` `optional` **details?**: `unknown`
 
-Defined in: [core/errors.ts:33](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/errors.ts#L33)
+Defined in: [core/errors.ts:33](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/errors.ts#L33)
 
 ***
 
@@ -77,4 +77,4 @@ Defined in: [core/errors.ts:33](https://github.com/mbates/squareup/blob/ef064123
 
 > `readonly` `optional` **statusCode?**: `number`
 
-Defined in: [core/errors.ts:32](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/core/errors.ts#L32)
+Defined in: [core/errors.ts:32](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/errors.ts#L32)

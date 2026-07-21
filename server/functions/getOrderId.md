@@ -8,7 +8,7 @@
 
 > **getOrderId**(`event`): `string` \| `undefined`
 
-Defined in: [server/webhook.ts:256](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/server/webhook.ts#L256)
+Defined in: [server/webhook.ts:259](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/server/webhook.ts#L259)
 
 Extract the order ID from a webhook event
 

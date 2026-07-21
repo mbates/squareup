@@ -8,7 +8,7 @@
 
 > **OrderWebhookEvent** = [`WebhookEvent`](../interfaces/WebhookEvent.md)\<[`OrderWebhookObject`](../interfaces/OrderWebhookObject.md)\> & `object`
 
-Defined in: [server/types.ts:209](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/server/types.ts#L209)
+Defined in: [server/types.ts:212](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/server/types.ts#L212)
 
 @bates-solutions/squareup/server
 

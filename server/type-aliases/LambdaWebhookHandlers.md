@@ -8,6 +8,6 @@
 
 > **LambdaWebhookHandlers** = `{ [K in WebhookEventType]?: LambdaWebhookHandler }`
 
-Defined in: [server/middleware/lambda.ts:50](https://github.com/mbates/squareup/blob/ef064123281909ad68ffbd0881a9f18aa0842e3a/src/server/middleware/lambda.ts#L50)
+Defined in: [server/middleware/lambda.ts:50](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/server/middleware/lambda.ts#L50)
 
 Map of event types to their Lambda handlers
