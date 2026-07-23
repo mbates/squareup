@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.13.2**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.14.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: LambdaProxyResult
 
-Defined in: [server/middleware/lambda.ts:24](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/server/middleware/lambda.ts#L24)
+Defined in: [server/middleware/lambda.ts:24](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/server/middleware/lambda.ts#L24)
 
 API Gateway proxy result shape
 
@@ -16,7 +16,7 @@ API Gateway proxy result shape
 
 > **body**: `string`
 
-Defined in: [server/middleware/lambda.ts:27](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/server/middleware/lambda.ts#L27)
+Defined in: [server/middleware/lambda.ts:27](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/server/middleware/lambda.ts#L27)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [server/middleware/lambda.ts:27](https://github.com/mbates/squareup/
 
 > **headers**: `Record`\<`string`, `string`\>
 
-Defined in: [server/middleware/lambda.ts:26](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/server/middleware/lambda.ts#L26)
+Defined in: [server/middleware/lambda.ts:26](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/server/middleware/lambda.ts#L26)
 
 ***
 
@@ -32,4 +32,4 @@ Defined in: [server/middleware/lambda.ts:26](https://github.com/mbates/squareup/
 
 > **statusCode**: `number`
 
-Defined in: [server/middleware/lambda.ts:25](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/server/middleware/lambda.ts#L25)
+Defined in: [server/middleware/lambda.ts:25](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/server/middleware/lambda.ts#L25)

@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.13.2**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.14.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: CreatePaymentOptions
 
-Defined in: [core/types/index.ts:64](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L64)
+Defined in: [core/types/index.ts:64](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/types/index.ts#L64)
 
 Create payment options
 
@@ -16,7 +16,7 @@ Create payment options
 
 > **amount**: `number`
 
-Defined in: [core/types/index.ts:66](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L66)
+Defined in: [core/types/index.ts:66](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/types/index.ts#L66)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [core/types/index.ts:66](https://github.com/mbates/squareup/blob/a33
 
 > `optional` **autocomplete?**: `boolean`
 
-Defined in: [core/types/index.ts:72](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L72)
+Defined in: [core/types/index.ts:72](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/types/index.ts#L72)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [core/types/index.ts:72](https://github.com/mbates/squareup/blob/a33
 
 > `optional` **currency?**: [`CurrencyCode`](../type-aliases/CurrencyCode.md)
 
-Defined in: [core/types/index.ts:67](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L67)
+Defined in: [core/types/index.ts:67](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/types/index.ts#L67)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [core/types/index.ts:67](https://github.com/mbates/squareup/blob/a33
 
 > `optional` **customerId?**: `string`
 
-Defined in: [core/types/index.ts:68](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L68)
+Defined in: [core/types/index.ts:68](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/types/index.ts#L68)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [core/types/index.ts:68](https://github.com/mbates/squareup/blob/a33
 
 > `optional` **idempotencyKey?**: `string`
 
-Defined in: [core/types/index.ts:73](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L73)
+Defined in: [core/types/index.ts:73](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/types/index.ts#L73)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [core/types/index.ts:73](https://github.com/mbates/squareup/blob/a33
 
 > `optional` **note?**: `string`
 
-Defined in: [core/types/index.ts:71](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L71)
+Defined in: [core/types/index.ts:71](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/types/index.ts#L71)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [core/types/index.ts:71](https://github.com/mbates/squareup/blob/a33
 
 > `optional` **orderId?**: `string`
 
-Defined in: [core/types/index.ts:69](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L69)
+Defined in: [core/types/index.ts:69](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/types/index.ts#L69)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [core/types/index.ts:69](https://github.com/mbates/squareup/blob/a33
 
 > `optional` **referenceId?**: `string`
 
-Defined in: [core/types/index.ts:70](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L70)
+Defined in: [core/types/index.ts:70](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/types/index.ts#L70)
 
 ***
 
@@ -80,4 +80,4 @@ Defined in: [core/types/index.ts:70](https://github.com/mbates/squareup/blob/a33
 
 > **sourceId**: `string`
 
-Defined in: [core/types/index.ts:65](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/types/index.ts#L65)
+Defined in: [core/types/index.ts:65](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/types/index.ts#L65)

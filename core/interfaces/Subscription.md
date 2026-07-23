@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.13.2**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.14.0**](../../README.md)
 
 ***
 
@@ -6,7 +6,7 @@
 
 # Interface: Subscription
 
-Defined in: [core/services/subscriptions.service.ts:31](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L31)
+Defined in: [core/services/subscriptions.service.ts:31](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L31)
 
 Subscription from Square API
 
@@ -16,7 +16,7 @@ Subscription from Square API
 
 > `optional` **canceledDate?**: `string`
 
-Defined in: [core/services/subscriptions.service.ts:37](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L37)
+Defined in: [core/services/subscriptions.service.ts:37](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L37)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [core/services/subscriptions.service.ts:37](https://github.com/mbate
 
 > `optional` **cardId?**: `string`
 
-Defined in: [core/services/subscriptions.service.ts:48](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L48)
+Defined in: [core/services/subscriptions.service.ts:48](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L48)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [core/services/subscriptions.service.ts:48](https://github.com/mbate
 
 > `optional` **chargedThroughDate?**: `string`
 
-Defined in: [core/services/subscriptions.service.ts:38](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L38)
+Defined in: [core/services/subscriptions.service.ts:38](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L38)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [core/services/subscriptions.service.ts:38](https://github.com/mbate
 
 > `optional` **createdAt?**: `string`
 
-Defined in: [core/services/subscriptions.service.ts:47](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L47)
+Defined in: [core/services/subscriptions.service.ts:47](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L47)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [core/services/subscriptions.service.ts:47](https://github.com/mbate
 
 > `optional` **customerId?**: `string`
 
-Defined in: [core/services/subscriptions.service.ts:35](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L35)
+Defined in: [core/services/subscriptions.service.ts:35](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L35)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [core/services/subscriptions.service.ts:35](https://github.com/mbate
 
 > `optional` **id?**: `string`
 
-Defined in: [core/services/subscriptions.service.ts:32](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L32)
+Defined in: [core/services/subscriptions.service.ts:32](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L32)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [core/services/subscriptions.service.ts:32](https://github.com/mbate
 
 > `optional` **invoiceIds?**: `string`[]
 
-Defined in: [core/services/subscriptions.service.ts:41](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L41)
+Defined in: [core/services/subscriptions.service.ts:41](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L41)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [core/services/subscriptions.service.ts:41](https://github.com/mbate
 
 > `optional` **locationId?**: `string`
 
-Defined in: [core/services/subscriptions.service.ts:33](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L33)
+Defined in: [core/services/subscriptions.service.ts:33](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L33)
 
 ***
 
@@ -80,7 +80,7 @@ Defined in: [core/services/subscriptions.service.ts:33](https://github.com/mbate
 
 > `optional` **planVariationId?**: `string`
 
-Defined in: [core/services/subscriptions.service.ts:34](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L34)
+Defined in: [core/services/subscriptions.service.ts:34](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L34)
 
 ***
 
@@ -88,7 +88,7 @@ Defined in: [core/services/subscriptions.service.ts:34](https://github.com/mbate
 
 > `optional` **priceOverrideMoney?**: `object`
 
-Defined in: [core/services/subscriptions.service.ts:42](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L42)
+Defined in: [core/services/subscriptions.service.ts:42](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L42)
 
 #### amount?
 
@@ -104,7 +104,7 @@ Defined in: [core/services/subscriptions.service.ts:42](https://github.com/mbate
 
 > `optional` **source?**: `object`
 
-Defined in: [core/services/subscriptions.service.ts:50](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L50)
+Defined in: [core/services/subscriptions.service.ts:50](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L50)
 
 #### name?
 
@@ -116,7 +116,7 @@ Defined in: [core/services/subscriptions.service.ts:50](https://github.com/mbate
 
 > `optional` **startDate?**: `string`
 
-Defined in: [core/services/subscriptions.service.ts:36](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L36)
+Defined in: [core/services/subscriptions.service.ts:36](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L36)
 
 ***
 
@@ -124,7 +124,7 @@ Defined in: [core/services/subscriptions.service.ts:36](https://github.com/mbate
 
 > `optional` **status?**: [`SubscriptionStatus`](../type-aliases/SubscriptionStatus.md)
 
-Defined in: [core/services/subscriptions.service.ts:39](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L39)
+Defined in: [core/services/subscriptions.service.ts:39](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L39)
 
 ***
 
@@ -132,7 +132,7 @@ Defined in: [core/services/subscriptions.service.ts:39](https://github.com/mbate
 
 > `optional` **taxPercentage?**: `string`
 
-Defined in: [core/services/subscriptions.service.ts:40](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L40)
+Defined in: [core/services/subscriptions.service.ts:40](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L40)
 
 ***
 
@@ -140,7 +140,7 @@ Defined in: [core/services/subscriptions.service.ts:40](https://github.com/mbate
 
 > `optional` **timezone?**: `string`
 
-Defined in: [core/services/subscriptions.service.ts:49](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L49)
+Defined in: [core/services/subscriptions.service.ts:49](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L49)
 
 ***
 
@@ -148,4 +148,4 @@ Defined in: [core/services/subscriptions.service.ts:49](https://github.com/mbate
 
 > `optional` **version?**: `bigint`
 
-Defined in: [core/services/subscriptions.service.ts:46](https://github.com/mbates/squareup/blob/a3370a50f8aa881cfc5ad90f5282a919659930de/src/core/services/subscriptions.service.ts#L46)
+Defined in: [core/services/subscriptions.service.ts:46](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/services/subscriptions.service.ts#L46)
