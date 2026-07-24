@@ -1,10 +1,35 @@
-[**@bates-solutions/squareup API Reference v1.14.0**](../README.md)
+[**@bates-solutions/squareup API Reference v1.14.2**](../README.md)
 
 ***
 
 [@bates-solutions/squareup API Reference](../README.md) / core
 
 # core
+
+`@bates-solutions/squareup` — a TypeScript wrapper for the Square API.
+
+The package's main entrypoint. Exports `createSquareClient` / `SquareClient`
+(one service per Square domain — payments, orders, customers, catalog,
+inventory, subscriptions, invoices, loyalty, gift cards, and more), the
+normalized error hierarchy (`SquareError` + `parseSquareError`), and money /
+idempotency utilities. Webhook helpers live in the
+`@bates-solutions/squareup/server` entrypoint.
+
+## Example
+
+```ts
+import { createSquareClient } from '@bates-solutions/squareup';
+
+const square = createSquareClient({
+  accessToken: process.env.SQUARE_ACCESS_TOKEN!,
+  environment: 'sandbox',
+});
+const payment = await square.payments.create({
+  sourceId: 'cnon:card-nonce',
+  amount: 1000,
+  currency: 'USD',
+});
+```
 
 ## Classes
 

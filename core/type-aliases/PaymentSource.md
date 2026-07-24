@@ -1,4 +1,4 @@
-[**@bates-solutions/squareup API Reference v1.14.0**](../../README.md)
+[**@bates-solutions/squareup API Reference v1.14.2**](../../README.md)
 
 ***
 
@@ -8,7 +8,7 @@
 
 > **PaymentSource** = `string`
 
-Defined in: [core/types/index.ts:15](https://github.com/mbates/squareup/blob/449713f7707f00c7f34a87a330a88fd0868782c8/src/core/types/index.ts#L15)
+Defined in: [core/types/index.ts:15](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/types/index.ts#L15)
 
 Payment source identifier
 Can be a card nonce, card ID, or digital wallet token
