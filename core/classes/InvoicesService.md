@@ -6,7 +6,7 @@
 
 # Class: InvoicesService
 
-Defined in: [core/services/invoices.service.ts:110](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L110)
+Defined in: [core/services/invoices.service.ts:145](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L145)
 
 Invoices service for managing Square invoices
 
@@ -32,7 +32,7 @@ await square.invoices.publish(invoice.id, invoice.version);
 
 > **new InvoicesService**(`client`, `defaultLocationId?`, `defaultCurrency?`): `InvoicesService`
 
-Defined in: [core/services/invoices.service.ts:111](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L111)
+Defined in: [core/services/invoices.service.ts:146](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L146)
 
 #### Parameters
 
@@ -58,7 +58,7 @@ Defined in: [core/services/invoices.service.ts:111](https://github.com/mbates/sq
 
 > **cancel**(`invoiceId`, `version`): `Promise`\<`Invoice`\>
 
-Defined in: [core/services/invoices.service.ts:278](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L278)
+Defined in: [core/services/invoices.service.ts:317](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L317)
 
 Cancel an invoice
 
@@ -94,7 +94,7 @@ const invoice = await square.invoices.cancel('INV_123', 1);
 
 > **create**(`options`): `Promise`\<`Invoice`\>
 
-Defined in: [core/services/invoices.service.ts:137](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L137)
+Defined in: [core/services/invoices.service.ts:172](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L172)
 
 Create a draft invoice
 
@@ -133,7 +133,7 @@ const invoice = await square.invoices.create({
 
 > **delete**(`invoiceId`, `version`): `Promise`\<`void`\>
 
-Defined in: [core/services/invoices.service.ts:364](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L364)
+Defined in: [core/services/invoices.service.ts:409](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L409)
 
 Delete a draft invoice
 
@@ -167,7 +167,7 @@ await square.invoices.delete('INV_123', 0);
 
 > **get**(`invoiceId`): `Promise`\<`Invoice`\>
 
-Defined in: [core/services/invoices.service.ts:221](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L221)
+Defined in: [core/services/invoices.service.ts:260](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L260)
 
 Get an invoice by ID
 
@@ -197,7 +197,7 @@ const invoice = await square.invoices.get('INV_123');
 
 > **publish**(`invoiceId`, `version`): `Promise`\<`Invoice`\>
 
-Defined in: [core/services/invoices.service.ts:248](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L248)
+Defined in: [core/services/invoices.service.ts:287](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L287)
 
 Publish (send) an invoice
 
@@ -234,7 +234,7 @@ console.log(`Invoice sent: ${invoice.publicUrl}`);
 
 > **search**(`options?`): `Promise`\<\{ `cursor?`: `string`; `data`: `Invoice`[]; \}\>
 
-Defined in: [core/services/invoices.service.ts:385](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L385)
+Defined in: [core/services/invoices.service.ts:430](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L430)
 
 Search for invoices
 
@@ -280,7 +280,7 @@ const results = await square.invoices.search({
 
 > **update**(`invoiceId`, `version`, `options`): `Promise`\<`Invoice`\>
 
-Defined in: [core/services/invoices.service.ts:310](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L310)
+Defined in: [core/services/invoices.service.ts:349](https://github.com/mbates/squareup/blob/main/src/core/services/invoices.service.ts#L349)
 
 Update an invoice
 
@@ -301,6 +301,10 @@ Invoice version (for optimistic concurrency)
 ##### options
 
 Update options
+
+###### acceptedPaymentMethods?
+
+`AcceptedPaymentMethodsInput`
 
 ###### description?
 
