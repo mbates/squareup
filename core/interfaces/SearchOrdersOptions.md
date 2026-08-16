@@ -6,7 +6,7 @@
 
 # Interface: SearchOrdersOptions
 
-Defined in: [core/types/index.ts:136](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/types/index.ts#L136)
+Defined in: [core/types/index.ts:149](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/types/index.ts#L149)
 
 Search orders options
 
@@ -16,7 +16,7 @@ Search orders options
 
 > `optional` **cursor?**: `string`
 
-Defined in: [core/types/index.ts:138](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/types/index.ts#L138)
+Defined in: [core/types/index.ts:151](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/types/index.ts#L151)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [core/types/index.ts:138](https://github.com/mbates/squareup/blob/e6
 
 > `optional` **limit?**: `number`
 
-Defined in: [core/types/index.ts:139](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/types/index.ts#L139)
+Defined in: [core/types/index.ts:152](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/types/index.ts#L152)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [core/types/index.ts:139](https://github.com/mbates/squareup/blob/e6
 
 > `optional` **locationIds?**: `string`[]
 
-Defined in: [core/types/index.ts:137](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/types/index.ts#L137)
+Defined in: [core/types/index.ts:150](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/types/index.ts#L150)
 
 ***
 
@@ -40,4 +40,4 @@ Defined in: [core/types/index.ts:137](https://github.com/mbates/squareup/blob/e6
 
 > `optional` **query?**: `SearchOrdersQuery`
 
-Defined in: [core/types/index.ts:140](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/types/index.ts#L140)
+Defined in: [core/types/index.ts:153](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/types/index.ts#L153)

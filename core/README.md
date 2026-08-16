@@ -106,10 +106,15 @@ const payment = await square.payments.create({
 - [SubscriptionCadence](type-aliases/SubscriptionCadence.md)
 - [SubscriptionStatus](type-aliases/SubscriptionStatus.md)
 
+## Variables
+
+- [CURRENCY\_CODES](variables/CURRENCY_CODES.md)
+
 ## Functions
 
 - [createIdempotencyKey](functions/createIdempotencyKey.md)
 - [createSquareClient](functions/createSquareClient.md)
 - [formatMoney](functions/formatMoney.md)
 - [fromCents](functions/fromCents.md)
+- [isCurrencyCode](functions/isCurrencyCode.md)
 - [toCents](functions/toCents.md)

@@ -6,7 +6,7 @@
 
 # Class: SquareClient
 
-Defined in: [core/client.ts:60](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L60)
+Defined in: [core/client.ts:62](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L62)
 
 Main Square client wrapper
 
@@ -32,7 +32,7 @@ const payment = await square.payments.create({
 
 > **new SquareClient**(`config`): `SquareClient`
 
-Defined in: [core/client.ts:78](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L78)
+Defined in: [core/client.ts:80](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L80)
 
 #### Parameters
 
@@ -50,7 +50,7 @@ Defined in: [core/client.ts:78](https://github.com/mbates/squareup/blob/e68db3ef
 
 > `readonly` **catalog**: [`CatalogService`](CatalogService.md)
 
-Defined in: [core/client.ts:70](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L70)
+Defined in: [core/client.ts:72](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L72)
 
 ***
 
@@ -58,7 +58,7 @@ Defined in: [core/client.ts:70](https://github.com/mbates/squareup/blob/e68db3ef
 
 > `readonly` **checkout**: [`CheckoutService`](CheckoutService.md)
 
-Defined in: [core/client.ts:75](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L75)
+Defined in: [core/client.ts:77](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L77)
 
 ***
 
@@ -66,7 +66,7 @@ Defined in: [core/client.ts:75](https://github.com/mbates/squareup/blob/e68db3ef
 
 > `readonly` **customerGroups**: [`CustomerGroupsService`](CustomerGroupsService.md)
 
-Defined in: [core/client.ts:69](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L69)
+Defined in: [core/client.ts:71](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L71)
 
 ***
 
@@ -74,7 +74,7 @@ Defined in: [core/client.ts:69](https://github.com/mbates/squareup/blob/e68db3ef
 
 > `readonly` **customers**: [`CustomersService`](CustomersService.md)
 
-Defined in: [core/client.ts:68](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L68)
+Defined in: [core/client.ts:70](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L70)
 
 ***
 
@@ -82,7 +82,7 @@ Defined in: [core/client.ts:68](https://github.com/mbates/squareup/blob/e68db3ef
 
 > `readonly` **giftCards**: [`GiftCardsService`](GiftCardsService.md)
 
-Defined in: [core/client.ts:76](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L76)
+Defined in: [core/client.ts:78](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L78)
 
 ***
 
@@ -90,7 +90,7 @@ Defined in: [core/client.ts:76](https://github.com/mbates/squareup/blob/e68db3ef
 
 > `readonly` **inventory**: [`InventoryService`](InventoryService.md)
 
-Defined in: [core/client.ts:71](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L71)
+Defined in: [core/client.ts:73](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L73)
 
 ***
 
@@ -98,7 +98,7 @@ Defined in: [core/client.ts:71](https://github.com/mbates/squareup/blob/e68db3ef
 
 > `readonly` **invoices**: [`InvoicesService`](InvoicesService.md)
 
-Defined in: [core/client.ts:73](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L73)
+Defined in: [core/client.ts:75](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L75)
 
 ***
 
@@ -106,7 +106,7 @@ Defined in: [core/client.ts:73](https://github.com/mbates/squareup/blob/e68db3ef
 
 > `readonly` **loyalty**: [`LoyaltyService`](LoyaltyService.md)
 
-Defined in: [core/client.ts:74](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L74)
+Defined in: [core/client.ts:76](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L76)
 
 ***
 
@@ -114,7 +114,7 @@ Defined in: [core/client.ts:74](https://github.com/mbates/squareup/blob/e68db3ef
 
 > `readonly` **orders**: [`OrdersService`](OrdersService.md)
 
-Defined in: [core/client.ts:67](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L67)
+Defined in: [core/client.ts:69](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L69)
 
 ***
 
@@ -122,7 +122,7 @@ Defined in: [core/client.ts:67](https://github.com/mbates/squareup/blob/e68db3ef
 
 > `readonly` **payments**: [`PaymentsService`](PaymentsService.md)
 
-Defined in: [core/client.ts:66](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L66)
+Defined in: [core/client.ts:68](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L68)
 
 ***
 
@@ -130,7 +130,7 @@ Defined in: [core/client.ts:66](https://github.com/mbates/squareup/blob/e68db3ef
 
 > `readonly` **subscriptions**: [`SubscriptionsService`](SubscriptionsService.md)
 
-Defined in: [core/client.ts:72](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L72)
+Defined in: [core/client.ts:74](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L74)
 
 ## Accessors
 
@@ -140,7 +140,7 @@ Defined in: [core/client.ts:72](https://github.com/mbates/squareup/blob/e68db3ef
 
 > **get** **environment**(): [`SquareEnvironment`](../type-aliases/SquareEnvironment.md)
 
-Defined in: [core/client.ts:126](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L126)
+Defined in: [core/client.ts:140](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L140)
 
 Get the current environment
 
@@ -156,7 +156,7 @@ Get the current environment
 
 > **get** **locationId**(): `string` \| `undefined`
 
-Defined in: [core/client.ts:119](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L119)
+Defined in: [core/client.ts:133](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L133)
 
 Get the current location ID
 
@@ -172,7 +172,7 @@ Get the current location ID
 
 > **get** **sdk**(): `SquareClient`
 
-Defined in: [core/client.ts:112](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/client.ts#L112)
+Defined in: [core/client.ts:126](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/client.ts#L126)
 
 Get the underlying Square SDK client
 Use this for advanced operations not covered by the wrapper

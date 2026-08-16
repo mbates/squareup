@@ -8,7 +8,7 @@
 
 > **GiftCardState** = `"PENDING"` \| `"ACTIVE"` \| `"DEACTIVATED"` \| `"BLOCKED"` \| `"UNLINKED_OWNER"`
 
-Defined in: [core/services/gift-cards.service.ts:25](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/services/gift-cards.service.ts#L25)
+Defined in: [core/services/gift-cards.service.ts:25](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/services/gift-cards.service.ts#L25)
 
 Lifecycle state of a gift card.
 

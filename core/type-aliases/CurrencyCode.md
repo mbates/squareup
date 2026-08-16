@@ -6,8 +6,8 @@
 
 # Type Alias: CurrencyCode
 
-> **CurrencyCode** = `"USD"` \| `"CAD"` \| `"GBP"` \| `"EUR"` \| `"AUD"` \| `"JPY"`
+> **CurrencyCode** = *typeof* [`CURRENCY_CODES`](../variables/CURRENCY_CODES.md)\[`number`\]
 
-Defined in: [core/types/index.ts:9](https://github.com/mbates/squareup/blob/e68db3ef52af57ddb49e3a70a5caa48fda64cc36/src/core/types/index.ts#L9)
+Defined in: [core/types/index.ts:15](https://github.com/mbates/squareup/blob/a11d73be94c41c40737dd6a6343798e7b8db84de/src/core/types/index.ts#L15)
 
 Currency codes supported by Square
